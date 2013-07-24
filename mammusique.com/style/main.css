@@ -1,0 +1,124 @@
+/* Style pour la page de bienvenue */
+
+#logos {
+    left: 50%;
+    margin-left: -321px;
+    position: absolute;
+    top: 439px;
+}
+
+#logos img {
+	margin-right: 22px;
+}
+
+/*partie mySpace */
+#bienvenue_myspace {
+	position: relative;
+	width: 700px;
+	height: 140px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-right: 170px;
+}
+
+img#myspace_fleches {
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	margin-top: 40px;
+}
+
+#bienvenue_myspace_text {
+	width: 400px;
+	color: white;
+	font-family: "Palatino";
+	font-size: 18px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+#bienvenue_myspace_text_top {
+	position: absolute;
+	top: 0px;
+	height: 70px;
+	width: 400px;
+	padding-top: 37px;
+}
+
+#bienvenue_myspace_text_bottom {
+	position: absolute;
+	bottom: 0px;
+	width: 400px;
+	height: 70px;
+}
+
+a#my_space_1 {
+	display: block;
+	text-decoration: none;
+	border: none;
+	position: absolute;
+	padding-top: 5px;
+	left: 0;
+	top: 0;
+}
+
+a#my_space_2 {
+	display: block;
+	text-decoration: none;
+	border: none;
+	position: absolute;
+	padding: 5px;
+	left: 150px;
+	top: 0;
+}
+
+#bienvenue_myspace_img_fleches {
+	position: absolute;
+	left: 400px;
+	width: 50px;
+	height: 135px;
+}
+
+#bienvenue_myspace_album_imgs {
+	position: absolute;
+	left: 450px;
+	width: 250px;
+	height: 135px;
+}
+
+a#bienvenue_melodie_extra_teaser {
+	display: block;
+	text-decoration: none;
+	border: none;
+	position: absolute;
+	padding: 5px;
+	left: 150px;
+	top: 0;
+}
+
+a#bienvenue_lien_chaine_youtube {
+	display: block;
+	color: white;
+	text-decoration: none;
+	border: 1px red solid;
+	font-size: 15px;
+	font-family: verdana, arial;
+	padding-left: 25px;
+}
+
+.align_right {
+	text-align: right;
+	padding-right: 20px;
+}
+
+.bordered {
+	border: solid white 1px;
+}
+
+.dynamic_bordered:hover {
+	border: solid white 2px;
+}
+
+/*Fin style page bienvenue*/
+
