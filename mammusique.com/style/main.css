@@ -1,14 +1,13 @@
 /* Style pour la page de bienvenue */
 
 #logos {
-    left: 50%;
-    margin-left: -321px;
     position: absolute;
-    top: 439px;
+    left:17%;
+    top: 150px;
 }
 
 #logos img {
-	margin-right: 22px;
+    width: 400px;
 }
 
 /*partie mySpace */
