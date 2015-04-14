@@ -31,18 +31,37 @@ img#myspace_fleches {
 #bienvenue_myspace_text {
 	width: 400px;
 	color: white;
-	font-family: "Palatino";
+	font-family: "Palatino", sans-serif;
 	font-size: 18px;
 	font-style: italic;
 	font-weight: bold;
 }
 
-#bienvenue_myspace_text_top {
+#crowd_funding {
+	display: block;
 	position: absolute;
-	top: 0px;
-	height: 70px;
-	width: 400px;
-	padding-top: 37px;
+	font-size: large;
+	top: 5px;
+	left: 158px;
+	height: 136px;
+	width: 271px;
+	padding-top: 4px;
+	padding-left: 39px;
+	background-color: lightgray;
+	color: firebrick;
+	text-align: left;
+}
+
+#main_table {
+	border-collapse: collapse;
+}
+
+#ulule_title {
+	font-weight: bolder;
+}
+
+#ulule_content {
+
 }
 
 #bienvenue_myspace_text_bottom {
