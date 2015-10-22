@@ -1,5 +1,4 @@
 <title>Concerts</title>
-<!-- fake modif -->
 <body bgcolor="#C9935E">
 <div align="center"></div>
 <table width="688" border="0" cellpadding="0" cellspacing="0">
@@ -42,16 +41,13 @@
               </tr>
             </table>
             <br> 
-            <table height="560" width="773">
+            <table height="398" width="773">
               <tr> 
                 <td width="92" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                 <td width="45" height="18" valign="top" bgcolor="#000000"> <div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">HEURE</font></div></td>
                 <td width="225" height="18" valign="top" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">VILLE</font></td>
                 <td width="177" height="18" valign="top" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">LIEU</font></td>
                 <td width="210" valign="top" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">CONTEXTE</font></td>
-              </tr>
-              <tr bordercolor="#FFFFFF">
-                <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
               </tr>
               <tr bordercolor="#FFFFFF">
                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
@@ -98,6 +94,19 @@
                 </div></td>
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">12 novembre 2015</font></td>
+                <td height="26" bgcolor="#666666"><div align="center">
+                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h30</font></div>
+                </div></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">STRASBOURG</font></td>
+                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>AU CAMIONNEUR</strong><br>
+                  14, rue Georges Wodli, 67000.<br>
+                  Tel: 
+                  (33) 3 88 32 12 60<br>
+                </font></p></td>
+                <td>&nbsp;</td>
+              </tr>
+              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">13 novembre 2015</font></td>
                 <td height="26" bgcolor="#666666"><div align="center">
                   <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h30</font></div>
@@ -109,6 +118,24 @@
                   (33) 3 82 85 50 71<br>
                 </font></p></td>
                 <td>&nbsp;</td>
+              </tr>
+              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29"
+              >
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">20 novembre 2015</font></td>
+                <td height="26" bgcolor="#BE2A29"
+                ><div align="center">
+                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h30</font></div>
+                </div></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CHAMBLY</font></td>
+                <td height="26" bgcolor="#BE2A29"
+                ><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>L'ESPRIT GOURMET<br>
+                  </strong>Z.A.C. des Portes de l'Oise<br>
+                  12, rue L&eacute;onard de Vinci,
+                  60230. <br>
+                  Tel : (33) 9 73 13 95 54</font></p></td>
+                <td><div align="left">
+                  <p><em><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Soir&eacute;e sp&eacute;ciale Beaujolais Nouveau.</strong></font></em></p>
+                </div></td>
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">26 novembre 2015</font></td>
