@@ -39,115 +39,13 @@
               </tr>
             </table>
             <br> 
-            <table height="560" width="773">
+            <table height="398" width="773">
               <tr> 
                 <td width="105" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                 <td width="45" height="18" valign="top" bgcolor="#000000"><div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">TIME</font></div></td>
                 <td width="200" height="18" valign="top" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">TOWN</font></td>
                 <td width="184" height="18" valign="top" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">PLACE</font></td>
                 <td width="205" valign="top" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">CONTEXT</font></td>
-              </tr>
-              <tr bordercolor="#FFFFFF">
-                <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">October 5tth 2015</font></td>
-                <td height="26" bgcolor="#666666"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">SAINT-JUST-EN-CHAUSS&Eacute;E</font></td>
-                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>SALLE DES F&Ecirc;TES</strong></font><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><br>
-                  Rue de Paris, 60590.<br>
-                  Tel : (33) 3 44 06 08 22 <br>
-                </font></p></td>
-                <td><div align="left">
-                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&quot;L'Oise en Sc&egrave;nes&quot; Tour.</strong></font></p>
-                </div></td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">October 6th 2015</font></td>
-                <td height="26" bgcolor="#666666"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">LALANDE-EN-SON</font></td>
-                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>SALLE MULTIFONCTIONS</strong><br>
-                  16, rue du Tour de Ville, 60130.<br>
-                  Tel : (33) 3 44 06 08 22 <br>
-                </font></p></td>
-                <td><div align="left">
-                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&quot;L'Oise en Sc&egrave;nes&quot; Tour.</strong></font></p>
-                </div></td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">October 7tth 2015</font></td>
-                <td height="26" bgcolor="#666666"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">SAINT-SULPICE</font></td>
-                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>SALLE DES F&Ecirc;TES</strong><br>
-                  29, rue de la Valée, 60430.<br>
-                  Tel : (33) 3 44 06 08 22 <br>
-                </font></p></td>
-                <td><div align="left">
-                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&quot;L'Oise en Sc&egrave;nes&quot; Tour.</strong></font></p>
-                </div></td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">October 8th 2015</font></td>
-                <td height="26" bgcolor="#666666"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">LIANCOURT-SAINT-PIERRE</font></td>
-                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>SALLE DES F&Ecirc;TES</strong><br>
-                  27, rue de Chaumont, 60240.<br>
-                  Tel : (33) 3 44 06 08 22<br>
-                </font></p></td>
-                <td><div align="left">
-                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&quot;L'Oise en Sc&egrave;nes&quot; Tour.</strong></font></p>
-                </div></td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">October 9tth 2015</font></td>
-                <td height="26" bgcolor="#666666"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">SONGEONS</font></td>
-                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>SALLE CULTURELLE</strong><br>
-                  17, impasse du Petit Pont, 60380.<br>
-                  Tel : (33) 3 44 06 08 22 <br>
-                </font></p></td>
-                <td><div align="left">
-                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&quot;L'Oise en Sc&egrave;nes&quot; Tour.</strong></font></p>
-                </div></td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">October 10tth 2015</font></td>
-                <td height="26" bgcolor="#666666"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">ERCUIS</font></td>
-                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>SALLE MULTIFONCTIONS</strong><br>
-                  Rue des Tilleuls, 60530.<br>
-                  Tel : (33) 3 44 06 08 22 <br>
-                </font></p></td>
-                <td><div align="left">
-                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&quot;L'Oise en Sc&egrave;nes&quot; Tour.</strong></font></p>
-                </div></td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#246A9A">
-                <td height="26" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">October 16th 2015</font></td>
-                <td height="26" bgcolor="#BE2A29"><div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></div></td>
-                <td height="26" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">AUVERS-SUR-OISE</font></td>
-                <td height="26" bgcolor="#BE2A29"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>SOUS LE PORCHE</strong><br>
-                  35, rue du Pois, 95430.<br>
-                  Tel: 
-                  (33) 1 30 36 16 50</font><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><br>
-                  </font></p></td>
-                <td bgcolor="#BE2A29"><div align="left">
-                  <div align="left"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>MAM &quot;Nouch' Swing&quot;, featuring Fran&ccedil;ois H&eacute;gron (gipsy guitar)</strong>.<br>
-Dinner concert.</font><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><br>
-                  </font></div>
-                </div></td>
               </tr>
               <tr bordercolor="#FFFFFF">
                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
@@ -194,6 +92,19 @@ Dinner concert.</font><font color="#FFFFFF" size="1" face="Arial, Helvetica, san
                 </div></td>
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">November 12th 2015</font></td>
+                <td height="26" bgcolor="#666666"><div align="center">
+                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:30 pm</font></div>
+                </div></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">STRASBOURG</font></td>
+                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>AU CAMIONNEUR</strong><br>
+                  14, rue Georges Wodli, 67000.<br>
+                  Tel: 
+                  (33) 3 88 32 12 60<br>
+                </font></p></td>
+                <td>&nbsp;</td>
+              </tr>
+              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">November 13th 2015</font></td>
                 <td height="26" bgcolor="#666666"><div align="center">
                   <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:30 pm</font></div></div></td>
@@ -204,6 +115,24 @@ Dinner concert.</font><font color="#FFFFFF" size="1" face="Arial, Helvetica, san
                   (33) 3 82 85 50 71<br>
                 </font></p></td>
                 <td>&nbsp;</td>
+              </tr>
+              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29"
+              >
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">November 20th 2015</font></td>
+                <td height="26" bgcolor="#BE2A29"
+                ><div align="center">
+                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:30 pm</font></div>
+                </div></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CHAMBLY</font></td>
+                <td height="26" bgcolor="#BE2A29"
+                ><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>L'ESPRIT GOURMET<br>
+                  </strong>Z.A.C. des Portes de l'Oise<br>
+                  12, rue L&eacute;onard de Vinci,
+                  60230. <br>
+                  Tel : (33) 9 73 13 95 54</font></p></td>
+                <td><div align="left">
+                  <p><em><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Beaujolais Nouveau 's Special.</strong></font></em></p>
+                </div></td>
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">November 26th 2015</font></td>
