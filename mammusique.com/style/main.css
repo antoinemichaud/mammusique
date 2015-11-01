@@ -37,7 +37,7 @@ img#myspace_fleches {
 	font-weight: bold;
 }
 
-#crowd_funding {
+/*#crowd_funding {
 	display: block;
 	position: absolute;
 	font-size: large;
@@ -50,7 +50,7 @@ img#myspace_fleches {
 	background-color: lightgray;
 	color: firebrick;
 	text-align: left;
-}
+}*/
 
 #main_table {
 	border-collapse: collapse;
@@ -165,6 +165,25 @@ a#bienvenue_lien_chaine_youtube {
 .dynamic_bordered:hover {
 	border: solid white 2px;
 }
+
+#share {
+    position: absolute;
+    left: 39%;
+    top: 210px;
+}
+
+.share_logo img {
+	height: 50px;
+	margin: 10px;
+}
+
+#twitter_logo img {
+	background-color: #55acee;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+
 
 /*Fin style page bienvenue*/
 
