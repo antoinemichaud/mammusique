@@ -3,7 +3,7 @@
 #logos {
     position: absolute;
     left:17%;
-    top: 150px;
+    top: 200px;
 }
 
 #logos img {
@@ -59,6 +59,7 @@ img#myspace_fleches {
 #bienvenue_myspace_album_imgs {
 	position: absolute;
 	left: 150px;
+	top: -13px;
 	width: 250px;
 	height: 135px;
 }
@@ -145,6 +146,15 @@ a#bienvenue_lien_chaine_youtube {
 
 .bordered {
 	border: solid white 1px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+
+.bordered img {
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
 }
 
 .dynamic_bordered:hover {
@@ -152,9 +162,9 @@ a#bienvenue_lien_chaine_youtube {
 }
 
 #share {
-    position: absolute;
-    left: 39%;
-    top: 210px;
+    position: relative;
+    left: 179px;
+    top: -55px;
 }
 
 .share_logo img {
