@@ -41,114 +41,13 @@
               </tr>
             </table>
             <br> 
-            <table height="398" width="773">
+            <table height="258" width="773">
               <tr> 
                 <td width="92" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                 <td width="45" height="18" valign="top" bgcolor="#000000"> <div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">HEURE</font></div></td>
                 <td width="225" height="18" valign="top" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">VILLE</font></td>
                 <td width="177" height="18" valign="top" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">LIEU</font></td>
                 <td width="210" valign="top" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">CONTEXTE</font></td>
-              </tr>
-              <tr bordercolor="#FFFFFF">
-                <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">5 novembre 2015</font></td>
-                <td height="26" bgcolor="#666666"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h00</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">TERGNIER</font></td>
-                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CENTRE CULTUREL FRAN&Ccedil;OIS MITTERRAND<br>
-                  </strong>7, rue Marceau, 02700. <br>
-                  Tel : (33) 3 23 40 24 40<br>
-                </font></p></td>
-                <td><div align="left">
-                  <p>&nbsp;</p>
-                </div></td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">6 novembre 2015</font></td>
-                <td height="26" bgcolor="#666666"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h30</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">AUVERS-SUR-OISE</font></td>
-                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>SOUS LE PORCHE</strong><br>
-                  35, rue du Pois, 95430.<br>
-                  Tel: 
-                  (33) 1 30 36 16 50<br>
-                </font></p></td>
-                <td>&nbsp;</td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">11 novembre 2015</font></td>
-                <td height="26" bgcolor="#666666"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h30</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">PARIS</font></td>
-                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>POP UP DU LABEL<br>
-                  </strong>14, rue Abel, 75012. <br>
-                  Tel : (33) 1 77 11 04 24<br>
-                </font></p></td>
-                <td><div align="left">
-                  <p>&nbsp;</p>
-                </div></td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">12 novembre 2015</font></td>
-                <td height="26" bgcolor="#666666"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h30</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">STRASBOURG</font></td>
-                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>AU CAMIONNEUR</strong><br>
-                  14, rue Georges Wodli, 67000.<br>
-                  Tel: 
-                  (33) 3 88 32 12 60<br>
-                </font></p></td>
-                <td>&nbsp;</td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">13 novembre 2015</font></td>
-                <td height="26" bgcolor="#666666"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h30</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">NILVANGE</font></td>
-                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LE GUEULARD</strong> (caf&eacute; culturel)<br>
-                  14, rue Cl&eacute;menceau, 57240.<br>
-                  Tel: 
-                  (33) 3 82 85 50 71<br>
-                </font></p></td>
-                <td>&nbsp;</td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29"
-              >
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">20 novembre 2015</font></td>
-                <td height="26" bgcolor="#BE2A29"
-                ><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h30</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CHAMBLY</font></td>
-                <td height="26" bgcolor="#BE2A29"
-                ><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>L'ESPRIT GOURMET<br>
-                  </strong>Z.A.C. des Portes de l'Oise<br>
-                  12, rue L&eacute;onard de Vinci,
-                  60230. <br>
-                  Tel : (33) 9 73 13 95 54</font></p></td>
-                <td><div align="left">
-                  <p><em><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Soir&eacute;e sp&eacute;ciale Beaujolais Nouveau.</strong></font></em></p>
-                </div></td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">26 novembre 2015</font></td>
-                <td height="26" bgcolor="#666666"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h30</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">PARIS</font></td>
-                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LA BELLEVILLOISE<br>
-                  </strong>19-21, rue Boyer, 75020. <br>
-                  Tel : (33) 1 46 36 07 07</font></p></td>
-                <td><div align="left">
-                  <p>&nbsp;</p>
-                </div></td>
               </tr>
               <tr bordercolor="#FFFFFF">
                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
@@ -163,7 +62,36 @@
                   47, rue de l'&Eacute;galit&eacute;, 92130.<br>
                   Tel : (33) 1 46 38 21 05<br>
                 </font></p></td>
-                <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Spectacle jeune public.</font></td>
+                <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>Festival &quot;Chorus des Hauts-de-Seine&quot;.</em></strong></font></td>
+              </tr>
+              <tr bordercolor="#FFFFFF">
+                <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+              </tr>
+              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">10 mai 2016</font></td>
+                <td height="26" bgcolor="#666666"><div align="center">
+                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">19h00</font></div>
+                </div></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">PARIS</font></td>
+                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>ÉCOLE ATLA</strong><br>
+                  12, villa de Guelma, 75018.<br>
+                  Tel: 
+                  (33) 1 44 92 96 36<br>
+                </font></p></td>
+                <td>&nbsp;</td>
+              </tr>
+              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">11 mai 2016</font></td>
+                <td height="26" bgcolor="#666666"><div align="center">
+                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h00</font></div>
+                </div></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">BRUGES</font></td>
+                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CULTUURCENTRUM BRUGGE</strong><br>
+                  Sint-Jakobstraat 20-26, 8000.<br>
+                  Tel: 
+                  (32) 50 44 30 54<br>
+                </font></p></td>
+                <td><em><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Festival &quot;Airbag&quot;.</strong></font></em></td>
               </tr>
               <tr bordercolor="#FFFFFF">
                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
