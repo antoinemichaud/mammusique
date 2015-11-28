@@ -73,7 +73,7 @@
                   <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">19h00</font></div>
                 </div></td>
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">PARIS</font></td>
-                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>ÉCOLE ATLA</strong><br>
+                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&Eacute;COLE ATLA</strong><br>
                   12, villa de Guelma, 75018.<br>
                   Tel: 
                   (33) 1 44 92 96 36<br>
