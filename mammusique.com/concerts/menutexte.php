@@ -57,9 +57,9 @@
                 <td height="26" bgcolor="#BE2A29"><div align="center">
                   <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h30</font></div>
                 </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">COYE-LA-FORÊT</font></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">COYE-LA-FOR&Ecirc;T</font></td>
                 <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>L'&Eacute;TANG D'ART</strong><br>
-                  Route forestière des Étangs de Cormelles, 60580.<br>
+                  Route foresti&egrave;re des &Eacute;tangs de Cormelles, 60580.<br>
                   Tel : (33) 3 44 57 21 39<br>
                 </font></p></td>
                 <td>&nbsp;</td>
@@ -68,13 +68,13 @@
                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">12 février 2016</font></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">12 f&eacute;vrier 2016</font></td>
                 <td height="26" bgcolor="#BE2A29"><div align="center">
                   <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h30</font></div>
                 </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">COYE-LA-FORÊT</font></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">COYE-LA-FOR&Ecirc;T</font></td>
                 <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>L'&Eacute;TANG D'ART</strong><br>
-                  Route forestière des Étangs de Cormelles, 60580.<br>
+                  Route foresti&egrave;re des &Eacute;tangs de Cormelles, 60580.<br>
                   Tel : (33) 3 44 57 21 39<br>
                 </font></p></td>
                 <td>&nbsp;</td>
