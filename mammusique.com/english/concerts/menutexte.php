@@ -55,9 +55,9 @@
                 <td height="26" bgcolor="#BE2A29"><div align="center">
                   <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:30 pm</font></div>
                 </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">COYE-LA-FORÊT</font></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">COYE-LA-FOR&Ecirc;T</font></td>
                 <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>L'&Eacute;TANG D'ART</strong><br>
-                  Route forestière des Étangs de Cormelles, 60580.<br>
+                  Route foresti&egrave;re des &Eacute;tangs de Cormelles, 60580.<br>
                   Tel : (33) 3 44 57 21 39<br>
                 </font></p></td>
                 <td>&nbsp;</td>
@@ -70,9 +70,9 @@
                 <td height="26" bgcolor="#BE2A29"><div align="center">
                   <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:30 pm</font></div>
                 </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">COYE-LA-FORÊT</font></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">COYE-LA-FOR&Ecirc;T</font></td>
                 <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>L'&Eacute;TANG D'ART</strong><br>
-                  Route forestière des Étangs de Cormelles, 60580.<br>
+                  Route foresti&egrave;re des &Eacute;tangs de Cormelles, 60580.<br>
                   Tel : (33) 3 44 57 21 39<br>
                 </font></p></td>
                 <td>&nbsp;</td>
