@@ -99,8 +99,7 @@
                 </div></td>
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">NOGENT-SUR-OISE</font></td>
                 <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>S&Eacute;SON</strong><br>
-                  C.A.I.S. SARCUS<br>
-                  9, rue Ronsard,
+                  C.A.I.S. SARCUS, 9, rue Ronsard,
 60180.<br>
                   Tel : (33) 3 44 29 48 41<br>
                 </font></p></td>
@@ -128,7 +127,7 @@
                 </div></td>
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">ERCUIS</font></td>
                 <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>SALLE MULTIFONCTIONS</strong><br>
-                  Rue dees Tilleuls, 60530.<br>
+                  Rue des Tilleuls, 60530.<br>
                   Tel : (33) 3 44 26 71 69<br>
                 </font></p></td>
                 <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Bal des Anciens</strong></font></td>
