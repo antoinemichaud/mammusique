@@ -174,7 +174,7 @@
                 <td>&nbsp;</td>
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">April 20th 2016</font></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">April 21st 2016</font></td>
                 <td height="26" bgcolor="#666666"><div align="center">
                   <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></div>
                 </div></td>
