@@ -128,7 +128,7 @@
                   Tel : (33) 1 30 36 16 50<br>
                 </font></p></td>
                 <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>&quot;Quebec-Dublin Special&quot;</em></strong></font><br>
-                <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">D&icirc;ner-spectacle</font></td>
+                <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Dinner show</font></td>
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">March 12th 2016</font></td>
