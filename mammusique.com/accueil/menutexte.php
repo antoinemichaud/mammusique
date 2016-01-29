@@ -35,8 +35,8 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
     Fran&ccedil;ois Parisi (&quot;Jazz in my Musette&quot;),</font> <font size="2">recr&eacute;ent</font><font face="Arial, Helvetica, sans-serif" size="2"> 
     Brassens sans guitare ni moustache avec la chanteuse Gu&eacute;na&euml;lle, 
     montent trois ambitieux projets pluridisciplinaires: &quot;Meddled Times&quot; 
-    (avec Fab, musicien et ing&eacute;nieur du son new-yorkais), &quot;New Time&quot; 
-    (avec Norbert &quot;Touski&quot; Lucarain, &agrave; la human beat-box et aux claviers!) tous 
+    (avec Fab, remarquable musicien et ing&eacute;nieur du son franco-new-yorkais), &quot;New Time&quot; 
+    (avec le spectaculaire Norbert &quot;Touski&quot; Lucarain, &agrave; la human beat-box et aux claviers!) tous 
     deux avec machines et VJing, puis &quot;M&eacute;lodies Extras Ordinaires&quot; 
     (avec la com&eacute;dienne C&eacute;line Caussimon), conte musical pour grands 
     et petits, avec ombres chinoises et vid&eacute;o.</font></font><font face="Arial, Helvetica, sans-serif" size="1"><font face="Arial, Helvetica, sans-serif" size="2"> En 2015, ils créent un spectacle et enregistrent un album, &quot;Human Swing Box&quot;, toujours avec Touski.<br>
