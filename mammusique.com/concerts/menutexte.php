@@ -41,7 +41,7 @@
               </tr>
             </table>
             <br> 
-            <table height="582" width="773">
+            <table height="610" width="773">
               <tr> 
                 <td width="92" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                 <td width="45" height="18" valign="top" bgcolor="#000000"> <div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">HEURE</font></div></td>
@@ -121,6 +121,19 @@
                 <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">D&icirc;ner-spectacle</font></td>
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">11 mars 2016</font></td>
+                <td height="26" bgcolor="#BE2A29"><div align="center">
+                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h30</font></div>
+                </div></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">AUVERS-SUR-OISE</font></td>
+                <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>SOUS LE PORCHE</strong><br>
+                  35, rue du Pois, 95430.<br>
+                  Tel : (33) 1 30 36 16 50<br>
+                </font></p></td>
+                <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>&quot;Qu</em>&eacute;<em>bec-Dublin Sp</em>&eacute;<em>cial&quot;</em></strong></font><br>
+                  <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">D&icirc;ner-spectacle</font></td>
+              </tr>
+              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">12 mars 2016</font></td>
                 <td height="26" bgcolor="#BE2A29"><div align="center">
                   <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">13h00</font></div>
@@ -142,7 +155,7 @@
                   11, place du Mar&eacute;chal Leclerc, 60580.<br>
                   Tel : (33) 3 44 26 70 019<br>
                 </font></p></td>
-                <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>&quot;Qu</em>&eacute;<em>bec-Dublin Special&quot;</em></strong></font><br>                  
+                <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>&quot;Qu</em>&eacute;<em>bec-Dublin Sp</em>&eacute;<em>cial&quot;</em></strong></font><br>                  
                   <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">D&icirc;ner-spectacle</font></td>
               </tr>
               <tr bordercolor="#FFFFFF">
