@@ -44,10 +44,10 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
     Comme voyager se veut, pour eux, un art de vivre, ils n&#146;ont pas h&eacute;sit&eacute; 
     &agrave; se produire &agrave; l&#146;&eacute;tranger : Montr&eacute;al, Vancouver, 
     Halifax, Ouagadougou, Tripoli, St-Louis du S&eacute;n&eacute;gal, Tlemcen, 
-    Skopje, Ljubljana, Innsbruck, Dresde, Bruges, Fribourg, Halmstad, Saint-Domingue, CapHaïtien, Caracas, Iquitos, Dubaï&#133; en 
+    Skopje, Ljubljana, Innsbruck, Dresde, Bruges, Fribourg, Halmstad, Saint-Domingue, Cap-Haïtien, Caracas, Iquitos, Dubaï&#133; en 
     plus de red&eacute;couvrir inlassablement les 6 coins de France, gr&acirc;ce 
     notamment &agrave; 2 ann&eacute;es de tourn&eacute;es J.M.F. et 3 tourn&eacute;es 
     CCAS. Au menu prochainement : sortie d'un DVD &quot;Jazz in my Musette&quot;, 
     d'une compilation &quot;25 Ans&quot;, enregistrement de l'album &quot;New 
-    Time&quot;, tourn&eacute;e aux Émirats, création de l'épisode 2 de &quot;Mélodies Extras Ordinaires&quot;.</font></font></p>
+    Time&quot;, tourn&eacute;e aux Émirats, création de l'épisode 2 de &quot;Mélodies Extras Ordinaires&quot;.</font></font>..</p>
   </div>
