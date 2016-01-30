@@ -38,7 +38,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
   and keyboards</font> <font face="Arial, Helvetica, sans-serif" size="1"><font size="2">together</font></font><font size="2">! 
   (these 2 shows featuring VJing and machines) and &quot;M&eacute;lodies Extras 
   Ordinaires&quot;, a musical tale with chineese shadows and video, (featuring 
-  the actress C&eacute;line Caussimon). In 2015, they create &quot;Human Swing Box&quot;<font face="Arial, Helvetica, sans-serif" size="1"> and record the album, still playing with Touski.</font><br>
+  the actress C&eacute;line Caussimon). In 2015, they created &quot;Human Swing Box&quot; and recorded the album, still playing with Touski.<br>
   <br>
 Travelling is for them an &#8220;art de vivre&#8221;, no wonder they have often 
   performed abroad: Montreal, Vancouver, Halifax, Ouagadougou, Tripoli, St Louis 
