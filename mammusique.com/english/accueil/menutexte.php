@@ -38,10 +38,10 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
   and keyboards</font> <font face="Arial, Helvetica, sans-serif" size="1"><font size="2">together</font></font><font size="2">! 
   (these 2 shows featuring VJing and machines) and &quot;M&eacute;lodies Extras 
   Ordinaires&quot;, a musical tale with chineese shadows and video, (featuring 
-  the actress C&eacute;line Caussimon). In 2015, they create &quot;Human Swing Box&quot;</font><font face="Arial, Helvetica, sans-serif" size="1"><font size="2"> and record the album, still playing with Touski.</font></font><font size="2"><br>
+  the actress C&eacute;line Caussimon). In 2015, they create &quot;Human Swing Box&quot;<font face="Arial, Helvetica, sans-serif" size="1"> and record the album, still playing with Touski.</font><br>
   <br>
 Travelling is for them an &#8220;art de vivre&#8221;, no wonder they have often 
   performed abroad: Montreal, Vancouver, Halifax, Ouagadougou, Tripoli, St Louis 
   in Senegal, Tlemcen, Skopje, Ljubjana, Innsbruck, Dresden, Bruges, Freiburg 
-  (CH), Halmstad, </font><font face="Arial, Helvetica, sans-serif" size="1"><font face="Arial, Helvetica, sans-serif" size="2"> Saint-Domingue, Cap-Haïtien, Caracas, Iquitos, Dubaï</font></font><font size="2">&#8230; in addition to crisscrossing hexagonal France. This season&#8217;s 
-  menu: a DVD for &quot;Jazz in my Musette&quot;, a &quot;25 Years&quot; compilation</font> <font face="Arial, Helvetica, sans-serif" size="1"><font size="2">album, a United Arab Emirates tour, and the creation of &quot;Mélodies Extras Ordinaires&quot;, episode 2</font></font></font>...</font></div>
+  (CH), Halmstad, </font><font face="Arial, Helvetica, sans-serif" size="1"><font face="Arial, Helvetica, sans-serif" size="2"> Santo-Domingo, Cap-Haitien, Caracas, Iquitos, Dubai</font></font><font size="2">&#8230; in addition to crisscrossing hexagonal France. This season&#8217;s 
+  menu: a DVD for &quot;Jazz in my Musette&quot;, a &quot;25 Years&quot; compilation</font> <font face="Arial, Helvetica, sans-serif" size="1"><font size="2">album, a United Arab Emirates tour, and the creation of &quot;M&eacute;lodies Extras Ordinaires&quot;, episode 2</font></font></font>...</font></div>
