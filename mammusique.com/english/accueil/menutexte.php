@@ -44,4 +44,4 @@ Travelling is for them an &#8220;art de vivre&#8221;, no wonder they have often
   performed abroad: Montreal, Vancouver, Halifax, Ouagadougou, Tripoli, St Louis 
   in Senegal, Tlemcen, Skopje, Ljubjana, Innsbruck, Dresden, Bruges, Freiburg 
   (CH), Halmstad, </font><font face="Arial, Helvetica, sans-serif" size="1"><font face="Arial, Helvetica, sans-serif" size="2"> Santo-Domingo, Cap-Haitien, Caracas, Iquitos, Dubai</font></font><font size="2">&#8230; in addition to crisscrossing hexagonal France. This season&#8217;s 
-  menu: a DVD for &quot;Jazz in my Musette&quot;, a &quot;25 Years&quot; compilation</font> <font face="Arial, Helvetica, sans-serif" size="1"><font size="2">album, a United Arab Emirates tour, and the creation of &quot;M&eacute;lodies Extras Ordinaires&quot;, episode 2</font></font></font>...</font></div>
+  menu : a DVD for &quot;Jazz in my Musette&quot;, a &quot;25 Years&quot; compilation</font> <font face="Arial, Helvetica, sans-serif" size="1"><font size="2">album, a United Arab Emirates tour, and the creation of &quot;M&eacute;lodies Extras Ordinaires&quot;, episode 2</font></font></font>...</font></div>
