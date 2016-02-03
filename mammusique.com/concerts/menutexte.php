@@ -298,7 +298,7 @@
                   Tel : (33) 3 25 32 85 43<br>
                 </font></p></td>
                 <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>&quot;Voyage Celte&quot;</em></strong></font><br>
-                <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Avec le soutien du réseau des médiathèques de Haute-Marne.</font></td>
+                <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Avec le soutien du r&eacute;seau des m&eacute;diath&egrave;ques de Haute-Marne.</font></td>
               </tr>
               <table width="688" height="1048" dwcopytype="CopyTableRow">
                 <tr bordercolor="#FFFFFF"> 
