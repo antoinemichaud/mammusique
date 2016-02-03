@@ -41,7 +41,7 @@
               </tr>
             </table>
             <br> 
-            <table height="610" width="773">
+            <table height="666" width="773">
               <tr> 
                 <td width="92" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                 <td width="45" height="18" valign="top" bgcolor="#000000"> <div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">HEURE</font></div></td>
@@ -283,6 +283,22 @@
                 <td><div align="left">
                   <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Invit&eacute;s du collectif &quot;In the 80's&quot;, dirig&eacute; par St&eacute;phane Kr&eacute;gar (cr&eacute;ation).</strong></font><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"></font></p>
                 </div></td>
+              </tr>
+              <tr bordercolor="#FFFFFF">
+                <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+              </tr>
+              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">16 octobre 2016</font></td>
+                <td height="26" bgcolor="#BE2A29"><div align="center">
+                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">16h00</font></div>
+                </div></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">AUBERIVE</font></td>
+                <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>SALLE SAINTE-ANNE</strong><br>
+                  8, route de Langres, 52160.<br>
+                  Tel : (33) 3 25 32 85 43<br>
+                </font></p></td>
+                <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>&quot;Voyage Celte&quot;</em></strong></font><br>
+                <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Avec le soutien du réseau des médiathèques de Haute-Marne.</font></td>
               </tr>
               <table width="688" height="1048" dwcopytype="CopyTableRow">
                 <tr bordercolor="#FFFFFF"> 
