@@ -85,7 +85,7 @@
                 <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LE CHAUDRON</strong><br>
                   R&eacute;sidence du Castillon,<br>
                   rue du G&eacute;n&eacute;ral Fr&egrave;re, 80000.<br>
-                  Tel : (33) 1 46 38 21 05<br>
+                  Tel : (33) 3 22 71 24 58<br>
                 </font></p></td>
                 <td>&nbsp;</td>
               </tr>
