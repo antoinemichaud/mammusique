@@ -39,68 +39,13 @@
               </tr>
             </table>
             <br> 
-            <table height="666" width="773">
+            <table height="554" width="773">
               <tr> 
                 <td width="79" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                 <td width="49" height="18" valign="top" bgcolor="#000000"><div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">TIME</font></div></td>
                 <td width="145" height="18" valign="top" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">TOWN</font></td>
                 <td width="230" height="18" valign="top" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">PLACE</font></td>
                 <td width="246" valign="top" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">CONTEXT</font></td>
-              </tr>
-              <tr bordercolor="#FFFFFF">
-                <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">February 12th 2016</font></td>
-                <td height="26" bgcolor="#BE2A29"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:30 pm</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">COYE-LA-FOR&Ecirc;T</font></td>
-                <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>L'&Eacute;TANG D'ART</strong><br>
-                  Route foresti&egrave;re des &Eacute;tangs de Cormelles, 60580.<br>
-                  Tel : (33) 3 44 57 21 39<br>
-                </font></p></td>
-                <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Dinner show</font></td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">February 14th 2016</font></td>
-                <td height="26" bgcolor="#666666"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">4:00 pm</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">PARIS</font></td>
-                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>M.P.A.A. SAINT-GERMAIN</strong><br>
-                  4, rue F&eacute;libien, 75006.<br>
-                  Tel : (33) 1 46 34 68 58<br>
-                </font></p></td>
-                <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>Bal &agrave; la Page</em></strong><em><strong> / Soir</strong></em><strong>&eacute;<em>e Saint-Valentin</em></strong><em><br>
-                  &quot;Je suis venu te lire que je t'aime&quot;<br>
-                </em>Dances and readings with &quot;Les Livreurs&quot; </font></td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">February 24th 2016</font></td>
-                <td height="26" bgcolor="#666666"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:30 pm</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">AMIENS</font></td>
-                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LE CHAUDRON</strong><br>
-                  R&eacute;sidence du Castillon,<br>
-                  rue du G&eacute;n&eacute;ral Fr&egrave;re, 80000.<br>
-                  Tel : (33) 3 22 71 24 06<br>
-                </font></p></td>
-                <td>&nbsp;</td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">February 26th</font><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"> 2016</font></td>
-                <td height="26" bgcolor="#BE2A29"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:30 pm</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">NOGENT-SUR-OISE</font></td>
-                <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>S&Eacute;SON</strong><br>
-                  C.A.I.S. SARCUS, 9, rue Ronsard,
-                  60180.<br>
-                  Tel : (33) 3 44 29 48 41<br>
-                </font></p></td>
-                <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Dinner show</font></td>
               </tr>
               <tr bordercolor="#FFFFFF">
                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
@@ -284,6 +229,19 @@
               </tr>
               <tr bordercolor="#FFFFFF">
                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+              </tr>
+              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">October 14th 2016</font></td>
+                <td height="26" bgcolor="#BE2A29"><div align="center">
+                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></div>
+                </div></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">BOURMONT</font></td>
+                <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>M&Eacute;DIATH&Egrave;QUE</strong><br>
+                  Rue du Général Leclerc, 52150.<br>
+                  Tel : (33) 3 25 01 16 46<br>
+                </font></p></td>
+                <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>&quot;Voyage Celte&quot;</em></strong></font><br>
+                <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Supported by the Haute-Marne media libraries group.</font></td>
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">October 16th 2016</font></td>
