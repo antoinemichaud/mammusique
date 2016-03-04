@@ -237,7 +237,7 @@
                 </div></td>
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">BOURMONT</font></td>
                 <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>M&Eacute;DIATH&Egrave;QUE</strong><br>
-                  Rue du Général Leclerc, 52150.<br>
+                  Rue du G&eacute;n&eacute;ral Leclerc, 52150.<br>
                   Tel : (33) 3 25 01 16 46<br>
                 </font></p></td>
                 <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>&quot;Voyage Celte&quot;</em></strong></font><br>
