@@ -53,18 +53,6 @@
                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">4 mars 2016</font></td>
-                <td height="26" bgcolor="#BE2A29"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h30</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">COYE-LA-FOR&Ecirc;T</font></td>
-                <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>L'&Eacute;TANG D'ART</strong><br>
-                  Route foresti&egrave;re des &Eacute;tangs de Cormelles, 60580.<br>
-                  Tel : (33) 3 44 57 21 39<br>
-                </font></p></td>
-                <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">D&icirc;ner-spectacle</font></td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">11 mars 2016</font></td>
                 <td height="26" bgcolor="#BE2A29"><div align="center">
                   <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h30</font></div>
@@ -116,6 +104,20 @@
                   Tel : (33) 1 46 38 21 05<br>
                 </font></p></td>
                 <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>Festival &quot;Chorus des Hauts-de-Seine&quot;.</em></strong></font></td>
+              </tr>
+              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">16 avril 2016</font></td>
+                <td height="26" bgcolor="#BE2A29"><div align="center">
+                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h00</font></div>
+                </div></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">AL AIN</font></td>
+                <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>ALLIANCE FRAN&Ccedil;AISE</strong><br>
+                  Islamic Institute Building / U.A.E. University<br>
+                  wing A, 1st floor.<br>
+                  Tel: (971) 3 713 4392<br>
+                  <br>
+                </font></p></td>
+                <td>&nbsp;</td>
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">20 avril 2016</font></td>

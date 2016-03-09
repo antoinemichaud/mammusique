@@ -44,23 +44,11 @@
                 <td width="79" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                 <td width="49" height="18" valign="top" bgcolor="#000000"><div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">TIME</font></div></td>
                 <td width="145" height="18" valign="top" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">TOWN</font></td>
-                <td width="230" height="18" valign="top" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">PLACE</font></td>
-                <td width="246" valign="top" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">CONTEXT</font></td>
+                <td width="235" height="18" valign="top" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">PLACE</font></td>
+                <td width="241" valign="top" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">CONTEXT</font></td>
               </tr>
               <tr bordercolor="#FFFFFF">
                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">March 4th 2016</font></td>
-                <td height="26" bgcolor="#BE2A29"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:30 pm</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">COYE-LA-FOR&Ecirc;T</font></td>
-                <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>L'&Eacute;TANG D'ART</strong><br>
-                  Route foresti&egrave;re des &Eacute;tangs de Cormelles, 60580.<br>
-                  Tel : (33) 3 44 57 21 39<br>
-                </font></p></td>
-                <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Dinner show</font></td>
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">March 11th 2016</font></td>
@@ -117,6 +105,20 @@
                 </font></p></td>
                 <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>&quot;Chorus des Hauts-de-Seine&quot; festival</em></strong></font></td>
               </tr>
+              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">April 16th 2016</font></td>
+                <td height="26" bgcolor="#BE2A29"><div align="center">
+                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></div>
+                </div></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">AL AIN</font></td>
+                <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>ALLIANCE FRAN&Ccedil;AISE</strong><br>
+                  Islamic Institute Building / U.A.E. University<br>
+                  wing A, 1st floor.<br>
+                  Tel: (971) 3 713 4392<br>
+                    <br>
+                </font></p></td>
+                <td>&nbsp;</td>
+              </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">April 20th 2016</font></td>
                 <td height="26" bgcolor="#666666"><div align="center">
@@ -135,7 +137,7 @@
                 <td height="26" bgcolor="#666666"><div align="center">
                   <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></div>
                 </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">DUBA&Iuml;</font></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">DUBAI</font></td>
                 <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>ALLIANCE FRAN&Ccedil;AISE</strong><br>
                   18th street.<br>
                   Tel : (971) 4 335 8712<br>
