@@ -115,7 +115,6 @@
                   Islamic Institute Building / U.A.E. University<br>
                   wing A, 1st floor.<br>
                   Tel: (971) 3 713 4392<br>
-                  <br>
                 </font></p></td>
                 <td>&nbsp;</td>
               </tr>
