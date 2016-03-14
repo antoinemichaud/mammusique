@@ -39,41 +39,13 @@
               </tr>
             </table>
             <br> 
-            <table height="526" width="773">
+            <table height="504" width="773">
               <tr> 
                 <td width="79" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                 <td width="49" height="18" valign="top" bgcolor="#000000"><div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">TIME</font></div></td>
                 <td width="145" height="18" valign="top" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">TOWN</font></td>
                 <td width="235" height="18" valign="top" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">PLACE</font></td>
                 <td width="241" valign="top" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">CONTEXT</font></td>
-              </tr>
-              <tr bordercolor="#FFFFFF">
-                <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">March 12th 2016</font></td>
-                <td height="26" bgcolor="#BE2A29"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">1:00 pm</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">ERCUIS</font></td>
-                <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>SALLE MULTIFONCTIONS</strong><br>
-                  Rue des Tilleuls, 60530.<br>
-                  Tel : (33) 3 44 26 71 69<br>
-                </font></p></td>
-                <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Old Timer's ball</strong></font></td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">March 12th 2016</font></td>
-                <td height="26" bgcolor="#BE2A29"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:30 pm</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">NEUILLY-EN-THELLE</font></td>
-                <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>AUBERGE DU CENTRE</strong><br>
-                  11, place du Mar&eacute;chal Leclerc, 60580.<br>
-                  Tel : (33) 3 44 26 70 019<br>
-                </font></p></td>
-                <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>&quot;Quebec-Dublin Special&quot;</em></strong></font><br>
-                <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Dinner show</font></td>
               </tr>
               <tr bordercolor="#FFFFFF">
                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
@@ -159,6 +131,32 @@
                 </font></p></td>
                 <td><em><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&quot;Airbag&quot; festival</strong></font></em></td>
               </tr>
+              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">May 13th 2016</font></td>
+                <td height="26" bgcolor="#666666"><div align="center">
+                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">2:15 pm</font></div>
+                </div></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"> AN<strong>&Egrave;</strong>RES</font></td>
+                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>FESTIVAL D'AN&Egrave;RES</strong><br>
+                  Salle, Principale, 65150.<br>
+                  Tel: 
+                  (33) 5 62 39 79 38<br>
+                </font></p></td>
+                <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Young audience session, creation of the music for the movie Dr Jack (1922).</strong></font></td>
+              </tr>
+              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">May 15th 2016</font></td>
+                <td height="26" bgcolor="#666666"><div align="center">
+                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">10:00 pm</font></div>
+                </div></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">AN<strong>&Egrave;</strong>RES</font></td>
+                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>FESTIVAL D'AN&Egrave;RES</strong><br>
+                  Grand chapiteau, 65150.<br>
+                  Tel: 
+                  (33) 5 62 32 79 38<br>
+                </font></p></td>
+                <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Festival's closing ball</strong></font></td>
+              </tr>
               <tr bordercolor="#FFFFFF">
                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
               </tr>
@@ -197,7 +195,7 @@
                   <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">7:00 pm</font></div>
                 </div></td>
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">FLIXECOURT</font></td>
-                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><br>
+                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Tel : (33) 3 25 87 91 42<br>
                 </font></p></td>
                 <td><div align="left">
                   <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>F&ecirc;te de la Musique.</strong></font></p>
@@ -209,10 +207,10 @@
                   <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">7:00 pm</font></div>
                 </div></td>
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">FLIXECOURT</font></td>
-                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><br>
+                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Tel : (33) 3 25 87 91 42<br>
                 </font></p></td>
                 <td><div align="left">
-                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Guests of  the &quot;In the 80's&quot; band, conducted by St&eacute;phane Kr&eacute;gar (creation).</strong></font></p>
+                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Guests of  the &quot;In the 80's&quot; big band, conducted by St&eacute;phane Kr&eacute;gar (creation).</strong></font></p>
                 </div></td>
               </tr>
               <tr bordercolor="#FFFFFF">
