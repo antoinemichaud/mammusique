@@ -160,10 +160,9 @@
                   <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h00</font></div>
                 </div></td>
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">AMIENS</font></td>
-                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>COM&Eacute;DIE DE PICARDIE</strong><br>
+                <td height="26" bgcolor="#666666"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>COM&Eacute;DIE DE PICARDIE</strong><br>
                     62, rue des Jacobins, 80000.<br>
-                    Tel: +33 3 22 22 20 28
-                    <strong><br>
+                    Tel: +33 3 22 22 20 28<strong><br>
                     </strong><br>
                 </font></p></td>
                 <td><div align="left">
@@ -183,7 +182,7 @@
                 </strong>Tel : +33 1 46 34 38 58<br>
                 </font></p></td>
                 <td><div align="left">
-                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&quot;Bal à la Page&quot;<br>
+                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&quot;Bal &agrave; la Page&quot;<br>
                   </strong>avec la compagnie &quot;Les Livreurs&quot;</font></p>
                 </div></td>
               </tr>
