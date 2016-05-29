@@ -41,7 +41,7 @@
               </tr>
             </table>
             <br> 
-            <table height="454" width="783">
+            <table height="442" width="783">
               <tr> 
                 <td width="92" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                 <td width="45" height="18" valign="top" bgcolor="#000000"> <div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">HEURE</font></div></td>
@@ -156,19 +156,17 @@
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">17 novembre 2016</font></td>
-                <td height="26" bgcolor="#666666"><div align="center">
+                <td height="26"><div align="center">
                   <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h00</font></div>
                 </div></td>
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">AMIENS</font></td>
-                <td height="26" bgcolor="#666666"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>COM&Eacute;DIE DE PICARDIE</strong><br>
-62, rue des Jacobins, 80000.<br>
-Tel: +33 3 22 22 20 28<strong><br>
-                    </strong><br>
+                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>COM&Eacute;DIE DE PICARDIE</strong><br>
+                  62, rue des Jacobins, 80000.<br>
+                  Tel: +33 3 22 22 20 28<br>
                 </font></p></td>
                 <td><div align="left">
                   <p><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Festival &quot;Haute Fr&eacute;quence&quot;</strong><br>
-(plateau partag&eacute; avec Brigitte Fontaine et La Campagnie des Musiques &agrave; Ou&iuml;r)</font><br>
-                  </strong></p>
+                    (plateau partag&eacute; avec Brigitte Fontaine et La Campagnie des Musiques &agrave; Ou&iuml;r)</font></strong></p>
                 </div></td>
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
