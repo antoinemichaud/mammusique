@@ -161,13 +161,13 @@
                 </div></td>
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">AMIENS</font></td>
                 <td height="26" bgcolor="#666666"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>COM&Eacute;DIE DE PICARDIE</strong><br>
-                    62, rue des Jacobins, 80000.<br>
-                    Tel: +33 3 22 22 20 28<strong><br>
+62, rue des Jacobins, 80000.<br>
+Tel: +33 3 22 22 20 28<strong><br>
                     </strong><br>
                 </font></p></td>
                 <td><div align="left">
-                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Festival &quot;Haute Fr&eacute;quence&quot;</strong><br>
-                    (plateau partag&eacute; avec Brigitte Fontaine et La Campagnie des Musiques &agrave; Ou&iuml;r)</font><strong><br>
+                  <p><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Festival &quot;Haute Fr&eacute;quence&quot;</strong><br>
+(plateau partag&eacute; avec Brigitte Fontaine et La Campagnie des Musiques &agrave; Ou&iuml;r)</font><br>
                   </strong></p>
                 </div></td>
               </tr>
