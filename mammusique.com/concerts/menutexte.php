@@ -53,7 +53,7 @@
                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">3 Septembre 2016</font></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">3 septembre 2016</font></td>
                 <td height="26" bgcolor="#BE2A29"><div align="center">
                   <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h00</font></div>
                 </div></td>
@@ -119,7 +119,7 @@
                   Tel: +33 3 86 88 31 15<br>
                 </font></p></td>
                 <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>&quot;MAM'nouche Swing&quot;</em></strong></font><br>
-                <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">En trio avec le guitariste François H&eacute;gron.</font></td>
+                <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">En trio avec le guitariste Fran&ccedil;ois H&eacute;gron.</font></td>
               </tr>
               <tr bordercolor="#FFFFFF">
                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
