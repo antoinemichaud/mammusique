@@ -41,7 +41,7 @@
               </tr>
             </table>
             <br> 
-            <table height="442" width="783">
+            <table height="386" width="783">
               <tr> 
                 <td width="92" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                 <td width="45" height="18" valign="top" bgcolor="#000000"> <div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">HEURE</font></div></td>
@@ -53,77 +53,34 @@
                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">10 juin 2016</font></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">3 Septembre 2016</font></td>
                 <td height="26" bgcolor="#BE2A29"><div align="center">
                   <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h00</font></div>
                 </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">COYE-LA-FOR&Ecirc;T</font></td>
-                <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>L'&Eacute;TANG D'ART</strong><br>
-                  Route forestière des Étangs de Commelles, 60580.<br>
-                  Tel: +33 3 44 57 21 39<br>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">VEULES-LES-ROSES</font></td>
+                <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LE 4 D'ALICE</strong><br>
+                  4, rue du Docteur Girard 76980.<br>
+                  Tel: +33 2 35 97 76 41<br>
                 </font></p></td>
                 <td>&nbsp;</td>
               </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">11-12 juin 2016</font></td>
-                <td height="26" bgcolor="#666666"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h30<br>
-                    16h00
-                  </font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&Eacute;TAIS-LA-SAUVIN</font></td>
-                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>TH&Eacute;&Acirc;TRE RURAL DE LA CLOSERIE</strong><br>
-                  17, route de Clamecy, 89480.<br>
-                  Tel : +33 3 86 47 28 16<br>
-                </font></p></td>
-                <td><div align="left">
-                  <p>&nbsp;</p>
-                </div></td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">17 juin 2016</font></td>
-                <td height="26" bgcolor="#666666"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h00</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">LANGRES</font></td>
-                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>L'&Eacute;PICERIE</strong><br>
-                  Rue du Cardinal Morlot, 52200.<br>
-                  Tel : +33 3 25 87 91 42<br>
-                </font></p></td>
-                <td><div align="left">
-                  <p>&nbsp;</p>
-                </div></td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">21 juin 2016</font></td>
-                <td height="26" bgcolor="#666666"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">19h00</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">VAUCHELLES-L&Egrave;S-DOMART</font></td>
-                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>SALLE DES F&Ecirc;TES<br>
-                  </strong>Rue de Mouflers, 80620.<strong><br>
-                </strong>Tel : +33 3 22 39 40 48<br>
-                </font></p></td>
-                <td><div align="left">
-                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>F&ecirc;te de la Musique.</strong></font></p>
-                </div></td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">22 juin 2016</font></td>
-                <td height="26" bgcolor="#666666"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">19h00</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">VAUCHELLES-L&Egrave;S-DOMART</font></td>
-                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>SALLE DES F&Ecirc;TES<br>
-                </strong>Rue de Mouflers, 80620.<strong><br>
-                </strong>Tel : +33 3 22 39 40 48<br>
-                </font></p></td>
-                <td><div align="left">
-                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Invit&eacute;s du collectif &quot;In the 80's&quot;, dirig&eacute; par St&eacute;phane Kr&eacute;gar (cr&eacute;ation).</strong></font><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"></font></p>
-                </div></td>
-              </tr>
               <tr bordercolor="#FFFFFF">
                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+              </tr>
+              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">6 octobre 2016</font></td>
+                <td height="26"><div align="center">
+                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">21h00</font></div>
+                </div></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">RENNES</font></td>
+                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CHAPITEAU</strong><br>
+                  Parc du Thabor, 35000.<br>
+                  Tel: +33 2 99 41 33 71<br>
+                </font></p></td>
+                <td><div align="left">
+                  <p><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Festival &quot;Le Grand Soufflet&quot;</strong><br>
+                    Soir<strong>&eacute;</strong>e d'ouverture partag<strong>&eacute;</strong>e avec Pato Machete</font></strong></p>
+                </div></td>
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#246A9A">
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">14 octobre 2016</font></td>
@@ -151,6 +108,19 @@
                 <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>&quot;Voyage Celte&quot;</em></strong></font><br>
                   <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Avec le soutien du R&eacute;seau des M&eacute;diath&egrave;ques de Haute-Marne.</font></td>
               </tr>
+              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">28-29 octobre 2016</font></td>
+                <td height="26" bgcolor="#BE2A29"><div align="center">
+                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">21h00</font></div>
+                </div></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">VAREILLES</font></td>
+                <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LE MAQUIS</strong><br>
+                  2, rue de l'&Eacute;rable, 89320.<br>
+                  Tel: +33 3 86 88 31 15<br>
+                </font></p></td>
+                <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>&quot;MAM'nouche Swing&quot;</em></strong></font><br>
+                <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">En trio avec le guitariste François H&eacute;gron.</font></td>
+              </tr>
               <tr bordercolor="#FFFFFF">
                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
               </tr>
@@ -172,7 +142,7 @@
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">26 novembre 2016</font></td>
                 <td height="26" bgcolor="#666666"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h00</font></div>
+                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">19h00</font></div>
                 </div></td>
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">PARIS</font></td>
                 <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>AUDITORIUM SAINT-GERMAIN<br>
@@ -180,8 +150,9 @@
                 </strong>Tel : +33 1 46 34 38 58<br>
                 </font></p></td>
                 <td><div align="left">
-                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&quot;Bal &agrave; la Page&quot;<br>
-                  </strong>avec la compagnie &quot;Les Livreurs&quot;</font></p>
+                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&quot;Livres en T&ecirc;te&quot;<br>
+                    </strong> Festival <strong>de Lecture &agrave; Haute Voix<br>
+                    </strong> avec la compagnie &quot;Les Livreurs&quot;</font></p>
                 </div></td>
               </tr>
               <tr bordercolor="#FFFFFF">
@@ -205,7 +176,7 @@
                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">2 février 2017</font></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">2 f&eacute;vrier 2017</font></td>
                 <td height="26" bgcolor="#666666"><div align="center">
                   <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">18h00</font></div>
                 </div></td>
