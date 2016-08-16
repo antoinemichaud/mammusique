@@ -117,7 +117,7 @@
                   Tel: +33 3 86 88 31 15<br>
                 </font></p></td>
                 <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>&quot;MAM'nouche Swing&quot;</em></strong></font><br>
-                  <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Trio featuring François H&eacute;gron (guitar).</font></td>
+                  <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Trio featuring Fran&ccedil;ois H&eacute;gron (guitar).</font></td>
               </tr>
               <tr bordercolor="#FFFFFF">
                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
