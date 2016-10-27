@@ -39,7 +39,7 @@
               </tr>
             </table>
             <br> 
-            <table height="386" width="773">
+            <table height="252" width="773">
               <tr> 
                 <td width="79" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                 <td width="49" height="18" valign="top" bgcolor="#000000"><div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">TIME</font></div></td>
@@ -49,62 +49,6 @@
               </tr>
               <tr bordercolor="#FFFFFF">
                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">September 3rd 2016</font></td>
-                <td height="26" bgcolor="#BE2A29"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">VEULES-LES-ROSES</font></td>
-                <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LE 4 D'ALICE</strong><br>
-                  4, rue du Docteur Girard 76980.<br>
-                  Tel: +33 2 35 97 76 41<br>
-                </font></p></td>
-                <td>&nbsp;</td>
-              </tr>
-              <tr bordercolor="#FFFFFF">
-                <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">October 6th 2016</font></td>
-                <td height="26"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">9:00 pm</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">RENNES</font></td>
-                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CHAPITEAU</strong><br>
-                  Parc du Thabor, 35000.<br>
-                  Tel: +33 2 99 41 33 71<br>
-                </font></p></td>
-                <td><div align="left">
-                  <p><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&quot;Le Grand Soufflet&quot;</strong> <strong>Festival</strong>.<br>
-                    Opening night shared with Pato Machete</font></strong></p>
-                </div></td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#246A9A">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">October 14th 2016</font></td>
-                <td height="26" bgcolor="#246A9A"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">BOURMONT</font></td>
-                <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>M&Eacute;DIATH&Egrave;QUE</strong><br>
-                  Rue du G&eacute;n&eacute;ral Leclerc, 52150.<br>
-                  Tel : +33 3 25 01 16 46<br>
-                </font></p></td>
-                <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>&quot;Voyage Celte&quot;</em></strong></font><br>
-                <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Supported by the Haute-Marne media libraries group.</font></td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#246A9A">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">October 16th 2016</font></td>
-                <td height="26" bgcolor="#246A9A"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">4:00 pm</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">AUBERIVE</font></td>
-                <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>SALLE SAINTE-ANNE</strong><br>
-                  8, route de Langres, 52160.<br>
-                  Tel : +33 3 25 32 85 43<br>
-                </font></p></td>
-                <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>&quot;Voyage Celte&quot;</em></strong></font><br>
-                  <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Supported by the Haute-Marne media libraries group.</font></td>
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">October 28th-29th  2016</font></td>
@@ -174,17 +118,17 @@
                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">2 février 2017</font></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">February 17th 2017</font></td>
                 <td height="26" bgcolor="#666666"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">6:00 pm</font></div>
+                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></div>
                 </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">LONGUEAU</font></td>
-                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>ESPACE CULTUREL PICASSO<br>
-                  </strong>Rue Anatole France, 80330.<strong><br>
-                    </strong>Tel : +33 3 22 50 34 34<br>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">TERGNIER</font></td>
+                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>SALLE DES ARTS ET LOISIRS<br>
+                  </strong>1, rue Herment, 02700.<strong><br>
+                    </strong>Tel : +33 3 23 57 40 24<br>
                 </font></p></td>
                 <td><div align="left">
-                  <p><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&quot;Festi'M&ocirc;mes&quot;</font></strong></p>
+                  <p><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">LES CAVES À MUSIQUE'S 30 YEARS ANNIVERSARY</font></strong></p>
                 </div></td>
               </tr>
               <table width="688" height="1048" dwcopytype="CopyTableRow">
