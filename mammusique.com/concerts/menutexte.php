@@ -41,63 +41,13 @@
               </tr>
             </table>
             <br> 
-            <table height="252" width="783">
+            <table height="152" width="783">
               <tr> 
                 <td width="92" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                 <td width="45" height="18" valign="top" bgcolor="#000000"> <div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">HEURE</font></div></td>
                 <td width="168" height="18" valign="top" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">VILLE</font></td>
                 <td width="234" height="18" valign="top" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">LIEU</font></td>
                 <td width="210" valign="top" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">CONTEXTE</font></td>
-              </tr>
-              <tr bordercolor="#FFFFFF">
-                <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">28-29 octobre 2016</font></td>
-                <td height="26" bgcolor="#BE2A29"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">21h00</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">VAREILLES</font></td>
-                <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LE MAQUIS</strong><br>
-                  2, rue de l'&Eacute;rable, 89320.<br>
-                  Tel: +33 3 86 88 31 15<br>
-                </font></p></td>
-                <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>&quot;MAM'nouche Swing&quot;</em></strong></font><br>
-                <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">En trio avec le guitariste Fran&ccedil;ois H&eacute;gron.</font></td>
-              </tr>
-              <tr bordercolor="#FFFFFF">
-                <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">17 novembre 2016</font></td>
-                <td height="26"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h00</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">AMIENS</font></td>
-                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>COM&Eacute;DIE DE PICARDIE</strong><br>
-                  62, rue des Jacobins, 80000.<br>
-                  Tel: +33 3 22 22 20 28<br>
-                </font></p></td>
-                <td><div align="left">
-                  <p><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Festival &quot;Haute Fr&eacute;quence&quot;</strong><br>
-                    (plateau partag&eacute; avec Brigitte Fontaine et La Campagnie des Musiques &agrave; Ou&iuml;r)</font></strong></p>
-                </div></td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">26 novembre 2016</font></td>
-                <td height="26" bgcolor="#666666"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">19h00</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">PARIS</font></td>
-                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>AUDITORIUM SAINT-GERMAIN<br>
-                  </strong>4, rue F&eacute;libien, 75006.<strong><br>
-                </strong>Tel : +33 1 46 34 38 58<br>
-                </font></p></td>
-                <td><div align="left">
-                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&quot;Livres en T&ecirc;te&quot;<br>
-                    </strong> Festival <strong>de Lecture &agrave; Haute Voix<br>
-                    </strong> avec la compagnie &quot;Les Livreurs&quot;</font></p>
-                </div></td>
               </tr>
               <tr bordercolor="#FFFFFF">
                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
@@ -109,7 +59,21 @@
                 </div></td>
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">NANTES</font></td>
                 <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LE PANNONICA<br>
-                  </strong>9, rue Basse Porte, 44000.<strong><br>
+                  </strong>9, rue Basse-Porte, 44000.<strong><br>
+                    </strong>Tel : +33 2 51 72 10 10<br>
+                </font></p></td>
+                <td><div align="left">
+                  <p>&nbsp;</p>
+                </div></td>
+              </tr>
+              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">29 janvier 2017</font></td>
+                <td height="26" bgcolor="#666666"><div align="center">
+                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">17h00</font></div>
+                </div></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">FOUG<strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&Egrave;</font></strong>RES</font></td>
+                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LE COQUELICOT<br>
+                  </strong>18, rue de Vitr<strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong>, 44000.<strong><br>
                   </strong>Tel : +33 2 51 72 10 10<br>
                 </font></p></td>
                 <td><div align="left">
