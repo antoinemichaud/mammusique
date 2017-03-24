@@ -38,7 +38,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
     (avec Fab, remarquable musicien et ing&eacute;nieur du son franco-new-yorkais), (avec le spectaculaire Norbert &quot;Touski&quot; Lucarain, &agrave; la human beat-box et aux claviers!) tous 
     deux avec machines et VJing, puis &quot;M&eacute;lodies Extras Ordinaires&quot; 
     (avec la com&eacute;dienne C&eacute;line Caussimon) et &quot;La M<font face="Arial, Helvetica, sans-serif" size="1">&eacute;</font>lodie des Choses&quot; (avec Pauline Borras, de La Compagnie Pr<font face="Arial, Helvetica, sans-serif" size="1">&eacute;</font>fabriqu<font face="Arial, Helvetica, sans-serif" size="1">&eacute;</font>e), contes musicaux pour grands 
-    et petits, avec th<font face="Arial, Helvetica, sans-serif" size="1">&eacute;</font>&acirc;tre, danse, vid&eacute;o et ombres chinoises.</font></font><font face="Arial, Helvetica, sans-serif" size="1"><font face="Arial, Helvetica, sans-serif" size="2"> En 2015, ils créent <font face="Arial, Helvetica, sans-serif" size="1">avec Touski</font> le spectacle et l'album &quot;Human Swing Box&quot;.<br>
+    et petits, avec th<font face="Arial, Helvetica, sans-serif" size="1">&eacute;</font>&acirc;tre, danse, vid&eacute;o et ombres chinoises.</font></font><font face="Arial, Helvetica, sans-serif" size="1"><font face="Arial, Helvetica, sans-serif" size="2"> En 2015, ils créent avec Touski le spectacle et l'album &quot;Human Swing Box&quot;.<br>
     <br>
     Comme voyager se veut, pour eux, un art de vivre, ils n&#146;ont pas h&eacute;sit&eacute; 
     &agrave; se produire &agrave; l&#146;&eacute;tranger : Montr&eacute;al, Vancouver, 
