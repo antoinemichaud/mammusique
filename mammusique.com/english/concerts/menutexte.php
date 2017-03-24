@@ -39,63 +39,13 @@
               </tr>
             </table>
             <br> 
-            <table height="482" width="773">
+            <table height="408" width="773">
               <tr> 
                 <td width="79" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                 <td width="49" height="18" valign="top" bgcolor="#000000"><div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">TIME</font></div></td>
                 <td width="145" height="18" valign="top" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">TOWN</font></td>
                 <td width="235" height="18" valign="top" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">PLACE</font></td>
                 <td width="241" valign="top" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">CONTEXT</font></td>
-              </tr>
-              <tr bordercolor="#FFFFFF">
-                <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">February 17th 2017</font></td>
-                <td height="26" bgcolor="#666666"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">TERGNIER</font></td>
-                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>SALLE DES ARTS ET LOISIRS<br>
-                  </strong>1, rue Herment, 02700.<strong><br>
-                    </strong>Tel : +33 3 23 57 40 24<br>
-                </font></p></td>
-                <td><div align="left">
-                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CAVES &Agrave; MUSIQUE's 30th anniversary</strong></font></p>
-                </div></td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#246A9A">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">February 25th2017</font></td>
-                <td height="26" bgcolor="#246A9A"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">6:00 pm</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">HARDRICOURT</font></td>
-                <td height="26" bgcolor="#246A9A"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>SALLE DES F&Ecirc;TES<br>
-                  </strong>Chemin des Gloriettes, 78250.<strong><br>
-                    </strong>Tel : +33 1 30 99 91 00<br>
-                </font></p></td>
-                <td><div align="left">
-                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&quot;VOYAGE CELTE&quot;<br>
-                  </strong>Featuring children from village's school</font>                </p>
-                </div></td>
-              </tr>
-              <tr bordercolor="#FFFFFF">
-                <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">March 10th, 2017</font></td>
-                <td height="26" bgcolor="#BE2A29"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">AUVERS-SUR-OISE</font></td>
-                <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>SOUS LE PORCHE<br>
-                  </strong>Place de la Mairie, 95430.<strong><br>
-                    </strong>Tel : +33 1 30 36 16 50<br>
-                </font></p></td>
-                <td><div align="left">
-                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&quot;MAM'NOUCHE SWING&quot;</strong></font><br>
-                    <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">F</font><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">eaturing François Hégron (guitar)</font></p>
-                </div></td>
               </tr>
               <tr bordercolor="#FFFFFF">
                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
@@ -191,6 +141,37 @@
                 </font></p></td>
                 <td><div align="left">
                   <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&quot;VOYAGE CELTE&quot;</strong></font></p>
+                </div></td>
+              </tr>
+              <tr bordercolor="#FFFFFF">
+                <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+              </tr>
+              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">October 5th 2017</font></td>
+                <td height="26" bgcolor="#478B3F"><div align="center">
+                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></div>
+                </div></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">PARIS</font></td>
+                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>AUX PETITS JOUEURS<br>
+                  </strong>59, rue Mouza&iuml;a, 75019.<strong><br>
+                    </strong>Tel : +33 1 42 41 23 60<br>
+                </font></p></td>
+                <td><div align="left">
+                  <p><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">F&ecirc;te des 25 ans</font></strong></em></p>
+                </div></td>
+              </tr>
+              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">October 8th 2017</font></td>
+                <td height="26" bgcolor="#478B3F"><div align="center">
+                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></div>
+                </div></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">PARIS</font></td>
+                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>AUX PETITS JOUEURS<br>
+                  </strong>59, rue Mouza&iuml;a, 75019.<strong><br>
+                    </strong>Tel : +33 1 42 41 23 60<br>
+                </font></p></td>
+                <td><div align="left">
+                  <p><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">F&ecirc;te des 25 ans</font></strong></em></p>
                 </div></td>
               </tr>
               <tr bordercolor="#FFFFFF">

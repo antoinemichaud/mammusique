@@ -32,16 +32,16 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
   &#8220;made a pass&#8221; at the racy swing musette of accordionist virtuoso 
   Fran&ccedil;ois Parisi (&quot;Jazz in my Musette&quot;)</font></font>. <font size="2">They 
   put on a Brassens performance minus guitar and moustache but with the female 
-  singer Gu&eacute;na&euml;lle and are currently working on 3 ambitious multifaced 
+  singer Gu&eacute;na&euml;lle and are currently working on 4 ambitious multifaced 
   projects: &quot;Meddled Times&quot; with Fab, a famous French-Newyorker musician and 
   sound engineer, &quot;New Time&quot; with the fantastic showman Norbert &quot;Touski&quot; </font><font face="Arial, Helvetica, sans-serif" size="1"><font size="2">Lucarain, playing human beatbox 
   and keyboards</font> <font face="Arial, Helvetica, sans-serif" size="1"><font size="2">together</font></font><font size="2">! 
-  (these 2 shows featuring VJing and machines) and &quot;M&eacute;lodies Extras 
-  Ordinaires&quot;, a musical tale with chineese shadows and video, (featuring 
-  the actress C&eacute;line Caussimon). In 2015, they created &quot;Human Swing Box&quot; and recorded the album, still playing with Touski.<br>
+  (these 2 shows featuring VJing and machines) then, &quot;M&eacute;lodies Extras 
+  Ordinaires&quot;</font> <font face="Arial, Helvetica, sans-serif" size="1"><font face="Arial, Helvetica, sans-serif" size="1"><font size="2">(featuring 
+  the actress C&eacute;line Caussimon)</font></font></font><font size="2">, and &quot;</font><font face="Arial, Helvetica, sans-serif" size="1"><font face="Arial, Helvetica, sans-serif" size="2">La M<font face="Arial, Helvetica, sans-serif" size="1">&eacute;</font>lodie des Choses&quot; (featuring Pauline Borras, de La Compagnie Pr<font face="Arial, Helvetica, sans-serif" size="1">&eacute;</font>fabriqu<font face="Arial, Helvetica, sans-serif" size="1">&eacute;</font>e), </font></font><font size="2">two musical tales with theater, dance, </font><font face="Arial, Helvetica, sans-serif" size="1"><font face="Arial, Helvetica, sans-serif" size="1"><font size="2">video and </font></font></font><font size="2">chineese shadows. In 2015, they created &quot;Human Swing Box&quot; and recorded the album, still playing with Touski.<br>
   <br>
 Travelling is for them an &#8220;art de vivre&#8221;, no wonder they have often 
   performed abroad: Montreal, Vancouver, Halifax, Ouagadougou, Tripoli, St Louis 
   in Senegal, Tlemcen, Skopje, Ljubjana, Innsbruck, Dresden, Bruges, Freiburg 
   (CH), Halmstad, </font><font face="Arial, Helvetica, sans-serif" size="1"><font face="Arial, Helvetica, sans-serif" size="2"> Santo-Domingo, Cap-Haitien, Caracas, Iquitos, Dubai</font></font><font size="2">&#8230; in addition to crisscrossing hexagonal France. This season&#8217;s 
-  menu : a DVD for &quot;Jazz in my Musette&quot;, a &quot;25 Years&quot; compilation</font> <font face="Arial, Helvetica, sans-serif" size="1"><font size="2">album, a United Arab Emirates tour, and the creation of &quot;M&eacute;lodies Extras Ordinaires&quot;, episode 2</font></font></font>...</font></div>
+  menu : a DVD for &quot;Jazz in my Musette&quot;, a &quot;25 Years&quot; compilation</font> <font face="Arial, Helvetica, sans-serif" size="1"><font size="2">album, and so, celebration concerts next fall.</font></font></font></font></div>
