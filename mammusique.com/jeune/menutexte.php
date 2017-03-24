@@ -31,20 +31,12 @@
         de MAM ont eu tant de succ&egrave;s ces derniers temps : tourn&eacute;es 
         r&eacute;gionales du Grenoble Jazz Festival et du festival Jazz en Auvergne 
         (ateliers et masterclasses en plus des concerts), tourn&eacute;es pour 
-        les <a href="http://www.lesjmf.org/spect_details.php?id_product=152" target="_blank">Jeunesses 
-        Musicales de France</a>, centres de vacances CCAS.<br>
+        les Jeunesses Musicales de France, centres de vacances CCAS.<br>
         </font><font face="Arial, Helvetica, sans-serif" size="2"> </font></p></td>
   </tr>
   <tr> 
-    <td height="134"></td>
-    <td valign="bottom"> 
-      <div align="center"> 
-        <p align="left"><font face="Arial, Helvetica, sans-serif" size="2">T&eacute;l&eacute;chargez 
-          le<br>
-          <a href="mam_jmf.pdf" target="_blank">dossier 
-          p&eacute;dagogique<br>
-          </a>en format pdf (1 Mo)</font></p>
-      </div></td>
+    <td height="18"></td>
+    <td valign="bottom"><!--DWLayoutEmptyCell-->&nbsp;</td>
     <td></td>
   </tr>
 </table>

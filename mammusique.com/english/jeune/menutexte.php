@@ -29,21 +29,13 @@
         This is probably the reason why Mam&#8217;s youth concerts have met with 
         such success recently : regional tours in the &#8220;Grenoble Jazz Festival&#8221; 
         and &#8220;Jazz en Auvergne&#8221; (with workshops and masterclasses in 
-        addition to concerts), tours for &#8220;<a href="http://www.lesjmf.org/spect_details.php?id_product=152" target="_blank">Jeunesses 
-        Musicales de France</a>&quot; and the holiday centers of &#8220;Caisse 
+        addition to concerts), tours for &quot;Les Jeunesses Musicales de France&quot; and the holiday centers of &#8220;Caisse 
         Centrale d&#8217;Action Sociale&#8221;.<br>
         </font></p></td>
   </tr>
   <tr> 
-    <td height="134"></td>
-    <td valign="bottom"> 
-      <div align="center"> 
-        <p align="left"><font face="Arial, Helvetica, sans-serif" size="2">Download 
-          the <br>
-          <a href="../../jeune/mam_jmf.pdf" target="_blank">pedagogic 
-          file (french)<br>
-          </a>in pdf size (1 Mo)</font></p>
-      </div></td>
+    <td height="18"></td>
+    <td valign="bottom"><!--DWLayoutEmptyCell-->&nbsp;</td>
     <td></td>
   </tr>
 </table>
