@@ -40,7 +40,7 @@
               </tr>
             </table>
             <br> 
-            <table height="408" width="783">
+            <table height="486" width="783">
               <tr> 
                 <td width="79" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                 <td width="45" height="18" valign="top" bgcolor="#000000"> <div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">HEURE</font></div></td>
@@ -50,20 +50,6 @@
               </tr>
               <tr bordercolor="#FFFFFF">
                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">14 avril 2017</font></td>
-                <td height="26" bgcolor="#BE2A29"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h00</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">COYE-LA-FOR&Ecirc;T</font></td>
-                <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>L'&Eacute;TANG D'ART<br>
-                  </strong>Ch&acirc;teau de la Reine Blanche, 60580.<strong><br>
-                    </strong>Tel : +33 3 44 57 21 39<br>
-                </font></p></td>
-                <td><div align="left">
-                  <p>&nbsp;</p>
-                </div></td>
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#246A9A">
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">28 avril 2017</font></td>
@@ -76,7 +62,7 @@
                     </strong>Tel : +33 3 25 94 10 54<br>
                 </font></p></td>
                 <td><div align="left">
-                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>VOYAGE CELTE</strong></font></p>
+                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&quot;VOYAGE CELTE&quot;</strong></font></p>
                 </div></td>
               </tr>
               <tr bordercolor="#FFFFFF">
@@ -92,9 +78,19 @@
                   </strong>Ch&acirc;teau de la Reine Blanche, 60580.<strong><br>
                     </strong>Tel : +33 3 44 57 21 39<br>
                 </font></p></td>
-                <td><div align="left">
-                  <p>&nbsp;</p>
+                <td><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&quot;PARIS VILLAGE&quot;</font></strong></td>
+              </tr>
+              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">19 mai 2017</font></td>
+                <td height="26" bgcolor="#BE2A29"><div align="center">
+                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h00</font></div>
                 </div></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">ABU DHABI</font></td>
+                <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>ALLIANCE FRAN&Ccedil;AISE<br>
+                  </strong>Islamic Institute Bulding, UAE University, wing A, 1st floor.<strong><br>
+                    </strong>Tel : +971 3 713 4392<br>
+                </font></p></td>
+                <td><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">F&ecirc;te de la Musique</font></strong></em></td>
               </tr>
               <tr bordercolor="#FFFFFF">
                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
@@ -110,7 +106,7 @@
                     </strong>Tel : +33 3 25 84 00 21<br>
                 </font></p></td>
                 <td><div align="left">
-                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>VOYAGE CELTE</strong></font></p>
+                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&quot;VOYAGE CELTE&quot;</strong></font></p>
                 </div></td>
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#246A9A">
@@ -124,7 +120,24 @@
                     </strong>Tel : +33 3 25 31 63 89<br>
                 </font></p></td>
                 <td><div align="left">
-                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>VOYAGE CELTE</strong></font></p>
+                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&quot;VOYAGE CELTE&quot;</strong></font></p>
+                </div></td>
+              </tr>
+              <tr bordercolor="#FFFFFF">
+                <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+              </tr>
+              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">26 ao&ucirc;t 2017</font></td>
+                <td height="26" bgcolor="#BE2A29"><div align="center">
+                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">21h00</font></div>
+                </div></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">SENLIS</font></td>
+                <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>MA NATURE<br>
+                  </strong>9, place Henri IV, 60300.<strong><br>
+                    </strong>Tel : +33 3 44 28 11 95<br>
+                </font></p></td>
+                <td><div align="left">
+                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&quot;QU&Eacute;BEC DUBLIN SP&Eacute;CIAL&quot;</strong></font></p>
                 </div></td>
               </tr>
               <tr bordercolor="#FFFFFF">
@@ -141,7 +154,7 @@
                     </strong>Tel : +33 3 25 03 02 18<br>
                 </font></p></td>
                 <td><div align="left">
-                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>VOYAGE CELTE</strong></font></p>
+                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&quot;VOYAGE CELTE&quot;</strong></font></p>
                 </div></td>
               </tr>
               <tr bordercolor="#FFFFFF">
@@ -178,6 +191,20 @@
               <tr bordercolor="#FFFFFF">
                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
               </tr>
+              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">11 novembre 2017</font></td>
+                <td height="26" bgcolor="#478B3F"><div align="center">
+                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h00</font></div>
+                </div></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">PARIS</font></td>
+                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LA BELLEVILLOISE<br>
+                  </strong>19-21, rue Boyer, 75020<strong><br>
+                    </strong>Tel : +33 1 46 36 07 07<br>
+                </font></p></td>
+                <td><div align="left">
+                  <p><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">F&ecirc;te des 25 ans</font></strong></em></p>
+                </div></td>
+              </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#246A9A">
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">24 novembre 2017</font></td>
                 <td height="26" bgcolor="#246A9A"><div align="center">
@@ -189,7 +216,7 @@
                     </strong>Tel : +33 3 44 72 03 38<br>
                 </font></p></td>
                 <td><div align="left">
-                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>VOYAGE CELTE</strong></font></p>
+                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&quot;VOYAGE CELTE&quot;</strong></font></p>
                 </div></td>
               </tr>
               <table width="688" height="1048" dwcopytype="CopyTableRow">
