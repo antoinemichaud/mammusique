@@ -187,7 +187,7 @@
                     </strong>Tel : +33 3 44 39 63 18<br>
                 </font></p></td>
                 <td><div align="left">
-                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>4 young audiences Concerts</strong></em></font></p>
+                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>4 young audiences concerts</strong></em></font></p>
                 </div></td>
               </tr>
               <table width="688" height="1048" dwcopytype="CopyTableRow">
