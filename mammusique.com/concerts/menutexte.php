@@ -40,7 +40,7 @@
               </tr>
             </table>
             <br> 
-            <table height="386" width="783">
+            <table height="414" width="783">
               <tr> 
                 <td width="79" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                 <td width="45" height="18" valign="top" bgcolor="#000000"> <div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">HEURE</font></div></td>
@@ -155,12 +155,21 @@
                 </div></td>
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">PARIS</font></td>
                 <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LA BELLEVILLOISE<br>
-                  </strong>19-21, rue Boyer, 75020<strong><br>
+                  </strong>19-21, rue Boyer, 75020.<strong><br>
                     </strong>Tel : +33 1 46 36 07 07<br>
                 </font></p></td>
                 <td><div align="left">
                   <p><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">F&ecirc;te des 25 ans</font></strong></em></p>
                 </div></td>
+              </tr>
+              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#478B3F">
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">17 novembre 2017</font></td>
+                <td height="26" bgcolor="#478B3F">&nbsp;<font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">21h00</font></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">MONTATAIRE</font></td>
+                <td height="26" bgcolor="#478B3F"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LE PALACE<br>
+                </strong>8 bis, rue des Déportés, 60160.<strong><br>
+                </strong>Tel : +33 3 44 24 69 97</font></td>
+                <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>Show case de 15 mn, <strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&agrave;</font></strong> l'occasion de la sortie du DVD, <strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&agrave;</font></strong> l'entracte de la soir<strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong>e consacr<strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong>e au festival r<strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong>gional &quot;Haute Fr<strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong>quence&quot;</em></strong></font></td>
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">26 novembre au 3 décembre 2017</font></td>
@@ -185,7 +194,7 @@
                 </div></td>
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CR&Eacute;PY-EN-VALOIS</font></td>
                 <td height="26" bgcolor="#FF6600"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CENTRE CULTUREL MJC<br>
-                </strong>1, avenue de l'Europe, 60800<strong><br>
+                </strong>1, avenue de l'Europe, 60800<strong>.<br>
                 </strong>Tel : +33 3 44 39 63 18<br>
                 </font></p></td>
                 <td><div align="left">
