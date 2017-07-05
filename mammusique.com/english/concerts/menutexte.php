@@ -39,7 +39,7 @@
               </tr>
             </table>
             <br> 
-            <table height="414" width="773">
+            <table height="498" width="773">
               <tr> 
                 <td width="79" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                 <td width="49" height="18" valign="top" bgcolor="#000000"><div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">TIME</font></div></td>
@@ -157,7 +157,7 @@
                     </strong>Tel : +33 1 46 36 07 07<br>
                 </font></p></td>
                 <td><div align="left">
-                  <p><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">25 years anniversary</font></strong></em></p>
+                  <p><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">25 years anniversary with guests</font></strong></em></p>
                 </div></td>
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#478B3F">
@@ -168,6 +168,16 @@
                   </strong>8 bis, rue des Déportés, 60160.<br>
                   Tel : +33 3 44 24 69 97</font></td>
                 <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>15 mn showcase<strong>, dedicated to DVD's issue</strong>, <strong>during &quot;Haute Fr<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font>quence&quot; festival concert's intermission</strong></em></strong></font></td>
+              </tr>
+              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#478B3F">
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">November 18th 2017</font></td>
+                <td height="26" bgcolor="#666666">&nbsp;<font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:30 pm</font></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CONCHY-LES-POTS</font></td>
+                <td height="26" bgcolor="#666666"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LE CAM&Eacute;L&Eacute;ON<br>
+                  </strong>320, rue de la Harache, 60490.<strong><br>
+                  </strong>Tel : +33 3 44 85 84 83</font></td>
+                <td><p><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">25 years anniversary<br>
+                  Double concert : &quot;Jazz in my Musette&quot; and &quot;Human Swing Box&quot;</font></strong></em></p></td>
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">November 26th to December 3rd 2017</font></td>
@@ -197,6 +207,19 @@
                 </font></p></td>
                 <td><div align="left">
                   <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>4 young audiences concerts</strong></em></font></p>
+                </div></td>
+              </tr>
+              <tr bordercolor="#FFFFFF">
+                <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+              </tr>
+              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#FF6600">
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">April 3rd to 5th  2018</font></td>
+                <td height="26" bgcolor="#478B3F">&nbsp;</td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">HAUTE-SA&Ocirc;NE</font></td>
+                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><br>
+                </font></p></td>
+                <td><div align="left">
+                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>young audience and regular concerts</strong></em></font></p>
                 </div></td>
               </tr>
               <table width="688" height="1048" dwcopytype="CopyTableRow">

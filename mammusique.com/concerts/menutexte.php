@@ -40,7 +40,7 @@
               </tr>
             </table>
             <br> 
-            <table height="414" width="783">
+            <table height="498" width="793">
               <tr> 
                 <td width="79" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                 <td width="45" height="18" valign="top" bgcolor="#000000"> <div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">HEURE</font></div></td>
@@ -159,7 +159,7 @@
                     </strong>Tel : +33 1 46 36 07 07<br>
                 </font></p></td>
                 <td><div align="left">
-                  <p><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">F&ecirc;te des 25 ans</font></strong></em></p>
+                  <p><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">F&ecirc;te des 25 ans avec des invit<strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong></em></strong>s</font></strong></em></p>
                 </div></td>
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#478B3F">
@@ -170,6 +170,16 @@
                 </strong>8 bis, rue des Déportés, 60160.<strong><br>
                 </strong>Tel : +33 3 44 24 69 97</font></td>
                 <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>Show case de 15 mn, <strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&agrave;</font></strong> l'occasion de la sortie du DVD, <strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&agrave;</font></strong> l'entracte de la soir<strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong>e consacr<strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong>e au festival r<strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong>gional &quot;Haute Fr<strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong>quence&quot;</em></strong></font></td>
+              </tr>
+              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#478B3F">
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">18 novembre 2017</font></td>
+                <td height="26" bgcolor="#666666">&nbsp;<font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h30</font></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CONCHY-LES-POTS</font></td>
+                <td height="26" bgcolor="#666666"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LE CAM&Eacute;L&Eacute;ON<br>
+                  </strong>320, rue de la Harache, 60490.<strong><br>
+                  </strong>Tel : +33 3 44 85 84 83</font></td>
+                <td><p><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">F&ecirc;te des 25 ans<br>
+                 Double plateau &quot;Jazz in my Musette&quot; et &quot;Human Swing Box&quot;</font></strong></em></p></td>
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">26 novembre au 3 décembre 2017</font></td>
@@ -194,11 +204,24 @@
                 </div></td>
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CR&Eacute;PY-EN-VALOIS</font></td>
                 <td height="26" bgcolor="#FF6600"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CENTRE CULTUREL MJC<br>
-                </strong>1, avenue de l'Europe, 60800<strong>.<br>
-                </strong>Tel : +33 3 44 39 63 18<br>
+                  </strong>1, avenue de l'Europe, 60800<strong>.<br>
+                    </strong>Tel : +33 3 44 39 63 18<br>
                 </font></p></td>
                 <td><div align="left">
                   <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>4 concerts jeune public</strong></em></font></p>
+                </div></td>
+              </tr>
+              <tr bordercolor="#FFFFFF">
+                <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+              </tr>
+              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#FF6600">
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">3 au 5 avril  2018</font></td>
+                <td height="26" bgcolor="#478B3F">&nbsp;</td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">HAUTE-SA&Ocirc;NE</font></td>
+                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><br>
+                </font></p></td>
+                <td><div align="left">
+                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>concerts jeune public et tout public</strong></em></font></p>
 </div></td>
               </tr>
               <table width="688" height="1048" dwcopytype="CopyTableRow">
