@@ -39,30 +39,13 @@
               </tr>
             </table>
             <br> 
-            <table height="542" width="773">
+            <table height="520" width="773">
               <tr> 
                 <td width="79" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                 <td width="49" height="18" valign="top" bgcolor="#000000"><div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">TIME</font></div></td>
                 <td width="145" height="18" valign="top" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">TOWN</font></td>
                 <td width="235" height="18" valign="top" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">PLACE</font></td>
                 <td width="241" valign="top" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">CONTEXT</font></td>
-              </tr>
-              <tr bordercolor="#FFFFFF">
-                <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-              </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">August 26th 2017</font></td>
-                <td height="26" bgcolor="#BE2A29"><div align="center">
-                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">9:00 pm</font></div>
-                </div></td>
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">SENLIS</font></td>
-                <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>MA NATURE<br>
-                  </strong>9, place Henri IV, 60300.<strong><br>
-                    </strong>Tel : +33 3 44 28 11 95<br>
-                </font></p></td>
-                <td><div align="left">
-                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&quot;QUEBEC DUBLIN SPECIAL&quot;</strong></font></p>
-                </div></td>
               </tr>
               <tr bordercolor="#FFFFFF">
                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
@@ -85,7 +68,7 @@
                 </div></td>
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#246A9A">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">September 22nd  2017</font></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">September 29th 2017</font></td>
                 <td height="26" bgcolor="#246A9A"><div align="center">
                   <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:30 pm</font></div>
                 </div></td>
@@ -141,6 +124,20 @@
                 </font></p></td>
                 <td><div align="left">
                   <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&quot;VOYAGE CELTE&quot;</strong></font></p>
+                </div></td>
+              </tr>
+              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">October 28th 2017</font></td>
+                <td height="26" bgcolor="#BE2A29"><div align="center">
+                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></div>
+                </div></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">NOGENT-SUR-OISE</font></td>
+                <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>S&Eacute;SON<br>
+                  </strong>9, rue Ronsard, 60180.<strong><br>
+                    </strong>Tel : +33 3 44 29 48 41<br>
+                </font></p></td>
+                <td><div align="left">
+                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>Dinner concert</strong></em></font></p>
                 </div></td>
               </tr>
               <tr bordercolor="#FFFFFF">
@@ -206,7 +203,7 @@
                     </strong>Tel : +33 3 44 57 21 39<br>
                 </font></p></td>
                 <td><div align="left">
-                  <p>&nbsp;</p>
+                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>Dinner concert</strong></em></font></p>
                 </div></td>
               </tr>
               <tr bordercolor="#FFFFFF">
