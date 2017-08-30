@@ -210,7 +210,7 @@
                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#FF6600">
-                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">February 22nd-23rd 2018</font></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">February 8th-9th 2018</font></td>
                 <td height="26" bgcolor="#FF6600"><div align="center">
                   <div align="center"></div>
                 </div></td>
