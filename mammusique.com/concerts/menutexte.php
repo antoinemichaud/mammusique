@@ -40,7 +40,7 @@
               </tr>
             </table>
             <br> 
-            <table height="520" width="793">
+            <table height="576" width="793">
               <tr> 
                 <td width="79" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                 <td width="45" height="18" valign="top" bgcolor="#000000"> <div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">HEURE</font></div></td>
@@ -53,19 +53,19 @@
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">14 septembre 2017</font></td>
-                <td height="26" bgcolor="#666666"><div align="center">
+                <td height="26" bgcolor="#478B3F"><div align="center">
                   <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">18h30</font></div>
                 </div></td>
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">PARIS</font></td>
-                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LE MARCOUNET<br>
+                <td height="26" bgcolor="#478B3F"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LE MARCOUNET<br>
                   </strong>Port des Célestins,<br>
                   quai de l'Hôtel de Ville, 75004.<strong><br>
                     </strong>Tel : +33 6 60 47 38 52<br>
                 </font></p></td>
                 <td><div align="left">
                   <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">F&ecirc;te des 25 ans</font></strong><br>
-                    Concert en plein air</em></strong></font><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><br>
-                    Invit&eacute;: François H&eacute;gron (guitare)</font></strong></em><br>
+                    Double concert en plein air</em></strong></font><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"> &quot;Jazz in my Musette&quot; et &quot;Human Swing Box&quot;<br>
+                    </font></strong></em><br>
                   </p>
                 </div></td>
               </tr>
@@ -146,6 +146,32 @@
                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">4 novembre 2017</font></td>
+                <td height="26" bgcolor="#478B3F"><div align="center">
+                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">22h00</font></div>
+                </div></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">FRANCE MUSIQUE</font></td>
+                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>OCORA COULEURS DU MONDE<br>
+                  Radio FM.<br>
+                  </strong>Tel : +33 1 56 40 22 22<br>
+                </font></p></td>
+                <td><div align="left">
+                  <p><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Sp<strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong></em></strong>cial 25 ans de MAM</font></strong></em></p>
+                </div></td>
+              </tr>
+              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#FF6600">
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">8 novembre 2017</font></td>
+                <td height="26" bgcolor="#FF6600"><div align="center">
+                  <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">15h00</font></div>
+                </div></td>
+                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">TERGNIER</font></td>
+                <td height="26" bgcolor="#FF6600"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><br>
+                </font></p></td>
+                <td><div align="left">
+                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>spectacle jeune public</strong></em></font></p>
+                </div></td>
+              </tr>
+              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">11 novembre 2017</font></td>
                 <td height="26" bgcolor="#478B3F"><div align="center">
                   <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h00</font></div>
@@ -161,7 +187,7 @@
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#478B3F">
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">17 novembre 2017</font></td>
-                <td height="26" bgcolor="#478B3F">&nbsp;<font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">21h00</font></td>
+                <td height="26" align="center" bgcolor="#478B3F"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">21h00</font></td>
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">MONTATAIRE</font></td>
                 <td height="26" bgcolor="#478B3F"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LE PALACE<br>
                 </strong>8 bis, rue des Déportés, 60160.<strong><br>
@@ -170,7 +196,7 @@
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#478B3F">
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">18 novembre 2017</font></td>
-                <td height="26" bgcolor="#666666">&nbsp;<font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h30</font></td>
+                <td height="26" align="center" bgcolor="#666666"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h30</font></td>
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CONCHY-LES-POTS</font></td>
                 <td height="26" bgcolor="#666666"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LE CAM&Eacute;L&Eacute;ON<br>
                   </strong>320, rue de la Harache, 60490.<strong><br>
@@ -222,7 +248,7 @@
                     </strong>Tel : +33 3 44 39 63 18<br>
                 </font></p></td>
                 <td><div align="left">
-                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>4 concerts jeune public</strong></em></font></p>
+                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>4 spectacles jeune public</strong></em></font></p>
                 </div></td>
               </tr>
               <tr bordercolor="#FFFFFF">
@@ -235,7 +261,7 @@
                 <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><br>
                 </font></p></td>
                 <td><div align="left">
-                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>concerts jeune public et tout public</strong></em></font></p>
+                  <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>spectacles jeune public et tout public</strong></em></font></p>
 </div></td>
               </tr>
               <table width="688" height="1048" dwcopytype="CopyTableRow">
