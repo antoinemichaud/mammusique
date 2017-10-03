@@ -51,9 +51,9 @@
               <tr bordercolor="#FFFFFF">
                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
               </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">5 octobre 2017</font></td>
-                <td height="26" bgcolor="#478B3F"><div align="center">
+                <td height="26" bgcolor="#666666"><div align="center">
                   <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h00</font></div>
                 </div></td>
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">PARIS</font></td>
@@ -65,18 +65,19 @@
                   <p><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">F&ecirc;te des 25 ans</font></strong></em></p>
                 </div></td>
               </tr>
-              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+              <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#478B3F" >
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">8 octobre 2017</font></td>
                 <td height="26" bgcolor="#478B3F"><div align="center">
                   <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h00</font></div>
                 </div></td>
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">PARIS</font></td>
-                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>AUX PETITS JOUEURS<br>
+                <td height="26" bgcolor="#478B3F" ><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>AUX PETITS JOUEURS<br>
                   </strong>59, rue Mouza&iuml;a, 75019.<strong><br>
                     </strong>Tel : +33 1 42 41 23 60<br>
                 </font></p></td>
                 <td><div align="left">
-                  <p><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">F&ecirc;te des 25 ans</font></strong></em></p>
+                  <p><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">F&ecirc;te des 25 ans<br>
+                    &quot;Spécial sortie DVD&quot;</font></strong></em></p>
                 </div></td>
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#246A9A">
@@ -135,7 +136,9 @@
                   </strong>Tel : +33 1 56 40 22 22<br>
                 </font></p></td>
                 <td><div align="left">
-                  <p><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Sp<strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong></em></strong>cial 25 ans de MAM</font></strong></em></p>
+                  <p><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">F&ecirc;te des 25 ans<br>
+                    Spécial
+                    sortie double-album, avec invit<em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong></em></strong></font></strong></em>s</font></strong></em></p>
                 </div></td>
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#FF6600">
@@ -287,7 +290,7 @@
                   </strong>Tel : +33 3 44 24 69 97</font></p></td>
                 <td><div align="left">
                   <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&quot;VOYAGE CELTE&quot;</strong><em><strong><br>
-                    Avec des </strong></em><strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong></em></strong><em><strong>l</strong></em><strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&egrave;</font></strong></em></strong><em><strong>ves du collège Anatole France et de l'</strong></em><strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong></em></strong><em><strong>cole de musique AMEM</strong></em></font></p>
+                    Avec des </strong></em><strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong></em></strong><em><strong>l</strong></em><strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&egrave;</font></strong></em></strong><em><strong>ves du coll</strong></em><strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&egrave;</font></strong></em></strong><em><strong>ge Anatole France et de l'</strong></em><strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong></em></strong><em><strong>cole de musique AMEM</strong></em></font></p>
                 </div></td>
               </tr>
               <table width="688" height="1048" dwcopytype="CopyTableRow">

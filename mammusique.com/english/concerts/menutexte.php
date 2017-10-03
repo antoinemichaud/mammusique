@@ -161,8 +161,10 @@
                     </strong>Tel : +33 1 46 36 07 07<br>
                 </font></p></td>
                 <td><div align="left">
-                  <p><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">25 years anniversary with guests</font></strong></em></p>
-                </div></td>
+                  <p><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">25 years anniversary<br>
+                    Special double-album's issue.<br>
+                  With guests</font></strong></em></p>
+</div></td>
               </tr>
               <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#478B3F">
                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">November 17th 2017</font></td>
