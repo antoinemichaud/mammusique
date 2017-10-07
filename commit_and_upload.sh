@@ -2,8 +2,8 @@
 ftp_password=$1
 commit_message="save"
 
-if [[ $* == 2 ]]; then
-	commit_message=$2
+if [[ $# == 2 ]]; then
+	commit_message="$2"
 fi
 
 curl --ftp-create-dirs -T blank_file -u mammusique@mammusique.eu:$ftp_password ftp://ftp.mammusique.eu/blank_file
@@ -26,6 +26,6 @@ do
 	curl --ftp-create-dirs -T $file_to_upload -u mammusique@mammusique.eu:$ftp_password ftp://ftp.mammusique.eu/$file_to_upload
 done
 
-git commit -m $commit_message
+git commit -m "$commit_message"
 git pull -r
 git push
