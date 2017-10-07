@@ -129,6 +129,30 @@ a#bienvenue_melodie_extra_teaser {
 	top: 0;
 }
 
+#bienvenue_link {
+	display: block;
+	background-image: url("../bienvenue5a.jpg");
+	width: 146px;
+	height: 49px;
+	border: 0;
+}
+
+#bienvenue_link:hover {
+	background-image: url("../bienvenue5b.jpg");
+}
+
+#welcome_link {
+	display: block;
+	background-image: url("../bienvenue6a.jpg");
+	width: 146px;
+	height: 49px;
+	border: 0;
+}
+
+#welcome_link:hover {
+	background-image: url("../bienvenue6b.jpg");
+}
+
 a#bienvenue_lien_chaine_youtube {
 	display: block;
 	color: white;
