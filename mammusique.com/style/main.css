@@ -163,6 +163,14 @@ a#bienvenue_lien_chaine_youtube {
 	padding-left: 25px;
 }
 
+#bienvenue_body {
+    background: black;
+}
+
+#bienvenue_body >> table {
+
+}
+
 .align_right {
 	text-align: right;
 	padding-right: 20px;
@@ -206,3 +214,13 @@ a#bienvenue_lien_chaine_youtube {
 
 /*Fin style page bienvenue*/
 
+#bienvenue_body table {
+    border-collapse: collapse;
+    line-height: 0;
+    border: 0;
+    border-spacing: 0;
+}
+
+table tr td {
+    padding: 0;
+}
