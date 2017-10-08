@@ -22,5 +22,8 @@
     <img src="menulat9bis.jpg">
 </div>
 </div>
+<script>
+    $(".float").sideFollow();
+</script>
 </body>
 </html>

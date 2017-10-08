@@ -15,9 +15,18 @@
     </script>
 
     <link rel="stylesheet" type="text/css" href="style/main.css">
+    <link rel="stylesheet" href="css/contact-buttons.css">
+    <script src="https://use.fontawesome.com/2014f6c3b6.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="sidefollow.js"></script>
 </head>
 
 <body class="general-style">
+<div class="float">
+    <a id="facebook_logo" class="share_logo" href="https://www.facebook.com/mammusique" target="_blank"><img src="facebook.png" alt=""/></a>
+    <a id="twitter_logo" class="share_logo" href="https://twitter.com/MAM_mammusique" target="_blank"><img src="TwitterLogo_white.png" alt=""/></a>
+    <a id="youtube_logo" class="share_logo" href="https://www.youtube.com/channel/UC01RWVKr6ekyiRnnHJmDuug" target="_blank"><img src="youtube.png" alt=""/></a>
+</div>
 <div align="left">
     <div align="center">
         <table>

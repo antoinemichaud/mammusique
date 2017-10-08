@@ -206,6 +206,7 @@ a#bienvenue_lien_chaine_youtube {
 
 .share_logo img {
 	height: 50px;
+    width: 50px;
 	margin: 10px;
 }
 
@@ -408,6 +409,17 @@ ul.left_menu {
 {
     color:#FFFFFF;
     text-decoration:none;
+}
+
+.float {
+    position: absolute;
+    line-height: 0;
+    margin: 0;
+    padding: 0;
+    width: 50px;
+    height: 200px;
+    top: 118px;
+    right: 25px;
 }
 
 div#preload { display: none; }
