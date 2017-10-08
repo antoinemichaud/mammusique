@@ -26,6 +26,7 @@ menutrans8="menutrans8bis.jpg";
 
 </script>
 
+
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <style>
@@ -41,4 +42,5 @@ color:#FFFFFF;
 text-decoration:none;
 }
 -->
-</style> 
+</style>
+<link rel="stylesheet" type="text/css" href="../style/main.css">
