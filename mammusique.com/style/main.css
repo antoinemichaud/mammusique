@@ -229,3 +229,5 @@ a#bienvenue_lien_chaine_youtube {
 table tr td {
     padding: 0;
 }
+
+div#preload { display: none; }
