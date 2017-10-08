@@ -1,13 +1,13 @@
 /* Style pour la page de bienvenue */
 
 #logos {
-    position: absolute;
-    left:17%;
-    top: 200px;
+	position: absolute;
+	left:17%;
+	top: 200px;
 }
 
 #logos img {
-    width: 621px;
+	width: 621px;
 }
 
 /*partie mySpace */
@@ -129,28 +129,32 @@ a#bienvenue_melodie_extra_teaser {
 	top: 0;
 }
 
+#bienvenue_main {
+	position: static;
+}
+
 #bienvenue_link {
-	display: block;
-	background-image: url("../bienvenue5a.jpg");
+	display: inline-flex;
+	background-image: url("../bienvenue5a.png");
 	width: 146px;
 	height: 49px;
 	border: 0;
 }
 
 #bienvenue_link:hover {
-	background-image: url("../bienvenue5b.jpg");
+	background-image: url("../bienvenue5b.png");
 }
 
 #welcome_link {
-	display: block;
-	background-image: url("../bienvenue6a.jpg");
+	display: inline-flex;
+	background-image: url("../bienvenue6a.png");
 	width: 146px;
 	height: 49px;
 	border: 0;
 }
 
 #welcome_link:hover {
-	background-image: url("../bienvenue6b.jpg");
+	background-image: url("../bienvenue6b.png");
 }
 
 a#bienvenue_lien_chaine_youtube {
@@ -164,11 +168,12 @@ a#bienvenue_lien_chaine_youtube {
 }
 
 #bienvenue_body {
-    background: black;
+	background-image: url(../mam_fond.png);
+	background-repeat: round;
 }
 
 #bienvenue_body table {
-    line-height: 0;
+	line-height: 0;
 }
 
 .align_right {
@@ -194,13 +199,14 @@ a#bienvenue_lien_chaine_youtube {
 }
 
 #share {
-    position: relative;
-    left: 179px;
-    top: -55px;
+	position: relative;
+	left: 179px;
+	top: -55px;
 }
 
 .share_logo img {
 	height: 50px;
+	width: 50px;
 	margin: 10px;
 }
 
@@ -215,194 +221,205 @@ a#bienvenue_lien_chaine_youtube {
 /*Fin style page bienvenue*/
 
 table {
-    border-collapse: collapse;
-    border: 0;
-    border-spacing: 0;
+	border-collapse: collapse;
+	border: 0;
+	border-spacing: 0;
 }
 
 table tr td {
-    padding: 0;
+	padding: 0;
 }
 
 
 #jazzin_link {
-    background-image: url(../menutrans3.jpg);
-    display: block;
-    width: 89px;
-    height: 78px;
+	background-image: url(../menutrans3.jpg);
+	display: block;
+	width: 89px;
+	height: 78px;
 }
 
 #jazzin_link:hover {
-    background-image: url(../menutrans3bis.jpg);
+	background-image: url(../menutrans3bis.jpg);
 }
 
 #mamduo_link {
-    background-image: url(../menutrans4.jpg);
-    display: block;
-    width: 77px;
-    height: 78px;
+	background-image: url(../menutrans4.jpg);
+	display: block;
+	width: 77px;
+	height: 78px;
 }
 
 #mamduo_link:hover {
-    background-image: url(../menutrans4bis.jpg);
+	background-image: url(../menutrans4bis.jpg);
 }
 
 #mamtrio_link {
-    background-image: url(../menutrans5.jpg);
-    display: block;
-    width: 83px;
-    height: 78px;
+	background-image: url(../menutrans5.jpg);
+	display: block;
+	width: 83px;
+	height: 78px;
 }
 
 #mamtrio_link:hover {
-    background-image: url(../menutrans5bis.jpg);
+	background-image: url(../menutrans5bis.jpg);
 }
 
 #mamquartet_link {
-    background-image: url(../menutrans6.jpg);
-    display: block;
-    width: 85px;
-    height: 78px;
+	background-image: url(../menutrans6.jpg);
+	display: block;
+	width: 85px;
+	height: 78px;
 }
 
 #mamquartet_link:hover {
-    background-image: url(../menutrans6bis.jpg);
+	background-image: url(../menutrans6bis.jpg);
 }
 
 #guenaelle_link {
-    background-image: url(../menutrans7.jpg);
-    display: block;
-    width: 127px;
-    height: 78px;
+	background-image: url(../menutrans7.jpg);
+	display: block;
+	width: 127px;
+	height: 78px;
 }
 
 #guenaelle_link:hover {
-    background-image: url(../menutrans7bis.jpg);
+	background-image: url(../menutrans7bis.jpg);
 }
 
 #machine_link {
-    background-image: url(../menutrans8.jpg);
-    display: block;
-    width: 135px;
-    height: 78px;
+	background-image: url(../menutrans8.jpg);
+	display: block;
+	width: 135px;
+	height: 78px;
 }
 
 #machine_link:hover {
-    background-image: url(../menutrans8bis.jpg);
+	background-image: url(../menutrans8bis.jpg);
 }
 
 #accueil_link {
-    background-image: url(../menulat2.jpg);
-    display: block;
-    width: 153px;
-    height: 51px;
+	background-image: url(../menulat2.jpg);
+	display: block;
+	width: 153px;
+	height: 51px;
 }
 
 #accueil_link:hover {
-    background-image: url(../menulat2bis.jpg);
+	background-image: url(../menulat2bis.jpg);
 }
 
 #actualite_link {
-    background-image: url(../menulat3.jpg);
-    display: block;
-    width: 153px;
-    height: 42px;
+	background-image: url(../menulat3.jpg);
+	display: block;
+	width: 153px;
+	height: 42px;
 }
 
 #actualite_link:hover {
-    background-image: url(../menulat3bis.jpg);
+	background-image: url(../menulat3bis.jpg);
 }
 
 #concerts_link {
-    background-image: url(../menulat4.jpg);
-    display: block;
-    width: 153px;
-    height: 39px;
+	background-image: url(../menulat4.jpg);
+	display: block;
+	width: 153px;
+	height: 39px;
 }
 
 #concerts_link:hover {
-    background-image: url(../menulat4bis.jpg);
+	background-image: url(../menulat4bis.jpg);
 }
 
 #presse_link {
-    background-image: url(../menulat5.jpg);
-    display: block;
-    width: 153px;
-    height: 39px;
+	background-image: url(../menulat5.jpg);
+	display: block;
+	width: 153px;
+	height: 39px;
 }
 
 #presse_link:hover {
-    background-image: url(../menulat5bis.jpg);
+	background-image: url(../menulat5bis.jpg);
 }
 
 #discographie_link {
-    background-image: url(../menulat6.jpg);
-    display: block;
-    width: 153px;
-    height: 45px;
+	background-image: url(../menulat6.jpg);
+	display: block;
+	width: 153px;
+	height: 45px;
 }
 
 #discographie_link:hover {
-    background-image: url(../menulat6bis.jpg);
+	background-image: url(../menulat6bis.jpg);
 }
 
 #jeune_link {
-    background-image: url(../menulat7.jpg);
-    display: block;
-    width: 153px;
-    height: 43px;
+	background-image: url(../menulat7.jpg);
+	display: block;
+	width: 153px;
+	height: 43px;
 }
 
 #jeune_link:hover {
-    background-image: url(../menulat7bis.jpg);
+	background-image: url(../menulat7bis.jpg);
 }
 
 #credits_link {
-    background-image: url(../menulat8.jpg);
-    display: block;
-    width: 153px;
-    height: 45px;
+	background-image: url(../menulat8.jpg);
+	display: block;
+	width: 153px;
+	height: 45px;
 }
 
 #credits_link:hover {
-    background-image: url(../menulat8bis.jpg);
+	background-image: url(../menulat8bis.jpg);
 }
 
 #contact_link {
-    background-image: url(../menulat9.jpg);
-    display: block;
-    width: 153px;
-    height: 53px;
+	background-image: url(../menulat9.jpg);
+	display: block;
+	width: 153px;
+	height: 53px;
 }
 
 #contact_link:hover {
-    background-image: url(../menulat9bis.jpg);
+	background-image: url(../menulat9bis.jpg);
 }
 
 ul.left_menu {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    width: 153px;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 153px;
 }
 
 .general-style {
-    font-family: sans-serif;
-    font-size: medium;
-    color: #000;
-    background: #C9935D;
+	font-family: sans-serif;
+	font-size: medium;
+	color: #000;
+	background: #C9935D;
 }
 
 .general-style a
 {
-    color:#BA2819;
-    text-decoration:none;
+	color:#BA2819;
+	text-decoration:none;
 }
 
 .general-style a:hover
 {
-    color:#FFFFFF;
-    text-decoration:none;
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+.float {
+	position: absolute;
+	line-height: 0;
+	margin: 0;
+	padding: 0;
+	width: 50px;
+	height: 200px;
+	top: 118px;
+	right: 25px;
 }
 
 div#preload { display: none; }
