@@ -20,8 +20,8 @@ include_once "header.inc"
                                 <td width="77" height="26"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="1"><strong>Simply<br>
                                                 Two </strong></font></div></td>
                                 <td bgcolor="#BE2A29" width="26">&nbsp;</td>
-                                <td width="126"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="1"><strong>La M&eacute;lodie
-                                                des Choses </strong></font></div></td>
+                                <td width="126"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="1"><strong>La M&eacute;lodie<br>
+                              des Choses </strong></font></div></td>
                                 <td bgcolor="#FF6600" width="26">&nbsp;</td>
                                 <td width="84"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="1"><strong>Concert-<br>
                                                 Conf&eacute;rence</strong></font></div></td>
@@ -30,18 +30,18 @@ include_once "header.inc"
                                             <strong>Jazz in<br>
                                                 my Musette</strong></font></div></td>
                                 <td bgcolor="#478B3F" width="26">&nbsp;</td>
-                                <td width="113"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="1"><strong>Brassens,<br>
-                                                passionn&eacute;ment</strong></font></div></td>
-                                <td bgcolor="#6B4D87" width="26">&nbsp;</td>
-                                <td width="75"> <div align="right">
-                                        <p><font face="Arial, Helvetica, sans-serif" size="1"><strong>Human</strong></font><font face="Arial, Helvetica, sans-serif" size="1"><strong><br>
-                                                    Swing Box</strong></font></p>
-                                    </div></td>
+                                <td width="113"> <div align="right"><font face="Arial, Helvetica, sans-serif" size="1"><strong>Human<br>
+                              Swing Box</strong></font></div></td>
                                 <td bgcolor="#666666" width="26">&nbsp;</td>
+                                <td width="75"> <div align="right">
+                                        <p><font face="Arial, Helvetica, sans-serif" size="1"><strong>Multi-<br>
+                                                    spectacles</strong></font></p>
+                                    </div></td>
+                                <td bgcolor="#6B4D87" width="26">&nbsp;</td>
                             </tr>
                         </table>
                         <br>
-                        <table height="632" width="793">
+                        <table height="604" width="793">
                             <tr>
                                 <td width="79" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                                 <td width="45" height="18" valign="top" bgcolor="#000000"> <div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">HEURE</font></div></td>
@@ -51,35 +51,6 @@ include_once "header.inc"
                             </tr>
                             <tr bordercolor="#FFFFFF">
                                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">5 octobre 2017</font></td>
-                                <td height="26" bgcolor="#666666"><div align="center">
-                                        <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h00</font></div>
-                                    </div></td>
-                                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">PARIS</font></td>
-                                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>AUX PETITS JOUEURS<br>
-                                            </strong>59, rue Mouza&iuml;a, 75019.<strong><br>
-                                            </strong>Tel : +33 1 42 41 23 60<br>
-                                        </font></p></td>
-                                <td><div align="left">
-                                        <p><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">F&ecirc;te des 25 ans</font></strong></em></p>
-                                    </div></td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#478B3F" >
-                                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">8 octobre 2017</font></td>
-                                <td height="26" bgcolor="#478B3F"><div align="center">
-                                        <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h00</font></div>
-                                    </div></td>
-                                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">PARIS</font></td>
-                                <td height="26" bgcolor="#478B3F" ><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>AUX PETITS JOUEURS<br>
-                                            </strong>59, rue Mouza&iuml;a, 75019.<strong><br>
-                                            </strong>Tel : +33 1 42 41 23 60<br>
-                                        </font></p></td>
-                                <td><div align="left">
-                                        <p><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">F&ecirc;te des 25 ans<br>
-                                                        &quot;Spécial sortie DVD&quot;</font></strong></em></p>
-                                    </div></td>
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#246A9A">
                                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">20 octobre 2017</font></td>
@@ -126,20 +97,20 @@ include_once "header.inc"
                             <tr bordercolor="#FFFFFF">
                                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#6B4D87">
                                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">4 novembre 2017</font></td>
-                                <td height="26" bgcolor="#478B3F"><div align="center">
+                                <td height="26" bgcolor="#6B4D87"><div align="center">
                                         <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">22h00</font></div>
                                     </div></td>
                                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">FRANCE MUSIQUE</font></td>
-                                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>OCORA COULEURS DU MONDE<br>
+                                <td height="26" bgcolor="#6B4D87"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>OCORA COULEURS DU MONDE<br>
                                                 Radio FM.<br>
                                             </strong>Tel : +33 1 56 40 22 22<br>
                                         </font></p></td>
                                 <td><div align="left">
                                         <p><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">F&ecirc;te des 25 ans<br>
                                                         Spécial
-                                                        sortie double-album, avec invit<em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong></em></strong></font></strong></em>s</font></strong></em></p>
+                                                        sortie double-album et DVD, avec &quot;Jazz in my Musette&quot; et &quot;Human Swing Box&quot;</font></strong></em></p>
                                     </div></td>
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#FF6600">
@@ -154,18 +125,18 @@ include_once "header.inc"
                                         <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>spectacle jeune public</strong></em></font></p>
                                     </div></td>
                             </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#6B4D87">
                                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">11 novembre 2017</font></td>
-                                <td height="26" bgcolor="#478B3F"><div align="center">
+                                <td height="26" bgcolor="6B4D87"><div align="center">
                                         <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h00</font></div>
                                     </div></td>
                                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">PARIS</font></td>
-                                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LA BELLEVILLOISE<br>
+                                <td height="26" bgcolor="6B4D87"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LA BELLEVILLOISE<br>
                                             </strong>19-21, rue Boyer, 75020.<strong><br>
                                             </strong>Tel : +33 1 46 36 07 07<br>
                                         </font></p></td>
                                 <td><div align="left">
-                                        <p><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">F&ecirc;te des 25 ans avec des invit<strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong></em></strong>s</font></strong></em></p>
+                                        <p><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">F&ecirc;te des 25 ans avec des invit<strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong></em></strong>s et DJ ending</font></strong></em></p>
                                     </div></td>
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#478B3F">
@@ -177,23 +148,33 @@ include_once "header.inc"
                                         </strong>Tel : +33 3 44 24 69 97</font></td>
                                 <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>Show case de 15 mn, <strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&agrave;</font></strong> l'occasion de la sortie du DVD, <strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&agrave;</font></strong> l'entracte de la soir<strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong>e consacr<strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong>e au festival r<strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong>gional &quot;Haute Fr<strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong>quence&quot;</em></strong></font></td>
                             </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#478B3F">
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#6B4D87">
                                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">18 novembre 2017</font></td>
-                                <td height="26" align="center" bgcolor="#666666"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h30</font></td>
+                                <td height="26" align="center" bgcolor="#6B4D87"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h30</font></td>
                                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CONCHY-LES-POTS</font></td>
-                                <td height="26" bgcolor="#666666"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LE CAM&Eacute;L&Eacute;ON<br>
+                                <td height="26" bgcolor="#6B4D87"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LE CAM&Eacute;L&Eacute;ON<br>
                                         </strong>320, rue de la Harache, 60490.<strong><br>
                                         </strong>Tel : +33 3 44 85 84 83</font></td>
                                 <td><p><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">F&ecirc;te des 25 ans<br>
                                                     Double plateau &quot;Jazz in my Musette&quot; et &quot;Human Swing Box&quot;</font></strong></em></p></td>
                             </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">24 novembre 2017</font></td>
+                              <td height="26" align="center" bgcolor="#666666"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">21h00</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">OZOIR-LA-FERRI&Egrave;RE</font></td>
+                              <td height="26" bgcolor="#666666"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>FESTIVAL JAZZ ET BLUES<br>
+                                ESPACE HORIZON<br>
+                              </strong>Allée de l'Espoir,77330.<strong><br>
+                              </strong>Tel : +33 1 60 02 94 95</font></td>
+                              <td>&nbsp;</td>
+                            </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
                                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">26 novembre au 3 décembre 2017</font></td>
-                                <td height="26" bgcolor="#BE2A29"><div align="center">
+                                <td height="26" bgcolor="#666666"><div align="center">
                                         <div align="center"></div>
                                     </div></td>
                                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">TOURN&Eacute;E EN CORSE</font></td>
-                                <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><br>
+                                <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><br>
                                         </font></p></td>
                                 <td><div align="left">
                                         <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>_ </strong></em><strong><em>CONCERTS EN DUO<br>
@@ -237,11 +218,11 @@ include_once "header.inc"
                             <tr bordercolor="#FFFFFF">
                                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#FF6600">
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#6B4D87">
                                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">4 au 6 avril  2018</font></td>
-                                <td height="26" bgcolor="#478B3F">&nbsp;</td>
+                                <td height="26" bgcolor="#6B4D87">&nbsp;</td>
                                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">GY</font></td>
-                                <td height="26" bgcolor="#666666"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LA BULLE</strong><br>
+                                <td height="26" bgcolor="#6B4D87"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LA BULLE</strong><br>
                                             70700.<br>
                                             Tel : +33 3 84 75 36 37
                                             <br>
@@ -346,7 +327,7 @@ include_once "header.inc"
                                 </tr>
                             </table>
                         </table>
-                        <div align="center"></div></td>
+                    <div align="center"></div></td>
                 </tr>
             </table></td>
     </tr>
