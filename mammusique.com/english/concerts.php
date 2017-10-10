@@ -162,7 +162,7 @@ include_once "header.inc"
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">OZOIR-LA-FERRI&Egrave;RE</font></td>
                               <td height="26" bgcolor="#666666"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>FESTIVAL JAZZ ET BLUES<br>
                                 ESPACE HORIZON<br>
-                                </strong>Allée de l'Espoir,77330.<strong><br>
+                                </strong>Allée de l'Espoir, 77330.<strong><br>
                                 </strong>Tel : +33 1 60 02 94 95</font></td>
                               <td>&nbsp;</td>
                             </tr>
