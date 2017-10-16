@@ -4,7 +4,8 @@ include_once "header.inc"
 
 <div>
     <p class="general-style" style="text-align: justify">
-        <img src="photo.accueil.jpg" width="220" height="313" align="left" hspace="10"><a href="javascript:;" onClick="window.open('bio/viviane.html','bio','top=25, left=25, height=435, width=380')">Viviane
+        <img src="photo.accueil.jpg" width="213" height="312" align="left" hspace="10">
+        <a href="javascript:;" onClick="window.open('bio/viviane.html','bio','top=25, left=25, height=435, width=380')">Viviane
             Arnoux</a> and <a href="javascript:;" onClick="window.open('bio/francois.html','bio','top=25, left=25, height=435, width=380')">Fran&ccedil;ois
             Michaud</a> have been playing happily together since 1992. The two of
         them worked out an original musical project for accordion, violin, viola
