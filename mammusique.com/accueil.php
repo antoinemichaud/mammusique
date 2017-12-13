@@ -22,7 +22,7 @@
         les aventures avec des comp&egrave;res d&#146;horizons &eacute;clectiques,
         enregistrent 9 albums chez Buda Musique (le 7ème, &quot;Paris Village&quot;,
         est une commande de l'&eacute;diteur Kosinus), usant du duo jusqu&#146;au
-        quintet (avec violoncelle, percussions, batterie, invit&eacute;s&#133;). Ils ont égalemnt sorti un DVDLeur
+        quintet (avec violoncelle, percussions, batterie, invit&eacute;s&#133;). Ils ont également sorti un DVD chez La Seine TV. Leur
         version de Mission Impossible (Lalo Schiffrin) a &eacute;t&eacute; reprise
         dans 2 compilations et diffus&eacute;e sur France 2. Ils enregistrent 3 cds
         avec des chanteurs japonais, participent &agrave; ceux de Mama Kaya (2), Thomas
