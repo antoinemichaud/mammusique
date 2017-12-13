@@ -43,7 +43,7 @@ include_once "header.inc"
                         860123: Buda Musique/Socadisc, 2005.</font></font></p>
             <p><font face="Arial, Helvetica, sans-serif" size="2"><font size="1"><a href="machine.php">MAM:
                             <b>MUSIQUE ACOUSTIQUE MACHINES<br>
-                            </b>&#147;meddled times/temps m&ecirc;l&eacute;s&#148;</a></font><br>
+                            </b>&#147;meddled times/temps m&ecirc;l&eacute;s&#148;</a></font><font size="1"><a href="machine.php"> (+ </a></font><font face="Arial, Helvetica, sans-serif" size="2"><font size="1"><a href="machine.php"> live</a></font></font><font size="1"><a href="machine.php"> bonus DVD)</a></font><br>
                     <font size="1">featuring Fab, synths, beat, vocals.<br>
                         860187: Buda Musique/Socadisc, 2010.</font></font></p>
             <p><font face="Arial, Helvetica, sans-serif" size="2"><font size="1"><a href="mamduo.php">VIVIANE
@@ -54,17 +54,20 @@ include_once "header.inc"
             <p><font face="Arial, Helvetica, sans-serif" size="2"><font size="1"><a href="jazzin.php">MAM: <b>HUMAN SWING BOX</b></a><br>
                         featuring Norbert &quot;Touski&quot; Lucarain, human beat-box, keabords, body percussion.<br>
                         860280: Buda Musique/Socadisc, 2015.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><font size="1"><a href="jazzin.php">MAM: DVD <b>JAZZ IN MY MUSETTE</b></a><br>
+featuring Fran&ccedil;ois Parisi, accord&eacute;on.<br>
+La Seine TV/Musea (Jazz' Azimut Collection)</font><font face="Arial, Helvetica, sans-serif" size="2"><font size="1"> 2017</font></font><font size="1">.</font></font></p>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><font size="1"><a href="jazzin.php">MAM: <b>25 ANS</b> (double-album)</a><br>
+              </font><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif" size="1">featuring </font><font size="1">Xavier Desandre-Navarre, batterie, percussions;</font></font> <font face="Arial, Helvetica, sans-serif" size="2"><font size="1">Alain Grange, violoncelle;  Olivier Marc, batterie, percussions; </font></font><font face="Arial, Helvetica, sans-serif" size="2"><font size="1">Fran&ccedil;ois Parisi, accord&eacute;on</font><font face="Arial, Helvetica, sans-serif" size="2"><font size="1">; Sylvain Pignot, batterie, percussions.</font></font></font><font size="1"><br>
+                860315: Buda Musique/Socadisc, 2017.</font></font></p>
             <p><font face="Arial, Helvetica, sans-serif" size="2"><br>
-                    <font size="1"><b><br>
-                            EXCEPT SERIES:<br>
-                        </b><a href="guenaelle.php">GU&Eacute;NA&Euml;LLE ET MAM:<br>
-                            <b>BRASSENS PASSIONN&Eacute;MENT</b></a></font><br>
-                    <font size="1">featuring Gu&eacute;na&euml;lle, singer.<br>
-                        GFGB002: autoproduction, 2009.</font> </font></p>
-            <p><font face="Arial, Helvetica, sans-serif" size="2"><br>
-                    <br>
-                </font></p>
-        </td>
+              <font size="1"><b><br>
+                EXCEPT SERIES:<br>
+                </b><a href="guenaelle.php">GU&Eacute;NA&Euml;LLE ET MAM:<br>
+                  <b>BRASSENS PASSIONN&Eacute;MENT</b></a></font><br>
+              <font size="1">featuring Gu&eacute;na&euml;lle, singer.<br>
+                GFGB002: self-production, 2009.</font></font><font face="Arial, Helvetica, sans-serif" size="2"><br>
+              </font></p></td>
         <td></td>
         <td valign="top"><font face="Arial, Helvetica, sans-serif" size="2"><b>COLLABORATIONS</b><br>
                 <font size="1"><br>
