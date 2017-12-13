@@ -58,7 +58,11 @@ include_once "header.inc"
 featuring Fran&ccedil;ois Parisi, accord&eacute;on.<br>
 La Seine TV/Musea (Jazz' Azimut Collection)</font><font face="Arial, Helvetica, sans-serif" size="2"><font size="1"> 2017</font></font><font size="1">.</font></font></p>
             <p><font face="Arial, Helvetica, sans-serif" size="2"><font size="1"><a href="jazzin.php">MAM: <b>25 ANS</b> (double-album)</a><br>
-              </font><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif" size="1">featuring </font><font size="1">Xavier Desandre-Navarre, batterie, percussions;</font></font> <font face="Arial, Helvetica, sans-serif" size="2"><font size="1">Alain Grange, violoncelle;  Olivier Marc, batterie, percussions; </font></font><font face="Arial, Helvetica, sans-serif" size="2"><font size="1">Fran&ccedil;ois Parisi, accord&eacute;on</font><font face="Arial, Helvetica, sans-serif" size="2"><font size="1">; Sylvain Pignot, batterie, percussions.</font></font></font><font size="1"><br>
+              </font><font face="Arial, Helvetica, sans-serif" size="2"><font face="Arial, Helvetica, sans-serif" size="1">featuring </font><font size="1">Xavier Desandre-Navarre, batterie, percussions;<br>
+              </font></font><font face="Arial, Helvetica, sans-serif" size="2"><font size="1">Alain Grange, violoncelle;<br>
+              Olivier Marc, batterie, percussions;<br>
+              </font></font><font face="Arial, Helvetica, sans-serif" size="2"><font size="1">Fran&ccedil;ois Parisi, accord&eacute;on</font><font face="Arial, Helvetica, sans-serif" size="2"><font size="1">;<br>
+              Sylvain Pignot, batterie, percussions.</font></font></font><font size="1"><br>
                 860315: Buda Musique/Socadisc, 2017.</font></font></p>
             <p><font face="Arial, Helvetica, sans-serif" size="2"><br>
               <font size="1"><b><br>
