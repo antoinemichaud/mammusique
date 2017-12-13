@@ -281,7 +281,7 @@ include_once "header.inc"
                                 <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">6:00 pm</font></div>
                               </div></td>
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">LE THILLET</font></td>
-                              <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>FOYER DE VIE &quot;LE BEAUCAMP<br>
+                              <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>FOYER DE VIE &quot;LE BEAUCAMP&quot;<br>
                                 </strong>Chemin des Pâtures, 60660.<strong><br>
                                   </strong>Tel : +33 3 44 56 04 40<br>
                               </font></p></td>

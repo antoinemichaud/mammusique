@@ -281,7 +281,7 @@ Tel : +33 3 84 75 36 37</font></td>
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"> 12 juin 2018</font></td>
                               <td height="26" align="center" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">18h00</font></td>
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">LE THILLET</font></td>
-                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>FOYER DE VIE &quot;LE BEAUCAMP<br>
+                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>FOYER DE VIE &quot;LE BEAUCAMP&quot;<br>
                                 </strong>Chemin des Pâtures, 60660.<strong><br>
                                   </strong>Tel : +33 3 44 56 04 40<br>
                               </font></p></td>
