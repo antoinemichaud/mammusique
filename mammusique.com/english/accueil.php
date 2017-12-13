@@ -20,10 +20,10 @@ include_once "header.inc"
         <br>
         These two restless musicians, the founders of MAM, often play in duos; yet,
         always anxious to make novel musical encounters they delight in performing with
-        fellow musicians of different backgrounds. They recorded 8 CD&#8217;s with Buda
-        Musique (the second to last, &quot;Paris Village&quot; was an order from the publisher
+        fellow musicians of different backgrounds. They recorded 9 albums with Buda
+        Musique (the 7th, &quot;Paris Village&quot;, was an order from the publisher
         Kosinus) in various formations from duet to quintet (guest cello, percussion
-        and drums). Their version of &#8220;Mission Impossible&#8221; (Lalo Schiffrin)
+        and drums). They also recorded a DVD with La Seine TV. Their version of &#8220;Mission Impossible&#8221; (Lalo Schiffrin)
         was twice compiled and played on tv (France 2). They recorded 3 CD&#8217;s with
         Japanese singers, participated in those by Mama Kaya (2), Thomas Pitiot (2),
         G&eacute;rard Pitiot (3), Jean Piero, Alifair, Gilliane Kim, Thomasi (2). They
@@ -36,14 +36,14 @@ include_once "header.inc"
         and keyboards together!
         (these 2 shows featuring VJing and machines) then, &quot;M&eacute;lodies Extras
         Ordinaires&quot; (featuring
-        the actress C&eacute;line Caussimon), and &quot;La M&eacute;lodie des Choses&quot; (featuring Pauline Borras, de La Compagnie Pr&eacute;fabriqu&eacute;e), two musical tales with theater, dance, video and chineese shadows. In 2015, they created &quot;Human Swing Box&quot; and recorded the album, still playing with Touski.<br>
+        the actress C&eacute;line Caussimon), and &quot;La M&eacute;lodie des Choses&quot; (featuring Pauline Borras, from La Compagnie Pr&eacute;fabriqu&eacute;e), two musical tales with theater, dance, video and chineese shadows. In 2015, they created &quot;Human Swing Box&quot; and recorded the album, still playing with Touski. Now, for that show, they are on stage with the talented Paul Vignes (human beatbox and keyboard). Last publications at autumn 2017: double-album &quot;25 Ans&quot; (Buda Musique/Socadisc) et DVD &quot;Jazz in my Musette&quot; (La Seine TV/Musea).<br>
         <br>
         Travelling is for them an &#8220;art de vivre&#8221;, no wonder they have often
         performed abroad: Montreal, Vancouver, Halifax, Ouagadougou, Tripoli, St Louis
         in Senegal, Tlemcen, Skopje, Ljubjana, Innsbruck, Dresden, Bruges, Freiburg
-        (CH), Halmstad,  Santo-Domingo, Cap-Haitien, Caracas, Iquitos, Dubai&#8230; in addition to crisscrossing hexagonal France. This season&#8217;s
-        menu : a DVD for &quot;Jazz in my Musette&quot;, a &quot;25 Years&quot; compilation album, and so, celebration concerts next fall.
-    </p>
+        (CH), Halmstad,  Santo-Domingo, Cap-Haitien, Caracas, Iquitos, Dubai&#8230; in addition to crisscrossing hexagonal France. Next
+        menu : concerts
+    and pedagogical actions.</p>
 </div>
 <?php
 include_once "footer.inc"
