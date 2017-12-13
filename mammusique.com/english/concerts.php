@@ -110,7 +110,7 @@ include_once "header.inc"
                                         ZAC Porte Sud de l'Oise, 60230.<br>
                                         Tel : +33 3 44 24 01 01</font></td>
                                 <td><div align="left">
-                                        <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>Masterclass-concert with highschool students</strong></em></font></p>
+                                        <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>Masterclass-concert for highschool students</strong></em></font></p>
                                     </div></td>
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
@@ -130,7 +130,7 @@ include_once "header.inc"
                                         Place du Jeu de Paume, 60230.<br>
                                         Tel : +33 3 44 80 90 25</font></td>
                                 <td><div align="left">
-                                        <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>Masterclass-concert with highschool students</strong></em></font></p>
+                                        <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>Masterclass-concert  for highschool students</strong></em></font></p>
                                     </div></td>
                             </tr>
                             <tr bordercolor="#FFFFFF">
@@ -295,7 +295,7 @@ include_once "header.inc"
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#6B4D87">
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">July 22nd 2018</font></td>
                               <td height="26" bgcolor="#6B4D87"><div align="center">
-                                <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">3:00</font></div>
+                                <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">3:00 pm</font></div>
                               </div></td>
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">LONGUEIL-ANNEL</font></td>
                               <td height="26" bgcolor="#6B4D87"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CIT&Eacute; DES  BATELIERS<br>

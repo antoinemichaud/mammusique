@@ -289,12 +289,8 @@ Tel : +33 3 84 75 36 37</font></td>
                                 <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>&quot;Voyage Celte&quot; en église</strong></em></font></p>
                               </div></td>
                             </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#6B4D87">
-                              <td height="26">&nbsp;</td>
-                              <td height="26" bgcolor="#6B4D87">&nbsp;</td>
-                              <td height="26">&nbsp;</td>
-                              <td height="26" bgcolor="#6B4D87">&nbsp;</td>
-                              <td>&nbsp;</td>
+                            <tr bordercolor="#FFFFFF">
+                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#6B4D87">
                                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">22 juillet 2018</font></td>
