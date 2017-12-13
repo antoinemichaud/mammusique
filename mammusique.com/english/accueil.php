@@ -21,7 +21,7 @@ include_once "header.inc"
         These two restless musicians, the founders of MAM, often play in duos; yet,
         always anxious to make novel musical encounters they delight in performing with
         fellow musicians of different backgrounds. They recorded 9 albums with Buda
-        Musique (the 7th, &quot;Paris Village&quot;, was an order from the publisher
+        Musique (their 7th, &quot;Paris Village&quot;, was an order from the publisher
         Kosinus) in various formations from duet to quintet (guest cello, percussion
         and drums). They also recorded a DVD with La Seine TV. Their version of &#8220;Mission Impossible&#8221; (Lalo Schiffrin)
         was twice compiled and played on tv (France 2). They recorded 3 CD&#8217;s with
