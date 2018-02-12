@@ -72,7 +72,7 @@ include_once "header.inc"
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#246A9A">
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">March 16'th 2018</font></td>
                               <td height="26" bgcolor="#246A9A"><div align="center">
-                                <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h00</font></div>
+                                <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></div>
                               </div></td>
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">VITRY-LE-FRAN&Ccedil;OIS</font></td>
                               <td height="26" bgcolor="#246A9A"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>M&Eacute;DIATH&Egrave;QUE FRAN&Ccedil;OIS MITTERRAND<br>
