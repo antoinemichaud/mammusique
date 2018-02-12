@@ -39,7 +39,7 @@ include_once "header.inc"
                             </tr>
                         </table>
                         <br>
-                        <table height="686" width="773">
+                        <table height="660" width="773">
                             <tr>
                                 <td width="79" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                                 <td width="49" height="18" valign="top" bgcolor="#000000"><div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">TIME</font></div></td>
@@ -51,43 +51,11 @@ include_once "header.inc"
                                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#cc6600">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">January  13th 2018</font></td>
-                              <td height="26" bgcolor="#cc6600"><div align="center">
-                                <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">18:00 pm<br>
-                                </font></div>
-                              </div></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CR&Eacute;PY-EN-VALOIS</font></td>
-                              <td height="26" bgcolor="#cc6600"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CENTRE CULTUREL MJC<br>
-                                </strong>1, avenue de l'Europe, 60800.<strong><br>
-                                  </strong>Tel : +33 3 44 39 63 18<br>
-                              </font></p></td>
-                              <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>All audiences shows</strong></em></font></p>
-                              </div></td>
-                            </tr>
-                            <tr bordercolor="#FFFFFF">
-                                <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#cc6600">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">February 8th, 9th &amp; 12th 2018</font></td>
-                              <td height="26" bgcolor="#cc6600"><div align="center">
-                                <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">10:00 am<br>
-                                  2:30 pm</font></div>
-                              </div></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CR&Eacute;PY-EN-VALOIS</font></td>
-                              <td height="26" bgcolor="#cc6600"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CENTRE CULTUREL MJC<br>
-                                </strong>1, avenue de l'Europe, 60800.<strong><br>
-                                  </strong>Tel : +33 3 44 39 63 18<br>
-                              </font></p></td>
-                              <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>6 young audience shows</strong></em></font></p>
-                              </div></td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#cc6600">
                                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">February  13th 2018</font></td>
                                 <td height="26" bgcolor="#cc6600"><div align="center">
-                                        <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">10:00 am<br>
-                                        </font></div>
+                                        <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">9:30 am<br>
+                                          2:00 pm<br>
+                                  </font></div>
                                     </div></td>
                                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CR&Eacute;PY-EN-VALOIS</font></td>
                                 <td height="26" bgcolor="#cc6600"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CENTRE CULTUREL MJC<br>
@@ -99,7 +67,21 @@ include_once "header.inc"
                                     </div></td>
                             </tr>
                             <tr bordercolor="#FFFFFF">
-                                <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+                            </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#246A9A">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">March 16'th 2018</font></td>
+                              <td height="26" bgcolor="#246A9A"><div align="center">
+                                <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h00</font></div>
+                              </div></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">VITRY-LE-FRAN&Ccedil;OIS</font></td>
+                              <td height="26" bgcolor="#246A9A"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>M&Eacute;DIATH&Egrave;QUE FRAN&Ccedil;OIS MITTERRAND<br>
+                                </strong>60, rue du 11 Novembre 1918, 51300.<strong><br>
+                                </strong>Tel : +33 3 26 72 13 95</font></p></td>
+                              <td><div align="left">
+                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&quot;VOYAGE CELTE&quot;</strong><em><strong><br>
+                                </strong></em></font></p>
+                              </div></td>
                             </tr>
 
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
