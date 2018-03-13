@@ -1,8 +1,7 @@
 <?php
 include_once "header.inc"
 ?>
-
-<table width="688" border="0" cellpadding="0" cellspacing="0">
+                  <table width="688" border="0" cellpadding="0" cellspacing="0">
     <tr>
         <td width="688" height="307" valign="top">
             <table width="100%" border="0" cellpadding="0" cellspacing="0">
@@ -41,7 +40,7 @@ include_once "header.inc"
                             </tr>
                         </table>
                         <br>
-                        <table height="660" width="793">
+                        <table height="610" width="793">
                             <tr>
                                 <td width="79" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                                 <td width="45" height="18" valign="top" bgcolor="#000000"> <div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">HEURE</font></div></td>
@@ -50,32 +49,12 @@ include_once "header.inc"
                                 <td width="276" valign="top" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">CONTEXTE</font></td>
                             </tr>
                             <tr bordercolor="#FFFFFF">
-                                <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#cc6600">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">13 février 2018</font></td>
-                              <td height="26" bgcolor="#cc6600"><div align="center">
-                                <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">9h30<br>
-                                  14h00
-                                <br>
-                                </font></div>
-                              </div></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CR&Eacute;PY-EN-VALOIS</font></td>
-                              <td height="26" bgcolor="#cc6600"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CENTRE CULTUREL MJC<br>
-                                </strong>1, avenue de l'Europe, 60800<strong>.<br>
-                                  </strong>Tel : +33 3 44 39 63 18<br>
-                              </font></p></td>
-                              <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong> Spectacle jeune public</strong></em></font></p>
-                              </div></td>
-                            </tr>
-                            <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#246A9A">
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">16 mars 2018</font></td>
                               <td height="26" bgcolor="#246A9A"><div align="center">
-                                <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h00</font></div>
+                                <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">19h00</font></div>
                               </div></td>
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">VITRY-LE-FRAN&Ccedil;OIS</font></td>
                               <td height="26" bgcolor="#246A9A"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>M&Eacute;DIATH&Egrave;QUE FRAN&Ccedil;OIS MITTERRAND<br>
