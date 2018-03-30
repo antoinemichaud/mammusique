@@ -39,7 +39,7 @@ include_once "header.inc"
                             </tr>
                         </table>
                         <br>
-                        <table height="610" width="773">
+                        <table height="582" width="773">
                             <tr>
                                 <td width="79" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                                 <td width="49" height="18" valign="top" bgcolor="#000000"><div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">TIME</font></div></td>
@@ -50,51 +50,17 @@ include_once "header.inc"
                             <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#246A9A">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">March 16'th 2018</font></td>
-                              <td height="26" bgcolor="#246A9A"><div align="center">
-                                <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">7:00 pm</font></div>
-                              </div></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">VITRY-LE-FRAN&Ccedil;OIS</font></td>
-                              <td height="26" bgcolor="#246A9A"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>M&Eacute;DIATH&Egrave;QUE FRAN&Ccedil;OIS MITTERRAND<br>
-                                </strong>60, rue du 11 Novembre 1918, 51300.<strong><br>
-                                </strong>Tel : +33 3 26 72 13 95</font></p></td>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">30 mars 2018</font></td>
+                              <td height="26" align="center" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">20h00</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">COYE-LA-FOR&Ecirc;T</font></td>
+                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>L'&Eacute;TANG D'ART<br>
+                                </strong>Route foresti&egrave;re des &Eacute;tangs de Commelles, 60580.<strong><br>
+                                  </strong>Tel : +33 3 44 57 21 39<br>
+                              </font></p></td>
                               <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&quot;VOYAGE CELTE&quot;</strong><em><strong><br>
-                                </strong></em></font></p>
+                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>D&icirc;ner-concert</strong></em></font></p>
                               </div></td>
-                            </tr>
-
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">March 23rd 2018</font></td>
-                                <td height="26" align="center" bgcolor="#666666"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">2:30 pm</font></td>
-                                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CHAMBLY</font></td>
-                                <td height="26" bgcolor="#666666"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>M</strong>&Eacute;<strong>GARAMA, salle Josiane Balasko</strong><br>
-                                        ZAC Porte Sud de l'Oise, 60230.<br>
-                                        Tel : +33 3 44 24 01 01</font></td>
-                                <td><div align="left">
-                                        <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>Masterclass-concert for highschool students</strong></em></font></p>
-                                    </div></td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">March 23rd 2018</font></td>
-                                <td height="26" align="center" bgcolor="#666666"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:30 pm</font></td>
-                                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CHAMBLY</font></td>
-                                <td height="26" bgcolor="#666666"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>M</strong>&Eacute;<strong>GARAMA, salle Josiane Balasko</strong><br>
-                                        ZAC Porte Sud de l'Oise, 60230.<br>
-                                        Tel : +33 3 44 24 01 01</font></td>
-                                <td>&nbsp;</td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">March 29th 2018</font></td>
-                                <td height="26" align="center" bgcolor="#666666"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">2:30 pm</font></td>
-                                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">BRETEUIL</font></td>
-                                <td height="26" bgcolor="#666666"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CENTRE CULTUREL JULES VERNE</strong><br>
-                                        Place du Jeu de Paume, 60230.<br>
-                                        Tel : +33 3 44 80 90 25</font></td>
-                                <td><div align="left">
-                                        <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>Masterclass-concert  for highschool students</strong></em></font></p>
-                                    </div></td>
                             </tr>
                             <tr bordercolor="#FFFFFF">
                                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
@@ -102,7 +68,7 @@ include_once "header.inc"
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#cc6600">
                                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">April 3rd  2018</font></td>
                                 <td height="26" align="center" bgcolor="#cc6600"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">10:00 am</font></td>
-                                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">GY</font></td>
+                                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CHOYE</font></td>
                                 <td height="26" bgcolor="#cc6600"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LA BULLE</strong><br>
                                             70700.<br>
                                             Tel : +33 3 84 75 36 37 <br>
@@ -114,7 +80,7 @@ include_once "header.inc"
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#cc6600">
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">April 3rd  2018</font></td>
                               <td height="26" align="center" bgcolor="#cc6600"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">6:30 pm</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">GY</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CHOYE</font></td>
                               <td height="26" bgcolor="#cc6600"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LA BULLE</strong><br>
                                 70700.<br>
                                 Tel : +33 3 84 75 36 37 <br>
@@ -126,7 +92,7 @@ include_once "header.inc"
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">April 4th 2018</font></td>
                               <td height="26" align="center" bgcolor="#666666"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">10:30 am</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">GY</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CHOYE</font></td>
                               <td height="26" bgcolor="#666666"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LA BULLE</strong><br>
                                 70700.<br>
                                 Tel : +33 3 84 75 36 37</font></td>
@@ -137,7 +103,7 @@ include_once "header.inc"
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#cc6600">
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">April 5th  2018</font></td>
                               <td height="26" align="center" bgcolor="#cc6600""><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">6:30 pm</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">GY</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CHOYE</font></td>
                               <td height="26" bgcolor="#cc6600"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LA BULLE</strong><br>
                                 70700.<br>
                                 Tel : +33 3 84 75 36 37 <br>
@@ -147,7 +113,7 @@ include_once "header.inc"
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">April 6th 2018</font></td>
                               <td height="26" align="center" bgcolor="#666666"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">10:30 am</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">GY</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CHOYE</font></td>
                               <td height="26" bgcolor="#666666"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LA BULLE</strong><br>
                                 70700.<br>
                                 Tel : +33 3 84 75 36 37</font></td>
@@ -158,7 +124,7 @@ include_once "header.inc"
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#478B3F">
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">April 6th 2018</font></td>
                               <td height="26" align="center" bgcolor="#478B3F"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">7:00 pm</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">GY</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CHOYE</font></td>
                               <td height="26" bgcolor="#478B3F"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LA BULLE</strong><br>
                                 70700.<br>
                                 Tel : +33 3 84 75 36 37</font></td>
@@ -169,7 +135,7 @@ include_once "header.inc"
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">April 6th 2018</font></td>
                               <td height="26" align="center" bgcolor="#666666"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:30 pm</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">GY</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CHOYE</font></td>
                               <td height="26" bgcolor="#666666"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LA BULLE</strong><br>
                                 70700.<br>
                                 Tel : +33 3 84 75 36 37</font></td>
@@ -190,8 +156,11 @@ include_once "header.inc"
                                         <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&quot;LE GRAND VOYAGE DE L'ACCORD&Eacute;ON&quot;</strong></font></p>
                                     </div></td>
                             </tr>
+                            <tr bordercolor="#FFFFFF">
+                                <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+                            </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">April 13th 2018</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">May 4th 2018</font></td>
                               <td height="26" bgcolor="#BE2A29"><div align="center">
                                 <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></div>
                               </div></td>
@@ -203,9 +172,6 @@ include_once "header.inc"
                               <td><div align="left">
                                 <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>Dinner concert</strong></em></font></p>
                               </div></td>
-                            </tr>
-                            <tr bordercolor="#FFFFFF">
-                                <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#246A9A">
                                 <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">May 10th 2018</font></td>
@@ -238,6 +204,19 @@ include_once "header.inc"
                             <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#6B4D87">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">June 7th 2018</font></td>
+                              <td height="26" bgcolor="#6B4D87"><div align="center">
+                                <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">9:00 pm</font></div>
+                              </div></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">PARIS</font></td>
+                              <td height="26" bgcolor="#6B4D87"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>AUX PETITS JOUEURS<br>
+                                </strong>59,rue Mouza&iuml;a, 75019.<strong><br>
+                                </strong>Tel : +33 1 42 41 23 60</font></p></td>
+                              <td><div align="left">
+                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Double-concert &quot;Jazz in my Musette&quot; &amp; &quot;Human Swing Box&quot;</strong></font></p>
+                              </div></td>
+                            </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">June 12th 2018</font></td>
                               <td height="26" bgcolor="#BE2A29"><div align="center">
@@ -253,6 +232,20 @@ include_once "header.inc"
                                   &quot;Voyage Celte&quot;</strong></em></font></p>
                               </div></td>
                             </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">June 22th 2018</font></td>
+                              <td height="26" bgcolor="#BE2A29"><div align="center">
+                                <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></div>
+                              </div></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">COYE-LA-FOR&Ecirc;T</font></td>
+                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>L'&Eacute;TANG D'ART<br>
+                                </strong>Route foresti&egrave;re des &Eacute;tangs de Commelles, 60580.<strong><br>
+                                  </strong>Tel : +33 3 44 57 21 39<br>
+                              </font></p></td>
+                              <td><div align="left">
+                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>Dinner concert</strong></em></font></p>
+                              </div></td>
+                            </tr>
                             <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
@@ -266,7 +259,7 @@ include_once "header.inc"
                                 </strong>59, aveue de La Caronnière, 60150.<strong><br>
                                 </strong>Tel : +33 3 44 96 05 55</font></p></td>
                               <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Ball-concert featuring &quot;Human Swing Box&quot; &amp;&quot; Jazz in my Musette&quot;</strong></font></p>
+                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Ball-concert featuring &quot;Human Swing Box&quot; &amp; &quot;Jazz in my Musette&quot;</strong></font></p>
                               </div></td>
                             </tr>
                             <table width="688" height="1048" dwcopytype="CopyTableRow">
