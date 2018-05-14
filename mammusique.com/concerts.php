@@ -40,7 +40,7 @@ include_once "header.inc"
                             </tr>
                         </table>
                         <br>
-                        <table height="532" width="793">
+                        <table height="470" width="793">
                             <tr>
                                 <td width="79" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                                 <td width="45" height="18" valign="top" bgcolor="#000000"> <div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">HEURE</font></div></td>
@@ -50,131 +50,6 @@ include_once "header.inc"
                             </tr>
                             <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#cc6600">
-                                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">3  avril  2018</font></td>
-                                <td height="26" align="center" bgcolor="#cc6600"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">10h00</font></td>
-                                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CHOYE</font></td>
-                                <td height="26" bgcolor="#cc6600"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LA BULLE</strong><br>
-                                            70700.<br>
-                                            Tel : +33 3 84 75 36 37
-                                            <br>
-                                        </font></p></td>
-                                <td><div align="left">
-                                        <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>Spectacle jeune public</strong></em></font></p>
-                                    </div></td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#cc6600">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">3  avril  2018</font></td>
-                              <td height="26" align="center" bgcolor="#cc6600"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">18h30</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CHOYE</font></td>
-                              <td height="26" bgcolor="#cc6600"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LA BULLE</strong><br>
-                                70700.<br>
-                                Tel : +33 3 84 75 36 37 <br>
-                              </font></p></td>
-                              <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>Spectacle tout public</strong></em></font></p>
-                              </div></td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">4 avril 2018</font></td>
-                              <td height="26" align="center" bgcolor="#666666"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">10h30</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CHOYE</font></td>
-                              <td height="26" bgcolor="#666666"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LA BULLE</strong><br>
-70700.<br>
-Tel : +33 3 84 75 36 37</font></td>
-                              <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>concert jeune public</strong></em></font></p>
-                              </div></td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#cc6600">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">5   avril  2018</font></td>
-                              <td height="26" align="center" bgcolor="#cc6600""><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">18h30</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CHOYE</font></td>
-                              <td height="26" bgcolor="#cc6600"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LA BULLE</strong><br>
-                                70700.<br>
-                                Tel : +33 3 84 75 36 37 <br>
-                              </font></p></td>
-                              <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>spectacle tout public</strong></em></font></p>
-                              </div></td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">6 avril 2018</font></td>
-                              <td height="26" align="center" bgcolor="#666666"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">10h30</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CHOYE</font></td>
-                              <td height="26" bgcolor="#666666"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LA BULLE</strong><br>
-                                70700.<br>
-                                Tel : +33 3 84 75 36 37</font></td>
-                              <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>concert jeune public</strong></em></font></p>
-                              </div></td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#478B3F">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">6 avril 2018</font></td>
-                              <td height="26" align="center" bgcolor="#478B3F"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">19h00</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CHOYE</font></td>
-                              <td height="26" bgcolor="#478B3F"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LA BULLE</strong><br>
-                                70700.<br>
-                                Tel : +33 3 84 75 36 37</font></td>
-                              <td><div align="left">
-                                <p>&nbsp;</p>
-                              </div></td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">6 avril 2018</font></td>
-                              <td height="26" align="center" bgcolor="#666666"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h30</font></td>
-                              <td height="26"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CHOYE</font></p></td>
-                              <td height="26" bgcolor="#666666"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LA BULLE</strong><br>
-                                70700.<br>
-                                Tel : +33 3 84 75 36 37</font></td>
-                              <td><div align="left">
-                                <p>&nbsp;</p>
-                              </div></td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#246A9A">
-                                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">7 avril 2018</font></td>
-                                <td height="26" bgcolor="#246A9A"><div align="center">
-                                        <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h30</font></div>
-                                    </div></td>
-                                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">MONTBARD</font></td>
-                                <td height="26" bgcolor="#246A9A"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>SALLE PAUL &Eacute;LUARD<br>
-                                            </strong>Place Gambetta, 21506.<strong><br>
-                                            </strong>Tel : +33 3 80 92 01 34</font></p></td>
-                                <td><div align="left">
-                                        <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&quot;LE GRAND VOYAGE DE L'ACCORD&Eacute;ON&quot;</strong></font><br>
-                                          <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>avec la participation des &eacute;l&egrave;ves du conservatoire.</strong></em></font>                                          <br>
-                                  </p>
-                                    </div></td>
-                            </tr>
-                            <tr bordercolor="#FFFFFF">
-                                <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">4 mai 2018</font></td>
-                              <td height="26" align="center" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">20h00</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">COYE-LA-FOR&Ecirc;T</font></td>
-                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>L'&Eacute;TANG D'ART<br>
-                                </strong>Route foresti&egrave;re des &Eacute;tangs de Commelles, 60580.<strong><br>
-                                  </strong>Tel : +33 3 44 57 21 39<br>
-                              </font></p></td>
-                              <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>D&icirc;ner-concert</strong></em></font></p>
-                              </div></td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#246A9A">
-                                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">10 mai 2018</font></td>
-                                <td height="26" bgcolor="#246A9A"><div align="center">
-                                        <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">11h00</font></div>
-                                    </div></td>
-                                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">MONTATAIRE</font></td>
-                                <td height="26" bgcolor="#246A9A"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>FESTIVAL DES DANSES ET MUSIQUES DU MONDE<br>
-                                            </strong>Stade Municipal, 60160.<strong><br>
-                                            </strong>Tel : +33 3 44 24 69 97</font></p></td>
-                                <td><div align="left">
-                                        <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&quot;VOYAGE CELTE&quot;</strong><em><strong><br>
-                                                        Avec des </strong></em><strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong></em></strong><em><strong>l</strong></em><strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&egrave;</font></strong></em></strong><em><strong>ves  de l'</strong></em><strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong></em></strong><em><strong>cole de musique AMEM</strong></em></font></p>
-                                    </div></td>
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#246A9A">
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">15 mai 2018</font></td>
@@ -188,6 +63,33 @@ Tel : +33 3 84 75 36 37</font></td>
                               <td><div align="left">
                                 <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&quot;VOYAGE CELTE&quot;</strong><em><strong><br>
                                   Avec des </strong></em><strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong></em></strong><em><strong>l</strong></em><strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&egrave;</font></strong></em></strong><em><strong>ves du coll</strong></em><strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&egrave;</font></strong></em></strong><em><strong>ge Anatole France et de l'</strong></em><strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong></em></strong><em><strong>cole de musique AMEM</strong></em></font></p>
+                              </div></td>
+                            </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#cc6600"">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">27 mai 2018</font></td>
+                              <td height="26" bgcolor="#cc6600"><div align="center">
+                                <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">14h15</font></div>
+                              </div></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CR<strong>&Eacute;</strong>PY-EN-VALOIS</font></td>
+                              <td height="26" bgcolor="#cc6600"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CENTRE CULTUREL MJC<br>
+                                </strong>1, avenue de l'Europe, 60800.<strong><br>
+                                </strong>Tel : +33 3 44 39 63 18</font></p></td>
+                              <td><div align="left">
+                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>Spectacle</em> jeune public</strong></font></p>
+                              </div></td>
+                            </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#cc6600"">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">28 mai 2018</font></td>
+                              <td height="26" bgcolor="#cc6600"><div align="center">
+                                <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">10h00<br>
+                                  14h15</font></div>
+                              </div></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CR<strong>&Eacute;</strong>PY-EN-VALOIS</font></td>
+                              <td height="26" bgcolor="#cc6600"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CENTRE CULTUREL MJC<br>
+                                </strong>1, avenue de l'Europe, 60800.<strong><br>
+                                </strong>Tel : +33 3 44 39 63 18</font></p></td>
+                              <td><div align="left">
+                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>Spectacles</em> jeune public</strong></font></p>
                               </div></td>
                             </tr>
                             <tr bordercolor="#FFFFFF">
@@ -205,6 +107,17 @@ Tel : +33 3 84 75 36 37</font></td>
                               <td><div align="left">
                                 <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Double-concert &quot;Jazz in my Musette&quot; et &quot;Human Swing Box&quot;</strong></font></p>
                               </div></td>
+                            </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"> 9 juin 2018</font></td>
+                              <td height="26" align="center"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">19h00</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CONCHES-SUR-GONDOIRE</font></td>
+                              <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>PLEIN AIR<br>
+                                </strong>Centre Bourg, 77600.<strong><br>
+                                  </strong>Tel : +33 1 64 02 26 17<br>
+                              </font></p></td>
+                              <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>F</strong>&Ecirc;<strong>TE DU VILLAGE</strong><em><strong><br>
+                              &quot;Voyage Celte&quot;</strong></em></font></td>
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"> 12 juin 2018</font></td>
@@ -235,17 +148,64 @@ Tel : +33 3 84 75 36 37</font></td>
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#6B4D87">
-                                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">22 juillet 2018</font></td>
-                                <td height="26" bgcolor="#6B4D87"><div align="center">
-                                        <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">15h00</font></div>
-                                    </div></td>
-                                <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">LONGUEIL-ANNEL</font></td>
-                                <td height="26" bgcolor="#6B4D87"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CIT&Eacute; DES  BATELIERS<br>
-                                            </strong>59, aveue de La Caronnière, 60150.<strong><br>
-                                            </strong>Tel : +33 3 44 96 05 55</font></p></td>
-                                <td><div align="left">
-                                        <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Concert-bal avec &quot;Human Swing Box&quot; et &quot;Jazz in my Musette&quot;</strong></font></p>
-                                    </div></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">22 juillet 2018</font></td>
+                              <td height="26" bgcolor="#6B4D87"><div align="center">
+                                <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">15h00</font></div>
+                              </div></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">LONGUEIL-ANNEL</font></td>
+                              <td height="26" bgcolor="#6B4D87"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CIT&Eacute; DES  BATELIERS<br>
+                                </strong>59, aveue de La Caronnière, 60150.<strong><br>
+                                </strong>Tel : +33 3 44 96 05 55</font></p></td>
+                              <td><div align="left">
+                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Concert-bal avec &quot;Human Swing Box&quot; et &quot;Jazz in my Musette&quot;</strong></font></p>
+                              </div></td>
+                            </tr>
+                            <tr bordercolor="#FFFFFF">
+                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+                            </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">24 août 2018</font></td>
+                              <td height="26" align="center" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">20h00</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">COYE-LA-FOR&Ecirc;T</font></td>
+                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>L'&Eacute;TANG D'ART<br>
+                                </strong>Route foresti&egrave;re des &Eacute;tangs de Commelles, 60580.<strong><br>
+                                  </strong>Tel : +33 3 44 57 21 39<br>
+                              </font></p></td>
+                              <td><div align="left">
+                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>D&icirc;ner-concert</strong></em></font></p>
+                              </div></td>
+                            </tr>
+                            <tr bordercolor="#FFFFFF">
+                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+                            </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">1er septembre 2018</font></td>
+                              <td height="26" align="center" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">20h00</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">SENLIS</font></td>
+                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>MA NATURE<br>
+                                </strong>9, place Henri IV, 60300.<strong><br>
+                                  </strong>Tel : +33 3 44 28 11 95<br>
+                              </font></p></td>
+                              <td><div align="left">
+                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>&quot;PARIS VILLAGE&quot;</em></strong><em><strong><br>
+                                D&icirc;ner-concert<br>
+                                </strong></em></font></p>
+                              </div></td>
+                            </tr>
+                            <tr bordercolor="#FFFFFF">
+                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+                            </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">12 octobre 2018</font></td>
+                              <td height="26" align="center" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">20h00</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">COYE-LA-FOR&Ecirc;T</font></td>
+                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>L'&Eacute;TANG D'ART<br>
+                                </strong>Route foresti&egrave;re des &Eacute;tangs de Commelles, 60580.<strong><br>
+                                  </strong>Tel : +33 3 44 57 21 39<br>
+                              </font></p></td>
+                              <td><div align="left">
+                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>D&icirc;ner-concert</strong></em></font></p>
+                              </div></td>
                             </tr>
                             <table width="688" height="1048" dwcopytype="CopyTableRow">
                                 <tr bordercolor="#FFFFFF">
