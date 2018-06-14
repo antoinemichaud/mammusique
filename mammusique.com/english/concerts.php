@@ -38,7 +38,7 @@ include_once "header.inc"
                             </tr>
                         </table>
                         <br>
-                        <table height="464" width="773">
+                        <table height="492" width="773">
                             <tr>
                                 <td width="79" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                                 <td width="49" height="18" valign="top" bgcolor="#000000"><div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">TIME</font></div></td>
@@ -48,89 +48,6 @@ include_once "header.inc"
                             </tr>
                             <tr bordercolor="#FFFFFF">
                                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#246A9A">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">May 15th 2018</font></td>
-                              <td height="26" bgcolor="#246A9A"><div align="center">
-                                <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">6:00 pm</font></div>
-                              </div></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">MONTATAIRE</font></td>
-                              <td height="26" bgcolor="#246A9A"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LE PALACE<br>
-                                </strong>8 bis, rue des Déportés, 60160.<strong><br>
-                                </strong>Tel : +33 3 44 24 69 97</font></p></td>
-                              <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&quot;VOYAGE CELTE&quot;</strong><em><strong><br>
-                                  With students from AMEM music school and Collège Anatole France</strong></em></font></p>
-                              </div></td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#cc6600"">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">May 27th 2018</font></td>
-                              <td height="26" bgcolor="#cc6600"><div align="center">
-                                <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">2:15 pm</font></div>
-                              </div></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CR<strong>&Eacute;</strong>PY-EN-VALOIS</font></td>
-                              <td height="26" bgcolor="#cc6600"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CENTRE CULTUREL MJC<br>
-                                </strong>1, avenue de l'Europe, 60800.<strong><br>
-                                </strong>Tel : +33 3 44 39 63 18</font></p></td>
-                              <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>Young audience show</em></strong></font></p>
-                              </div></td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#cc6600"">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">May 28th 2018</font></td>
-                              <td height="26" bgcolor="#cc6600"><div align="center">
-                                <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">10:00 am<br>
-2:15 pm</font></div>
-                              </div></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CR<strong>&Eacute;</strong>PY-EN-VALOIS</font></td>
-                              <td height="26" bgcolor="#cc6600"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CENTRE CULTUREL MJC<br>
-                                </strong>1, avenue de l'Europe, 60800.<strong><br>
-                                </strong>Tel : +33 3 44 39 63 18</font></p></td>
-                              <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>Young audience shows</em></strong></font></p>
-                              </div></td>
-                            </tr>
-                            <tr bordercolor="#FFFFFF">
-                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#6B4D87">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">June 7th 2018</font></td>
-                              <td height="26" bgcolor="#6B4D87"><div align="center">
-                                <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">9:00 pm</font></div>
-                              </div></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">PARIS</font></td>
-                              <td height="26" bgcolor="#6B4D87"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>AUX PETITS JOUEURS<br>
-                                </strong>59,rue Mouza&iuml;a, 75019.<strong><br>
-                                </strong>Tel : +33 1 42 41 23 60</font></p></td>
-                              <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Double-concert &quot;Jazz in my Musette&quot; &amp; &quot;Human Swing Box&quot;</strong></font></p>
-                              </div></td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"> June 9th 2018</font></td>
-                              <td height="26" align="center"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">7:00 pm</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CONCHES-SUR-GONDOIRE</font></td>
-                              <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>OUTDOOR<br>
-                                </strong>Centre Bourg, 77600.<strong><br>
-                                  </strong>Tel : +33 1 64 02 26 17<br>
-                              </font></p></td>
-                              <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>F</strong>&Ecirc;<strong>TE DU VILLAGE</strong><em><strong><br>
-                                &quot;Voyage Celte&quot;</strong></em></font></td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">June 12th 2018</font></td>
-                              <td height="26" bgcolor="#BE2A29"><div align="center">
-                                <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">6:00 pm</font></div>
-                              </div></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">LE THILLET</font></td>
-                              <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>FOYER DE VIE &quot;LE BEAUCAMP&quot;<br>
-                                </strong>Chemin des Pâtures, 60660.<strong><br>
-                                  </strong>Tel : +33 3 44 56 04 40<br>
-                              </font></p></td>
-                              <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>FESTIVAL DES CLOCHERS<br>
-                                  &quot;Voyage Celte&quot;</strong></em></font></p>
-                              </div></td>
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">June 22th 2018</font></td>
@@ -149,10 +66,22 @@ include_once "header.inc"
                             <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">July 13th 2018</font></td>
+                              <td height="26" align="center" bgcolor="#666666"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">10:30 pm</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">MONTATAIRE</font></td>
+                              <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Downtown<br>
+                                </strong> 60160.<strong><br>
+                                  </strong>Tel : +33 3 44 64 44 00<br>
+                              </font></p></td>
+                              <td><div align="left">
+                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Ball-concert</strong></font></p>
+                              </div></td>
+                            </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#6B4D87">
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">July 22nd 2018</font></td>
                               <td height="26" bgcolor="#6B4D87"><div align="center">
-                                <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">3:00 pm</font></div>
+                                <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">1:00 pm</font></div>
                               </div></td>
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">LONGUEIL-ANNEL</font></td>
                               <td height="26" bgcolor="#6B4D87"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CIT&Eacute; DES  BATELIERS<br>
@@ -183,19 +112,30 @@ include_once "header.inc"
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">September 1st 2018</font></td>
                               <td height="26" align="center" bgcolor="#BE2A29"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">SENLIS</font></td>
-                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>MA NATURE<br>
-                                </strong>9, place Henri IV, 60300.<strong><br>
-                                  </strong>Tel : +33 3 44 28 11 95<br>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CLERMONT-DE-L'OISE</font></td>
+                              <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CENTRE-VILLE<br>
+                                </strong> 60600.<strong><br>
+                                  </strong>Tel : +33 6 20 48 39 84<br>
                               </font></p></td>
                               <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>&quot;PARIS VILLAGE&quot;</em></strong><em><strong><br>
-                                  Dinner-concert<br>
+                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>Vintage ball<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">.<br>
+                                  Special guest : Fran<strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&ccedil;</font></strong></em></strong>ois R<strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong></em></strong>au (vocals, drums)</font><br>
                                 </strong></em></font></p>
                               </div></td>
                             </tr>
                             <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+                            </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#6B4D87">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"> October 4th &amp; 5th 2018</font></td>
+                              <td height="26" align="center" bgcolor="#6B4D87"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">7:00 pm</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">LURE</font></td>
+                              <td height="26" bgcolor="#6B4D87"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LA BULLE<br>
+                                </strong> Downtown, 70200.<strong><br>
+                                </strong>Tel : +33 3 84 75 36 37</font></td>
+                              <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Double concerts :<br>
+                                &quot;Voyage Celte&quot; &amp; &quot;Human Swing Box&quot; on 4th;<br>
+                                &quot;Jazz in my Musette&quot; &amp; &quot;Human Swing Box&quot; on 5th</strong></font></td>
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">October 12th 2018</font></td>
@@ -208,6 +148,65 @@ include_once "header.inc"
                               <td><div align="left">
                                 <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>Dinner-concert</strong></em></font></p>
                               </div></td>
+                            </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#246A9A">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">October 25th 2018</font></td>
+                              <td height="26" bgcolor="#246A9A"><div align="center">
+                                <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">12:00 am</font></div>
+                              </div></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">ROUBAIX</font></td>
+                              <td height="26" bgcolor="#246A9A"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>MAGIC MIRROR<br>
+                                </strong>Grand' Place, 59100.<strong><br>
+                                </strong>Tel : +33 3 20 66 46 42</font></p></td>
+                              <td><div align="left">
+                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>FESTIVAL D'ACCORD&Eacute;ON<br>
+                                  &quot;Voyage Celte&quot;</strong><em><strong><br>
+                                  </strong></em></font></p>
+                              </div></td>
+                            </tr>
+                            <tr bordercolor="#FFFFFF">
+                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+                            </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">December 1st 2018</font></td>
+                              <td height="26" align="center" bgcolor="#BE2A29"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">SENLIS</font></td>
+                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>MA NATURE<br>
+                                </strong>9, place Henri IV, 60300.<strong><br>
+                                  </strong>Tel : +33 3 44 28 11 95<br>
+                              </font></p></td>
+                              <td><div align="left">
+                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>&quot;PARIS VILLAGE&quot;</em></strong><em><strong><br>
+                                  Dinner-concert<br>
+                                </strong></em></font></p>
+                              </div></td>
+                            </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">December18th 2018</font></td>
+                              <td height="26" align="center" bgcolor="#666666"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">8:00 pm</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">NOGENT-SUR-OISE</font></td>
+                              <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CH<em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&Acirc;</font></strong></em>TEAU DES ROCHERS<br>
+                                </strong> 60160.<strong><br>
+                                  </strong>Tel : +33 3 44 71 27 36<br>
+                              </font></p></td>
+                              <td><div align="left">
+                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>Concert + jam</strong></em></font></p>
+                              </div></td>
+                            </tr>
+                            <tr bordercolor="#FFFFFF">
+                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+                            </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#6B4D87">
+                              <td height="26" valign="middle"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">May 31st 2019</font></td>
+                              <td height="26" valign="middle" bgcolor="#6B4D87"><div align="center">
+                                <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">7:00 pm</font></div>
+                              </div></td>
+                              <td height="26" valign="middle"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">BEAUVAIS</font></td>
+                              <td height="26" valign="middle" bgcolor="#6B4D87"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>TH&Eacute;<em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&Acirc;</font></strong></em>TRE DU BEAUVAISIS<br>
+                                </strong>40, rue Vinot-Pr<em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></em></strong></font></strong></em>fontaine, 60000.<strong><br>
+                                </strong>Tel : +33 3 44 08 22</font></p></td>
+                              <td valign="middle"><div align="left"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>FESTIVAL DES ARTS EN BEAUVAISIS<br>
+                              </strong></font><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Double-concert &quot;Jazz in my Musette&quot; et &quot;Human Swing Box&quot;</strong></font></div></td>
                             </tr>
                             <table width="688" height="1048" dwcopytype="CopyTableRow">
                                 <tr bordercolor="#FFFFFF">
