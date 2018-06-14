@@ -70,7 +70,7 @@ include_once "header.inc"
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">July 13th 2018</font></td>
                               <td height="26" align="center" bgcolor="#666666"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">10:30 pm</font></td>
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">MONTATAIRE</font></td>
-                              <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Downtown<br>
+                              <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>DOWNTOWN<br>
                                 </strong> 60160.<strong><br>
                                   </strong>Tel : +33 3 44 64 44 00<br>
                               </font></p></td>
@@ -113,7 +113,7 @@ include_once "header.inc"
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">September 1st 2018</font></td>
                               <td height="26" align="center" bgcolor="#BE2A29"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></td>
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CLERMONT-DE-L'OISE</font></td>
-                              <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CENTRE-VILLE<br>
+                              <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>DOWNTOWN<br>
                                 </strong> 60600.<strong><br>
                                   </strong>Tel : +33 6 20 48 39 84<br>
                               </font></p></td>
@@ -206,7 +206,7 @@ include_once "header.inc"
                                 </strong>40, rue Vinot-Pr<em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></em></strong></font></strong></em>fontaine, 60000.<strong><br>
                                 </strong>Tel : +33 3 44 08 22</font></p></td>
                               <td valign="middle"><div align="left"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>FESTIVAL DES ARTS EN BEAUVAISIS<br>
-                              </strong></font><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Double-concert &quot;Jazz in my Musette&quot; et &quot;Human Swing Box&quot;</strong></font></div></td>
+                              </strong></font><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Double concert &quot;Jazz in my Musette&quot; &amp; &quot;Human Swing Box&quot;</strong></font></div></td>
                             </tr>
                             <table width="688" height="1048" dwcopytype="CopyTableRow">
                                 <tr bordercolor="#FFFFFF">
