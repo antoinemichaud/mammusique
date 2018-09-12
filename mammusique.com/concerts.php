@@ -209,7 +209,7 @@ include_once "header.inc"
                               </div></td>
                               <td height="26" valign="middle"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">SAINT-JUST-EN-CHAUSS&Eacute;E</font></td>
                               <td height="26" valign="middle" bgcolor="#6B4D87"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>PLACE DE LA MAIRIE<br>
-60130.<br>
+</strong>60130.<strong><br>
                               </strong>Tel : +33 3 44 19 29 29</font></p></td>
                               <td valign="middle"><div align="left"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>FÊTE DE LA MUSIQUE</em><br>
                               Double-concert &quot;Jazz in my Musette&quot; et &quot;Human Swing Box&quot;</strong></font></div></td>
