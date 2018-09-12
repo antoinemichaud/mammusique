@@ -40,7 +40,7 @@ include_once "header.inc"
                             </tr>
                         </table>
                         <br>
-                        <table height="514" width="793">
+                        <table height="486" width="793">
                             <tr>
                                 <td width="79" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                                 <td width="45" height="18" valign="top" bgcolor="#000000"> <div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">HEURE</font></div></td>
@@ -52,74 +52,45 @@ include_once "header.inc"
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">22 juin 2018</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">14 septembre 2018</font></td>
                               <td height="26" align="center" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">20h00</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">COYE-LA-FOR&Ecirc;T</font></td>
-                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>L'&Eacute;TANG D'ART<br>
-                                </strong>Route foresti&egrave;re des &Eacute;tangs de Commelles, 60580.<strong><br>
-                                  </strong>Tel : +33 3 44 57 21 39<br>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">LA COURNEUVE</font></td>
+                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>PARC GEORGES-VALBON<br>
+                                </strong>Scène du PC de la RATP<br>
+                                55, rue Waldeck Rochet, 
+                                93120.<strong><br>
+                                  </strong>Tel : +33 6 08 46 36 79<br>
                               </font></p></td>
                               <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>D&icirc;ner-concert</strong></em></font></p>
+                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>FÊTE DE L'HUMANIT</strong></em></font><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&Eacute;</strong></font><br>
+                                  <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>avec Nedule Papa No</strong>&euml;<strong>l (guitare) et Bellow Komba (percussions)</strong></font><br>
+                                </p>
                               </div></td>
-                            </tr>
-                            <tr bordercolor="#FFFFFF">
-                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">13 juillet 2018</font></td>
-                              <td height="26" align="center" bgcolor="#666666"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">22h30</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">MONTATAIRE</font></td>
-                              <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CENTRE-VILLE<br>
-                                </strong> 60160.<strong><br>
-                                  </strong>Tel : +33 3 44 64 44 00<br>
-                              </font></p></td>
-                              <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>Concert-bal</strong></em></font></p>
-                              </div></td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#6B4D87">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">22 juillet 2018</font></td>
-                              <td height="26" bgcolor="#6B4D87"><div align="center">
-                                <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">13h00</font></div>
-                              </div></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">LONGUEIL-ANNEL</font></td>
-                              <td height="26" bgcolor="#6B4D87"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CIT&Eacute; DES  BATELIERS<br>
-                                </strong>59, aveue de La Caronnière, 60150.<strong><br>
-                                </strong>Tel : +33 3 44 96 05 55</font></p></td>
-                              <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Concert-bal avec &quot;Human Swing Box&quot; et &quot;Jazz in my Musette&quot;</strong></font></p>
-                              </div></td>
-                            </tr>
-                            <tr bordercolor="#FFFFFF">
-                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">24 août 2018</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">16 septembre 2018</font></td>
                               <td height="26" align="center" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">20h00</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">COYE-LA-FOR&Ecirc;T</font></td>
-                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>L'&Eacute;TANG D'ART<br>
-                                </strong>Route foresti&egrave;re des &Eacute;tangs de Commelles, 60580.<strong><br>
-                                  </strong>Tel : +33 3 44 57 21 39<br>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">PARIS</font></td>
+                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>STUDIO DE L'ERMITAGE<br>
+                                </strong> 8, rue de l'Ermitage 75020.<strong><br>
+                                  </strong>Tel : +33 1 44 62 02 86<br>
                               </font></p></td>
                               <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>D&icirc;ner-concert</strong></em></font></p>
+                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>Hommage à Henri Lecomte<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><br>
+                                  </font></strong></em><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>En compagnie de nombreux artistes du label Buda Musique</strong></font><em><strong><br>
+                                  </strong></em></font></p>
                               </div></td>
                             </tr>
-                            <tr bordercolor="#FFFFFF">
-                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-                            </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">1er septembre 2018</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">28 septembre 2018</font></td>
                               <td height="26" align="center" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">20h00</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CLERMONT-DE-L'OISE</font></td>
-                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CENTRE-VILLE<br>
-                                </strong> 60600.<strong><br>
-                                  </strong>Tel : +33 6 20 48 39 84<br>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">NOGENT-SUR-OISE</font></td>
+                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>SÉSON<br>
+                                </strong> 9, rue Ronsard, 60180.<strong><br>
+                                  </strong>Tel : +33 3 44 29 48 41<br>
                               </font></p></td>
                               <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Bal r<strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong></em></strong>tro.<br>
-Invité : Fran<strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&ccedil;</font></strong></em></strong>ois R<strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong></em></strong>au (chant, batterie)</font></strong></em><em><strong><br>
+                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>D&icirc;ner-concert</strong></em><em><strong><br>
                                 </strong></em></font></p>
                               </div></td>
                             </tr>
@@ -127,28 +98,13 @@ Invité : Fran<strong><em><strong><font color="#FFFFFF" size="1" face="Arial, He
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
                           <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#6B4D87">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"> 4 et 5 octobre 2018</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"> 5 octobre 2018</font></td>
                               <td height="26" align="center" bgcolor="#6B4D87"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">19h00</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">LURE</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">M&Eacute;LISEY</font></td>
                               <td height="26" bgcolor="#6B4D87"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LA BULLE<br>
                               </strong> Centre-Ville, 70200.<strong><br>
                               </strong>Tel : +33 3 84 75 36 37</font></td>
-                              <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Double concerts :<br>
-                                &quot;Voyage Celte&quot; et 
-                              &quot;Human Swing Box&quot; le 4;<br>
-                              &quot;Jazz in my Musette&quot; et &quot;Human Swing Box&quot; le 5</strong></font></td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">12 octobre 2018</font></td>
-                              <td height="26" align="center" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">20h00</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">COYE-LA-FOR&Ecirc;T</font></td>
-                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>L'&Eacute;TANG D'ART<br>
-                                </strong>Route foresti&egrave;re des &Eacute;tangs de Commelles, 60580.<strong><br>
-                                  </strong>Tel : +33 3 44 57 21 39<br>
-                              </font></p></td>
-                              <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>D&icirc;ner-concert</strong></em></font></p>
-                              </div></td>
+                              <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Double-concert &quot;Jazz in my Musette&quot; et &quot;Human Swing Box&quot;</strong></font></td>
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#246A9A">
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">25 octobre 2018</font></td>
@@ -163,6 +119,36 @@ Invité : Fran<strong><em><strong><font color="#FFFFFF" size="1" face="Arial, He
                                 <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>FESTIVAL D'ACCORD&Eacute;ON<br>
                                 &quot;Voyage Celte&quot;</strong><em><strong><br>
                                 </strong></em></font></p>
+                              </div></td>
+                            </tr>
+                            <tr bordercolor="#FFFFFF">
+                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+                            </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">3 novembre 2018</font></td>
+                              <td height="26" align="center" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">21h00</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">FR&Eacute;PILLON</font></td>
+                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>SALLE DES F<em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&Ecirc;</font></strong></em>TES</strong><br>
+                                55,2, rue du Coudrey, 
+                                95740.<strong><br>
+                                  </strong>Tel : +33 6 08 46 36 79<br>
+                              </font></p></td>
+                              <td><div align="left">
+                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>FÊTE CARITATIVE DES PIROGUES DU COEUR</strong></em></font><br>
+                                  <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>avec Nedule Papa No</strong>&euml;<strong>l (guitare), Bellow Komba (percussions) et Amed Barry (basse)</strong></font><br>
+                                </p>
+                              </div></td>
+                            </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">16 novembre 2018</font></td>
+                              <td height="26" align="center" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">20h00</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">COYE-LA-FOR&Ecirc;T</font></td>
+                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>L'&Eacute;TANG D'ART<br>
+                                </strong>Route foresti&egrave;re des &Eacute;tangs de Commelles, 60580.<strong><br>
+                                  </strong>Tel : +33 3 44 57 21 39<br>
+                              </font></p></td>
+                              <td><div align="left">
+                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>D&icirc;ner-concert</strong></em></font></p>
                               </div></td>
                             </tr>
                             <tr bordercolor="#FFFFFF">
@@ -186,7 +172,7 @@ Invité : Fran<strong><em><strong><font color="#FFFFFF" size="1" face="Arial, He
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">19 mars 2019</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">14 mars 2019</font></td>
                               <td height="26" align="center" bgcolor="#666666"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">20h00</font></td>
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">NOGENT-SUR-OISE</font></td>
                               <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CH<em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&Acirc;</font></strong></em>TEAU DES ROCHERS<br>
@@ -194,7 +180,8 @@ Invité : Fran<strong><em><strong><font color="#FFFFFF" size="1" face="Arial, He
                                   </strong>Tel : +33 3 44 71 27 36<br>
                               </font></p></td>
                               <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>Concert + jam</strong></em></font></p>
+                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>FESTIVAL DE JAZZ<br>
+                                  Lever de rideau avec les élèves du conservatoire : restitution masterclass</strong></em></font></p>
                               </div></td>
                             </tr>
                             <tr bordercolor="#FFFFFF">
@@ -208,9 +195,24 @@ Invité : Fran<strong><em><strong><font color="#FFFFFF" size="1" face="Arial, He
                               <td height="26" valign="middle"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">BEAUVAIS</font></td>
                               <td height="26" valign="middle" bgcolor="#6B4D87"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>TH&Eacute;<em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&Acirc;</font></strong></em>TRE DU BEAUVAISIS<br>
                                 </strong>40, rue Vinot-Pr<em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></em></strong></font></strong></em>fontaine, 60000.<strong><br>
-                                </strong>Tel : +33 3 44 08 22</font></p></td>
+                                </strong>Tel : +33 3 44 06 08 22</font></p></td>
                               <td valign="middle"><div align="left"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>FESTIVAL DES ARTS EN BEAUVAISIS<br>
                               </strong></font><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Double-concert &quot;Jazz in my Musette&quot; et &quot;Human Swing Box&quot;</strong></font></div></td>
+                            </tr>
+                            <tr bordercolor="#FFFFFF">
+                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+                            </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#6B4D87">
+                              <td height="26" valign="middle"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">21 juin 2019</font></td>
+                              <td height="26" valign="middle" bgcolor="#6B4D87"><div align="center">
+                                <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">20h00</font></div>
+                              </div></td>
+                              <td height="26" valign="middle"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">SAINT-JUST-EN-CHAUSS&Eacute;E</font></td>
+                              <td height="26" valign="middle" bgcolor="#6B4D87"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>PLACE DE LA MAIRIE<br>
+60130.<br>
+                              </strong>Tel : +33 3 44 19 29 29</font></p></td>
+                              <td valign="middle"><div align="left"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>FÊTE DE LA MUSIQUE</em><br>
+                              Double-concert &quot;Jazz in my Musette&quot; et &quot;Human Swing Box&quot;</strong></font></div></td>
                           </tr>
                             <table width="688" height="1048" dwcopytype="CopyTableRow">
                                 <tr bordercolor="#FFFFFF">
