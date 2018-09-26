@@ -40,7 +40,7 @@ include_once "header.inc"
                             </tr>
                         </table>
                         <br>
-                        <table height="486" width="793">
+                        <table height="430" width="793">
                             <tr>
                                 <td width="79" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                                 <td width="45" height="18" valign="top" bgcolor="#000000"> <div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">HEURE</font></div></td>
@@ -50,36 +50,6 @@ include_once "header.inc"
                             </tr>
                             <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">14 septembre 2018</font></td>
-                              <td height="26" align="center" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">20h00</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">LA COURNEUVE</font></td>
-                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>PARC GEORGES-VALBON<br>
-                                </strong>Scène du PC de la RATP<br>
-                                55, rue Waldeck Rochet, 
-                                93120.<strong><br>
-                                  </strong>Tel : +33 6 08 46 36 79<br>
-                              </font></p></td>
-                              <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>FÊTE DE L'HUMANIT</strong></em></font><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&Eacute;</strong></font><br>
-                                  <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>avec Nedule Papa No</strong>&euml;<strong>l (guitare) et Bellow Komba (percussions)</strong></font><br>
-                                </p>
-                              </div></td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">16 septembre 2018</font></td>
-                              <td height="26" align="center" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">20h00</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">PARIS</font></td>
-                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>STUDIO DE L'ERMITAGE<br>
-                                </strong> 8, rue de l'Ermitage 75020.<strong><br>
-                                  </strong>Tel : +33 1 44 62 02 86<br>
-                              </font></p></td>
-                              <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>Hommage à Henri Lecomte<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><br>
-                                  </font></strong></em><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>En compagnie de nombreux artistes du label Buda Musique</strong></font><em><strong><br>
-                                  </strong></em></font></p>
-                              </div></td>
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">28 septembre 2018</font></td>

@@ -38,7 +38,7 @@ include_once "header.inc"
                             </tr>
                         </table>
                         <br>
-                        <table height="486" width="773">
+                        <table height="402" width="773">
                             <tr>
                                 <td width="79" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                                 <td width="49" height="18" valign="top" bgcolor="#000000"><div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">TIME</font></div></td>
@@ -48,36 +48,6 @@ include_once "header.inc"
                             </tr>
                             <tr bordercolor="#FFFFFF">
                                 <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">September 14th 2018</font></td>
-                              <td height="26" align="center" bgcolor="#BE2A29"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">LA COURNEUVE</font></td>
-                              <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>PARC GEORGES-VALBON<br>
-                                </strong>Scène du PC de la RATP<br>
-                                55, rue Waldeck Rochet, 
-                                93120.<strong><br>
-                                  </strong>Tel : +33 6 08 46 36 79<br>
-                              </font></p></td>
-                              <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>FÊTE DE L'HUMANIT</strong></em></font><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&Eacute;</strong></font><br>
-                                  <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>featuring Nedule Papa No</strong>&euml;<strong>l (guitar) et Bellow Komba (percussions)</strong></font><br>
-                                </p>
-                              </div></td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">September 16th 2018</font></td>
-                              <td height="26" align="center" bgcolor="#BE2A29"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">PARIS</font></td>
-                              <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>STUDIO DE L'ERMITAGE<br>
-                                </strong> 8, rue de l'Ermitage 75020.<strong><br>
-                                  </strong>Tel : +33 1 44 62 02 86<br>
-                              </font></p></td>
-                              <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>Hommage à Henri Lecomte<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><br>
-                                  </font></strong></em><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Featuring many Buda Musique label</strong></font><em><strong>'s musicians<br>
-                                  </strong></em></font></p>
-                              </div></td>
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">September 28th 2018</font></td>
@@ -103,21 +73,6 @@ include_once "header.inc"
                                 </strong> Downtown, 70200.<strong><br>
                                 </strong>Tel : +33 3 84 75 36 37</font></td>
                               <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Double concert &quot;Jazz in my Musette&quot; &amp; &quot;Human Swing Box&quot;</strong></font></td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#246A9A">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">October 25th 2018</font></td>
-                              <td height="26" bgcolor="#246A9A"><div align="center">
-                                <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">12:00 am</font></div>
-                              </div></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">ROUBAIX</font></td>
-                              <td height="26" bgcolor="#246A9A"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>MAGIC MIRROR<br>
-                                </strong>Grand' Place, 59100.<strong><br>
-                                </strong>Tel : +33 3 20 66 46 42</font></p></td>
-                              <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>FESTIVAL D'ACCORD&Eacute;ON<br>
-                                  &quot;Voyage Celte&quot;</strong><em><strong><br>
-                                  </strong></em></font></p>
-                              </div></td>
                             </tr>
                             <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
