@@ -38,7 +38,7 @@ include_once "header.inc"
                             </tr>
                         </table>
                         <br>
-                        <table height="402" width="773">
+                        <table height="458" width="773">
                             <tr>
                                 <td width="79" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                                 <td width="49" height="18" valign="top" bgcolor="#000000"><div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">TIME</font></div></td>
@@ -104,6 +104,30 @@ include_once "header.inc"
                                 <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>Dinner concert</strong></em></font></p>
                               </div></td>
                             </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">November 23rd 2018</font></td>
+                              <td height="26" align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">DRANCY</font></td>
+                              <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>ESPACE CULTUREL DU PARC<br>
+                                Place Maurice Nilès, 93700.<br>
+                                </strong>Tel : +33 1 48 31 95 42<br>
+                              </font></p></td>
+                              <td><div align="left">
+                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>FESTIVAL D'ACCORD</strong></em><strong><em>&Eacute;</em></strong><em><strong>ON M</strong></em><strong><em>&Eacute;</em></strong><em><strong>DARD FERRERO</strong></em></font></p>
+                              </div></td>
+                            </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                              <td height="26" bgcolor="#478B3F"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">November 24th 2018</font></td>
+                              <td height="26" align="center" bgcolor="#478B3F"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></td>
+                              <td height="26" bgcolor="#478B3F"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">DRANCY</font></td>
+                              <td height="26" bgcolor="#478B3F"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>ESPACE CULTUREL DU PARC<br>
+                                Place Maurice Nilès, 93700.<br>
+                                </strong>Tel : +33 1 48 31 95 42<br>
+                              </font></p></td>
+                              <td bgcolor="#478B3F"><div align="left">
+                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>FESTIVAL D'ACCORD</strong></em><strong><em>&Eacute;</em></strong><em><strong>ON M</strong></em><strong><em>&Eacute;</em></strong><em><strong>DARD FERRERO</strong></em></font></p>
+                              </div></td>
+                            </tr>
                             <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
@@ -125,7 +149,7 @@ include_once "header.inc"
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">March 19th 2019</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">March 14th 2019</font></td>
                               <td height="26" align="center" bgcolor="#666666"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">8:00 pm</font></td>
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">NOGENT-SUR-OISE</font></td>
                               <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CH<em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&Acirc;</font></strong></em>TEAU DES ROCHERS<br>

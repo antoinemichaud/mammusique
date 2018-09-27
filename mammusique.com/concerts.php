@@ -40,7 +40,7 @@ include_once "header.inc"
                             </tr>
                         </table>
                         <br>
-                        <table height="430" width="793">
+                        <table height="458" width="793">
                             <tr>
                                 <td width="79" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                                 <td width="45" height="18" valign="top" bgcolor="#000000"> <div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">HEURE</font></div></td>
@@ -76,21 +76,6 @@ include_once "header.inc"
                               </strong>Tel : +33 3 84 75 36 37</font></td>
                               <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Double-concert &quot;Jazz in my Musette&quot; et &quot;Human Swing Box&quot;</strong></font></td>
                             </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#246A9A">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">25 octobre 2018</font></td>
-                              <td height="26" bgcolor="#246A9A"><div align="center">
-                                <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">12h00</font></div>
-                              </div></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">ROUBAIX</font></td>
-                              <td height="26" bgcolor="#246A9A"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>MAGIC MIRROR<br>
-                                </strong>Grand' Place, 59100.<strong><br>
-                                </strong>Tel : +33 3 20 66 46 42</font></p></td>
-                              <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>FESTIVAL D'ACCORD&Eacute;ON<br>
-                                &quot;Voyage Celte&quot;</strong><em><strong><br>
-                                </strong></em></font></p>
-                              </div></td>
-                            </tr>
                             <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
@@ -119,6 +104,30 @@ include_once "header.inc"
                               </font></p></td>
                               <td><div align="left">
                                 <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>D&icirc;ner-concert</strong></em></font></p>
+                              </div></td>
+                            </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">23 novembre 2018</font></td>
+                              <td height="26" align="center" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">20h00</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">DRANCY</font></td>
+                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>ESPACE CULTUREL DU PARC<br>
+                                Place Maurice Nilès, 93700.<br>
+                                  </strong>Tel : +33 1 48 31 95 42<br>
+                              </font></p></td>
+                              <td><div align="left">
+                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>FESTIVAL D'ACCORD</strong></em><strong><em>&Eacute;</em></strong><em><strong>ON M</strong></em><strong><em>&Eacute;</em></strong><em><strong>DARD FERRERO</strong></em></font></p>
+                              </div></td>
+                            </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#478B3F">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">24 novembre 2018</font></td>
+                              <td height="26" align="center" bgcolor="#478B3F"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">20h00</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">DRANCY</font></td>
+                              <td height="26" bgcolor="#478B3F"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>ESPACE CULTUREL DU PARC<br>
+Place Maurice Nilès, 93700.<br>
+                              </strong>Tel : +33 1 48 31 95 42<br>
+                              </font></p></td>
+                              <td><div align="left">
+                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>FESTIVAL D'ACCORD</strong></em><strong><em>&Eacute;</em></strong><em><strong>ON M</strong></em><strong><em>&Eacute;</em></strong><em><strong>DARD FERRERO</strong></em></font></p>
                               </div></td>
                             </tr>
                             <tr bordercolor="#FFFFFF">
