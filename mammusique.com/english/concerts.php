@@ -38,7 +38,7 @@ include_once "header.inc"
                             </tr>
                         </table>
                         <br>
-                        <table height="458" width="773">
+                        <table height="358" width="773">
                             <tr>
                                 <td width="79" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                                 <td width="49" height="18" valign="top" bgcolor="#000000"><div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">TIME</font></div></td>
@@ -47,32 +47,20 @@ include_once "header.inc"
                                 <td width="241" valign="top" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">CONTEXT</font></td>
                             </tr>
                             <tr bordercolor="#FFFFFF">
-                                <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">September 28th 2018</font></td>
-                              <td height="26" align="center" bgcolor="#BE2A29"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">NOGENT-SUR-OISE</font></td>
-                              <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>SÉSON<br>
-                                </strong> 9, rue Ronsard, 60180.<strong><br>
-                                  </strong>Tel : +33 3 44 29 48 41<br>
-                              </font></p></td>
-                              <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>Dinner concert<br>
-                                </strong></em></font></p>
-                              </div></td>
-                            </tr>
-                            <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#6B4D87">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"> October 5th 2018</font></td>
-                              <td height="26" align="center" bgcolor="#6B4D87"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">7:00 pm</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">M&Eacute;LISEY</font></td>
-                              <td height="26" bgcolor="#6B4D87"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LA BULLE<br>
-                                </strong> Downtown, 70200.<strong><br>
-                                </strong>Tel : +33 3 84 75 36 37</font></td>
-                              <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Double concert &quot;Jazz in my Musette&quot; &amp; &quot;Human Swing Box&quot;</strong></font></td>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">October 12th 2018</font></td>
+                              <td height="26" align="center" bgcolor="#BE2A29"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">7:00 pm</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CHAMBLY</font></td>
+                              <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CHAMBLYRAMA<br>
+                                </strong> 1, place Chamblyrama, 60230.<strong><br>
+                                  </strong>Tel : +33 1 39 37 44 00<br>
+                              </font></p></td>
+                              <td><div align="left">
+                                <p><em><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>C<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong></font>r<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong></font>monie de remise de prix aux associations locales<br>
+                                </strong></font></em></p>
+                              </div></td>
                             </tr>
                             <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
@@ -88,7 +76,7 @@ include_once "header.inc"
                               </font></p></td>
                               <td><div align="left">
                                 <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>FÊTE CARITATIVE DES PIROGUES DU COEUR</strong></em></font><br>
-                                  <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>avec Nedule Papa No</strong>&euml;<strong>l (guitare), Bellow Komba (percussions) et Amed Barry (basse)</strong></font><br>
+                                  <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Featuring Nedule Papa No</strong>&euml;<strong>l (guitar), Bellow Komba (percussions) and Amed Barry (bass)</strong></font><br>
                                 </p>
                               </div></td>
                             </tr>
@@ -126,23 +114,6 @@ include_once "header.inc"
                               </font></p></td>
                               <td bgcolor="#478B3F"><div align="left">
                                 <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>FESTIVAL D'ACCORD</strong></em><strong><em>&Eacute;</em></strong><em><strong>ON M</strong></em><strong><em>&Eacute;</em></strong><em><strong>DARD FERRERO</strong></em></font></p>
-                              </div></td>
-                            </tr>
-                            <tr bordercolor="#FFFFFF">
-                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">December 1st 2018</font></td>
-                              <td height="26" align="center" bgcolor="#BE2A29"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">SENLIS</font></td>
-                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>MA NATURE<br>
-                                </strong>9, place Henri IV, 60300.<strong><br>
-                                  </strong>Tel : +33 3 44 28 11 95<br>
-                              </font></p></td>
-                              <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>&quot;PARIS VILLAGE&quot;</em></strong><em><strong><br>
-                                  Dinner concert<br>
-                                </strong></em></font></p>
                               </div></td>
                             </tr>
                             <tr bordercolor="#FFFFFF">

@@ -40,7 +40,7 @@ include_once "header.inc"
                             </tr>
                         </table>
                         <br>
-                        <table height="458" width="793">
+                        <table height="408" width="793">
                             <tr>
                                 <td width="79" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                                 <td width="45" height="18" valign="top" bgcolor="#000000"> <div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">HEURE</font></div></td>
@@ -67,15 +67,19 @@ include_once "header.inc"
                             <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
-                          <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#6B4D87">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"> 5 octobre 2018</font></td>
-                              <td height="26" align="center" bgcolor="#6B4D87"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">19h00</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">M&Eacute;LISEY</font></td>
-                              <td height="26" bgcolor="#6B4D87"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LA BULLE<br>
-                              </strong> Centre-Ville, 70200.<strong><br>
-                              </strong>Tel : +33 3 84 75 36 37</font></td>
-                              <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Double-concert &quot;Jazz in my Musette&quot; et &quot;Human Swing Box&quot;</strong></font></td>
-                            </tr>
+                          <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">12 octobre 2018</font></td>
+                              <td height="26" align="center" bgcolor="#BE2A29"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">19:00</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CHAMBLY</font></td>
+                              <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CHAMBLYRAMA<br>
+                                </strong> 1, place Chamblyrama, 60230.<strong><br>
+                                  </strong>Tel : +33 1 39 37 44 00<br>
+                              </font></p></td>
+                              <td><div align="left">
+                                <p><em><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>C<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong></font>r<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong></font>monie de remise de prix aux associations locales<br>
+                                </strong></font></em></p>
+                              </div></td>
+                          </tr>
                             <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
@@ -128,23 +132,6 @@ Place Maurice Nilès, 93700.<br>
                               </font></p></td>
                               <td><div align="left">
                                 <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>FESTIVAL D'ACCORD</strong></em><strong><em>&Eacute;</em></strong><em><strong>ON M</strong></em><strong><em>&Eacute;</em></strong><em><strong>DARD FERRERO</strong></em></font></p>
-                              </div></td>
-                            </tr>
-                            <tr bordercolor="#FFFFFF">
-                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">1er décembre 2018</font></td>
-                              <td height="26" align="center" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">20h00</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">SENLIS</font></td>
-                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>MA NATURE<br>
-                                </strong>9, place Henri IV, 60300.<strong><br>
-                                  </strong>Tel : +33 3 44 28 11 95<br>
-                              </font></p></td>
-                              <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>&quot;PARIS VILLAGE&quot;</em></strong><em><strong><br>
-                                  D&icirc;ner-concert<br>
-                                </strong></em></font></p>
                               </div></td>
                             </tr>
                             <tr bordercolor="#FFFFFF">
