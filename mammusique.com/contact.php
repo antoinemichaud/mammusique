@@ -15,7 +15,7 @@ include_once "header.inc"
                             <br>
                             Courrie<font size="2">l : <font face="Arial, Helvetica, sans-serif"><font size="2"><a href="mailto:leduchris@gmail.com">leduchris@gmail.com<br>
                                         </a>Site web<font face="Arial, Helvetica, sans-serif"><font size="2">
-                                                : <font face="Arial, Helvetica, sans-serif"><font size="2"><font face="Arial, Helvetica, sans-serif"><font size="2"><a href="http://www.www.culture-bis.com/" target="_blank">www.culture-bis.com</a></font></font></font></font></font></font><br>
+                                                : <font face="Arial, Helvetica, sans-serif"><font size="2"><font face="Arial, Helvetica, sans-serif"><font size="2"><a href="http://www.culture-bis.com/" target="_blank">www.culture-bis.com</a></font></font></font></font></font></font><br>
                                     </font></font></font></font></font></p>
             </div></td>
         <td width="50%" bgcolor="DDA977"> <div align="center">
