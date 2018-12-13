@@ -38,7 +38,7 @@ include_once "header.inc"
                             </tr>
                         </table>
                         <br>
-                        <table height="358" width="773">
+                        <table height="480" width="773">
                             <tr>
                                 <td width="79" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                                 <td width="49" height="18" valign="top" bgcolor="#000000"><div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">TIME</font></div></td>
@@ -50,78 +50,48 @@ include_once "header.inc"
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">October 12th 2018</font></td>
-                              <td height="26" align="center" bgcolor="#BE2A29"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">7:00 pm</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CHAMBLY</font></td>
-                              <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CHAMBLYRAMA<br>
-                                </strong> 1, place Chamblyrama, 60230.<strong><br>
-                                  </strong>Tel : +33 1 39 37 44 00<br>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">December 14th 2018</font></td>
+                              <td height="26" align="center" bgcolor="#BE2A29"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">6:00 pm</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">MONTATAIRE</font></td>
+                              <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>AMEM<br>
+                                Halle Perret,<br>
+                                32, avenue Ambroise Croizat, 60160.<br>
+                                </strong>Tel : +33 3 44 27 05 05<br>
                               </font></p></td>
-                              <td><div align="left">
-                                <p><em><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>C<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong></font>r<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong></font>monie de remise de prix aux associations locales<br>
-                                </strong></font></em></p>
-                              </div></td>
+                              <td><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&quot;TRANCHE DE VIE&quot;<br>
+                                featuring the actor Serge B<em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong></font></strong></em>chu </font></strong></em></td>
+                            </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">December 21st 2018</font></td>
+                              <td height="26" align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:30 pm</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">SAINT-LEU D'ESSERENT</font></td>
+                              <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>SALLE ART ET CULTURE<br>
+                                10-14, avenue Jules Ferry, 60340.<br>
+                                </strong>Tel : +33 3 44 56 87 00<br>
+                              </font></p></td>
+                              <td><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&quot;TRANCHE DE VIE&quot;<br>
+                                featuring the actor Serge B<em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></strong></font></strong></em>chu </font></strong></em></td>
                             </tr>
                             <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">November 3rd  2018</font></td>
-                              <td height="26" align="center" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">9:00 pm</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">FR&Eacute;PILLON</font></td>
-                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>SALLE DES F<em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&Ecirc;</font></strong></em>TES</strong><br>
-                                55,2, rue du Coudrey, 
-                                95740.<strong><br>
-                                  </strong>Tel : +33 6 08 46 36 79<br>
-                              </font></p></td>
-                              <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>FÊTE CARITATIVE DES PIROGUES DU COEUR</strong></em></font><br>
-                                  <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Featuring Nedule Papa No</strong>&euml;<strong>l (guitar), Bellow Komba (percussions) and Amed Barry (bass)</strong></font><br>
-                                </p>
-                              </div></td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">November 16th 2018</font></td>
-                              <td height="26" align="center" bgcolor="#BE2A29"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">COYE-LA-FOR&Ecirc;T</font></td>
-                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>L'&Eacute;TANG D'ART<br>
-                                </strong>Route foresti&egrave;re des &Eacute;tangs de Commelles, 60580.<strong><br>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">February22nd 2019</font></td>
+                              <td height="26" align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">COYE-LA-FOR<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&Ecirc;T</font></font></td>
+                              <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>L'&Eacute;TANG D'ART<br>
+                                Route foresti</strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&egrave;</font></em></strong></font></strong></em><strong>re des </strong>&Eacute;tangs de Commellle<strong>. 60580.<br>
                                   </strong>Tel : +33 3 44 57 21 39<br>
                               </font></p></td>
-                              <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>Dinner concert</strong></em></font></p>
-                              </div></td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">November 23rd 2018</font></td>
-                              <td height="26" align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">DRANCY</font></td>
-                              <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>ESPACE CULTUREL DU PARC<br>
-                                Place Maurice Nilès, 93700.<br>
-                                </strong>Tel : +33 1 48 31 95 42<br>
-                              </font></p></td>
-                              <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>FESTIVAL D'ACCORD</strong></em><strong><em>&Eacute;</em></strong><em><strong>ON M</strong></em><strong><em>&Eacute;</em></strong><em><strong>DARD FERRERO</strong></em></font></p>
-                              </div></td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                              <td height="26" bgcolor="#478B3F"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">November 24th 2018</font></td>
-                              <td height="26" align="center" bgcolor="#478B3F"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></td>
-                              <td height="26" bgcolor="#478B3F"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">DRANCY</font></td>
-                              <td height="26" bgcolor="#478B3F"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>ESPACE CULTUREL DU PARC<br>
-                                Place Maurice Nilès, 93700.<br>
-                                </strong>Tel : +33 1 48 31 95 42<br>
-                              </font></p></td>
-                              <td bgcolor="#478B3F"><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>FESTIVAL D'ACCORD</strong></em><strong><em>&Eacute;</em></strong><em><strong>ON M</strong></em><strong><em>&Eacute;</em></strong><em><strong>DARD FERRERO</strong></em></font></p>
-                              </div></td>
+                              <td><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em>&quot;QU</em><strong><em>EBEC-DUBLIN SPECIAL&quot;</em></strong><br>
+                              Dinner-concert</font></strong></td>
                             </tr>
                             <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">March 14th 2019</font></td>
-                              <td height="26" align="center" bgcolor="#666666"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">8:00 pm</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">March 8th 2019</font></td>
+                              <td height="26" align="center" bgcolor="#666666"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">7:00 pm</font></td>
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">NOGENT-SUR-OISE</font></td>
                               <td height="26" bgcolor="#666666"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CH<em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&Acirc;</font></strong></em>TEAU DES ROCHERS<br>
                                 </strong> 60160.<strong><br>
@@ -131,6 +101,31 @@ include_once "header.inc"
                                 <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>FESTIVAL DE JAZZ<br>
 </strong></em><strong>Opening with music school's students who will follow MAM's masterclass</strong></font></p>
                               </div></td>
+                            </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">March 29th 2019</font></td>
+                              <td height="26" align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">COYE-LA-FOR<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&Ecirc;T</font></font></td>
+                              <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>L'&Eacute;TANG D'ART<br>
+                                Route foresti</strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&egrave;</font></em></strong></font></strong></em><strong>re des </strong>&Eacute;tangs de Commellle<strong>. 60580.<br>
+                                  </strong>Tel : +33 3 44 57 21 39<br>
+                              </font></p></td>
+                              <td><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em>&quot;QU</em><strong><em>EBEC-DUBLIN SPECIAL&quot;</em></strong><br>
+                                Dinner-concert</font></strong></td>
+                            </tr>
+                            <tr bordercolor="#FFFFFF">
+                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+                            </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">April 12th 2019</font></td>
+                              <td height="26" align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">COYE-LA-FOR<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&Ecirc;T</font></font></td>
+                              <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>L'&Eacute;TANG D'ART<br>
+                                Route foresti</strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&egrave;</font></em></strong></font></strong></em><strong>re des </strong>&Eacute;tangs de Commellle<strong>. 60580.<br>
+                                  </strong>Tel : +33 3 44 57 21 39<br>
+                              </font></p></td>
+                              <td><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em>&quot;QU</em><strong><em>EBEC-DUBLIN SPECIAL&quot;</em></strong><br>
+                                Dinner-concert</font></strong></td>
                             </tr>
                             <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
@@ -158,9 +153,37 @@ include_once "header.inc"
                               <td height="26" valign="middle"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">SAINT-JUST-EN-CHAUSS&Eacute;E</font></td>
                               <td height="26"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>PLACE DE LA MAIRIE<br>
                                 </strong>60130.<strong><br>
-                              </strong>Tel : +33 3 44 19 29 29</font></p></td>
+                                </strong>Tel : +33 3 44 19 29 29</font></p></td>
                               <td><div align="left"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>FÊTE DE LA MUSIQUE</em><br>
                                 Double concert &quot;Jazz in my Musette&quot; &amp; &quot;Human Swing Box&quot;</strong></font></div></td>
+                            </tr>
+                            <tr bordercolor="#FFFFFF">
+                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+                            </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Augus</font><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">t 4th</font></font></strong> 2019</font></td>
+                              <td height="26" align="center" bgcolor="#BE2A29"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">FLOIRAC</font></td>
+                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LE SOUVICIER<br>
+                                </strong>17120.<strong><br>
+                                  </strong>Tel : +33 6 76 05 32 80<br>
+                              </font></p></td>
+                              <td><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em>ACCORDION FESTIVAL</em><br>
+                              </font></strong></td>
+                            </tr>
+                            <tr bordercolor="#FFFFFF">
+                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+                            </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">November 14th 2019</font></td>
+                              <td height="26" align="center" bgcolor="#666666"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">TERGNIER</font></td>
+                              <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CENTRE CULTUREL FRANÇOIS MITTERRAND<br>
+                                </strong> 7, rue Marceau, 02700.<strong><br>
+                                </strong>Tel : +33 3 23 40 24 40</font></p></td>
+                              <td><div align="left">
+                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">+ 2 young audience shows during the day</font></p>
+                              </div></td>
                             </tr>
                             <table width="688" height="1048" dwcopytype="CopyTableRow">
                                 <tr bordercolor="#FFFFFF">
