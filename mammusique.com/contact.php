@@ -23,8 +23,7 @@ include_once "header.inc"
                                     <strong>:</strong></font></i></u></font><font face="Arial, Helvetica, sans-serif" size="2"><b><br>
                         </b><strong><br>
                         Viviane Arnoux</strong><br>
-                    </font><font size="2"><font face="Arial, Helvetica, sans-serif">Tel </font></font><font face="Arial, Helvetica, sans-serif" size="2">: +33 6 13 52 55 04<br>
-                        <strong><br>
+                    </font><font size="2"><font face="Arial, Helvetica, sans-serif">Tel </font></font><font face="Arial, Helvetica, sans-serif" size="2">: +33 6 13 52 55 04<strong><br>
                         Fran&ccedil;ois Michaud</strong><br>
                         Tel : +33 6 03 40 26 61<br>
                         <br>
@@ -34,20 +33,22 @@ include_once "header.inc"
     </tr>
     <tr>
         <td width="50%" height="111" bgcolor="DDA977">
-            <div align="center"><font face="Arial, Helvetica, sans-serif" size="3"><i><strong><u>Achat
-                                d'albums</u></strong></i></font><font face="Arial, Helvetica, sans-serif" size="2"><u><em><strong><font size="3">
-                                    en ligne :</font></strong></em></u><br>
-                    <br>
-                    <b>BUDA MUSIQUE</b><br>
-                    <a href="http://www.budamusique.com/index.php/Catalogue/Stars-de-la-world/Page-2.html?keyword=0&orderby=product_name/" target="_blank">www.budamusique.com
-                    </a></font></div></td>
+            <div align="center">
+              <p><font face="Arial, Helvetica, sans-serif" size="3"><i><strong><u>Achat
+                d'albums</u></strong></i></font><font face="Arial, Helvetica, sans-serif" size="2"><u><em><strong><font size="3">
+                  en ligne :</font></strong></em></u><br>
+                </font><font face="Arial, Helvetica, sans-serif" size="2"><br>
+                <b>BUDA MUSIQUE</b><br>
+                <a href="http://www.budamusique.com/index.php/Catalogue/Stars-de-la-world/Page-2.html?keyword=0&orderby=product_name/" target="_blank">www.budamusique.com
+                </a></font></p>
+</div></td>
         <td bgcolor="DDA977" width="50%"> <div align="center">
                 <p><font face="Arial, Helvetica, sans-serif" size="3"><font size="2"><b><i>
                                     <u><font size="3">Documents &agrave; t&eacute;l&eacute;charger</font></u></i></b><font size="3"><u><em><strong>
                                             :</strong></em></u></font><br>
                             <br>
-                            <strong>Documentations en format PDF</strong></font></font><strong><font face="Arial, Helvetica, sans-serif" size="2"> pdf</font></strong><font face="Arial, Helvetica, sans-serif" size="2"><br>
-                        <a href="pdf/la_fascinante_histoire_de_l_accordeon.pdf" target="_blank"><strong>La Fascinante Histoire de l'Accord&eacute;on</strong></a><strong><br>
+                            <strong>Documentations  au format PDF</strong></font></font><font face="Arial, Helvetica, sans-serif" size="2"><br>
+                        <a href="pdf/la_fascinante_histoire_de_l_accordeon_2019_2020.pdf" target="_blank"><strong>La Fascinante Histoire de l'Accord&eacute;on</strong></a><strong><br>
                         <a href="pdf/MAM_Time_Box_residence_de_creation_et_tournees_2019_2020.pdf" target="_blank">Time Box (nouvelle cr&eacute;ation)</a></strong></font></p>
             </div></td>
     </tr>
