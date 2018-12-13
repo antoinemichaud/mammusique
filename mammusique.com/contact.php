@@ -9,31 +9,24 @@ include_once "header.inc"
                 <p><font size="3" face="Arial, Helvetica, sans-serif"><font size="2"><b><i><u><font size="3">Tourneur
                                             :</font><br>
                                     </u><br>
-                                </i>Philippe Naulot<br>
-                                SCORE PRODUCTIONS</b></font></font><font size="2"><font face="Arial, Helvetica, sans-serif"><br>
-                            17, rue de la R&eacute;volution<br>
-                            93107 MONTREUIL-SOUS-BOIS CEDEX<br>
-                            Tel : (33)1 48 59 89 61<br>
+                                </i></b></font><font size="3" face="Arial, Helvetica, sans-serif"><font size="2"><b>CULTURE BIS</b></font></font><font size="2"><b><br>
+                                </b></font></font><font size="2"><font size="3" face="Arial, Helvetica, sans-serif"><font size="2"><b>Christophe Le Du</b></font></font><font face="Arial, Helvetica, sans-serif"><br>
+                            Tel : +33 6 70 52 51 99<br>
                             <br>
-                            Courrie<font size="2">l : <font face="Arial, Helvetica, sans-serif"><font size="2"><a href="mailto:score@nerim.net">score@nerim.net<br>
-                                        </a>Site<font face="Arial, Helvetica, sans-serif"><font size="2">
-                                                : <font face="Arial, Helvetica, sans-serif"><font size="2"><font face="Arial, Helvetica, sans-serif"><font size="2"><a href="http://www.score-productions.com/" target="_blank">www.score-productions.com</a></font></font></font></font></font></font><br>
+                            Courrie<font size="2">l : <font face="Arial, Helvetica, sans-serif"><font size="2"><a href="mailto:leduchris@gmail.com">leduchris@gmail.com<br>
+                                        </a>Site web<font face="Arial, Helvetica, sans-serif"><font size="2">
+                                                : <font face="Arial, Helvetica, sans-serif"><font size="2"><font face="Arial, Helvetica, sans-serif"><font size="2"><a href="http://www.www.culture-bis.com/" target="_blank">www.culture-bis.com</a></font></font></font></font></font></font><br>
                                     </font></font></font></font></font></p>
             </div></td>
         <td width="50%" bgcolor="DDA977"> <div align="center">
-                <p><font face="Arial, Helvetica, sans-serif" size="3"><font size="2"><b><i><u><font size="3">Pour
-                                            toute autre question</font></u></i></b></font></font><font size="3"><u><i><font face="Arial, Helvetica, sans-serif">
-                                    <strong>:</strong></font></i></u></font><u><i><font face="Arial, Helvetica, sans-serif" size="2"><strong><b><br>
-                                    </b></strong></font></i></u><font face="Arial, Helvetica, sans-serif" size="2"><b><br>
-                        </b><strong>Fran&ccedil;ois Michaud</strong><br>
-                        Tel/fax : (33)3 44 74 02 54<br>
-                    </font><font size="2"><font face="Arial, Helvetica, sans-serif">Urgences</font></font><font face="Arial, Helvetica, sans-serif" size="2">
-                        : (33)6 03 40 26 61<br>
-                        <br>
-                        <strong>Viviane Arnoux</strong><br>
-                        Tel : (33)3 44 26 39 80<br>
-                    </font><font size="2"><font face="Arial, Helvetica, sans-serif">Urgences</font></font><font face="Arial, Helvetica, sans-serif" size="2">
-                        : (33)6 13 52 55 04<br>
+                <p><font face="Arial, Helvetica, sans-serif" size="3"><b><i><u>Direction artistique</u></i></b></font><font size="3"><u><i><font face="Arial, Helvetica, sans-serif">
+                                    <strong>:</strong></font></i></u></font><font face="Arial, Helvetica, sans-serif" size="2"><b><br>
+                        </b><strong><br>
+                        Viviane Arnoux</strong><br>
+                    </font><font size="2"><font face="Arial, Helvetica, sans-serif">Tel </font></font><font face="Arial, Helvetica, sans-serif" size="2">: +33 6 13 52 55 04<br>
+                        <strong><br>
+                        Fran&ccedil;ois Michaud</strong><br>
+                        Tel : +33 6 03 40 26 61<br>
                         <br>
                     </font><font size="2"><font face="Arial, Helvetica, sans-serif">Courrie<font size="2">l
                                 : </font></font></font><font face="Arial, Helvetica, sans-serif" size="2"><a href="mailto:mammusique@gmail.com">mammusique@gmail.com</a></font></p>
@@ -42,7 +35,7 @@ include_once "header.inc"
     <tr>
         <td width="50%" height="111" bgcolor="DDA977">
             <div align="center"><font face="Arial, Helvetica, sans-serif" size="3"><i><strong><u>Achat
-                                de CD</u></strong></i></font><font face="Arial, Helvetica, sans-serif" size="2"><u><em><strong><font size="3">s
+                                d'albums</u></strong></i></font><font face="Arial, Helvetica, sans-serif" size="2"><u><em><strong><font size="3">
                                     en ligne :</font></strong></em></u><br>
                     <br>
                     <b>BUDA MUSIQUE</b><br>
@@ -53,11 +46,9 @@ include_once "header.inc"
                                     <u><font size="3">Documents &agrave; t&eacute;l&eacute;charger</font></u></i></b><font size="3"><u><em><strong>
                                             :</strong></em></u></font><br>
                             <br>
-                            <strong>Plaquette de MAM</strong></font></font><strong><font face="Arial, Helvetica, sans-serif" size="2">
-                            en format pdf</font></strong><font face="Arial, Helvetica, sans-serif" size="2"><br>
-                        <a href="pdf/mam_JMM_vf.pdf" target="_blank">Jazz in my Musette</a><br>
-                        <a href="pdf/mam_MAM_vf.pdf" target="_blank">Musique Acoustique
-                            Machines &amp; vid&eacute;o</a></font></p>
+                            <strong>Documentations en format PDF</strong></font></font><strong><font face="Arial, Helvetica, sans-serif" size="2"> pdf</font></strong><font face="Arial, Helvetica, sans-serif" size="2"><br>
+                        <a href="pdf/la_fascinante_histoire_de_l_accordeon.pdf" target="_blank"><strong>La Fascinante Histoire de l'Accord&eacute;on</strong></a><strong><br>
+                        <a href="pdf/MAM_Time_Box_residence_de_creation_et_tournees_2019_2020.pdf" target="_blank">Time Box (nouvelle cr&eacute;ation)</a></strong></font></p>
             </div></td>
     </tr>
 </table>
