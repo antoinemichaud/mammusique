@@ -49,7 +49,7 @@ include_once "header.inc"
                             <br>
                             <strong>Documentations  au format PDF</strong></font></font><font face="Arial, Helvetica, sans-serif" size="2"><br>
                         <a href="pdf/la_fascinante_histoire_de_l_accordeon_2019_2020.pdf" target="_blank"><strong>La Fascinante Histoire de l'Accord&eacute;on</strong></a><strong><br>
-                        <a href="pdf/MAM_Time_Box_residence_de_creation_et_tournees_2019_2020.pdf" target="_blank">Time Box (nouvelle cr&eacute;ation)</a></strong></font></p>
+                        <a href="pdf/MAM_Time_Box_2019_2020.pdf" target="_blank">Time Box (nouvelle cr&eacute;ation)</a></strong></font></p>
             </div></td>
     </tr>
 </table>
