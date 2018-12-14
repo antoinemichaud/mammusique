@@ -76,7 +76,7 @@ include_once "header.inc"
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">February22nd 2019</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">February 22nd 2019</font></td>
                               <td height="26" align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">8:00 pm</font></td>
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">COYE-LA-FOR<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&Ecirc;T</font></font></td>
                               <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>L'&Eacute;TANG D'ART<br>
