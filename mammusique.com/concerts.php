@@ -135,7 +135,7 @@ include_once "header.inc"
                               </div></td>
                               <td height="26" valign="middle"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">BEAUVAIS</font></td>
                               <td height="26" valign="middle" bgcolor="#6B4D87"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>TH&Eacute;<em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&Acirc;</font></strong></em>TRE DU BEAUVAISIS<br>
-                                </strong>40, rue Vinot-Pr<em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></em></strong></font></strong></em>fontaine, 60000.<strong><br>
+                                </strong>40, rue Vinot-Pr<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></font>fontaine, 60000.<strong><br>
                                 </strong>Tel : +33 3 44 06 08 22</font></p></td>
                               <td valign="middle"><div align="left"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>FESTIVAL DES ARTS EN BEAUVAISIS<br>
                               </strong></font><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Double-concert &quot;Jazz in my Musette&quot; et &quot;Human Swing Box&quot;</strong></font></div></td>
