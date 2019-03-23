@@ -40,7 +40,7 @@ include_once "header.inc"
                             </tr>
                         </table>
                         <br>
-                        <table height="648" width="793">
+                        <table height="620" width="793">
                             <tr>
                                 <td width="79" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                                 <td width="45" height="18" valign="top" bgcolor="#000000"> <div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">HEURE</font></div></td>
@@ -50,17 +50,6 @@ include_once "header.inc"
                             </tr>
                             <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">22 mars 2019</font></td>
-                              <td height="26" align="center" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">20h00</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CHANTILLY</font></td>
-                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LE COB<br>
-                                36, avenue du Mar</strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></font><strong>chal Joffre. 60500.<br>
-                                  </strong>Tel : +33 3 44 54 22 64<br>
-                              </font></p></td>
-                              <td><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em>&quot;QU</em><strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&Eacute;</font></strong></font></strong></em></font></strong>BEC-DUBLIN SP<strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&Eacute;</font></strong></font></strong></em></font></strong>CIAL&quot;</em></strong><br>
-                                Dîner-concert</font></strong></td>
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">29 mars 2019</font></td>
@@ -223,9 +212,7 @@ include_once "header.inc"
                                   </strong>Tel : +33 3 20 66 46 42<br>
                               </font></p></td>
                               <td><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em>FESTIVAL D'ACCORD</em><strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&Eacute;</font></strong></font></strong></em></font></strong></em></strong><em>ON<br>
-                                Voyage Celte
-                              </em><br>
-                              </font></strong></td>
+                                &quot;Voyage Celte&quot;</em></font></strong></td>
                             </tr>
                             <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
