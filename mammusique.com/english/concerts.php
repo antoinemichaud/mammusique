@@ -234,14 +234,16 @@ include_once "header.inc"
                             <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">11 au 15 mai 2019</font></td>
-                              <td height="26" align="center" bgcolor="#BE2A29">&nbsp;</td>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#6B4D87">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">May 11th to 15th 2019</font></td>
+                              <td height="26" align="center" bgcolor="#6B4D87">&nbsp;</td>
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">VILLERSEXEL</font></td>
-                              <td height="26" bgcolor="#BE2A29"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LA BULLE<br>
+                              <td height="26" bgcolor="#6B4D87"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LA BULLE<br>
                                 </strong> le Bourg, 70110.<strong><br>
                                 </strong>Tel : +33 3 84 75 36 37</font></p></td>
-                              <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">+  young audience shows during the day</font></td>
+                              <td><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>&quot;Time Box&quot; + &quot;Paris Village&quot;<br>
+                              </strong></em>+  young audience shows during the day<br>
+                              </font></p></td>
                             </tr>
                             <table width="688" height="1048" dwcopytype="CopyTableRow">
                                 <tr bordercolor="#FFFFFF">
