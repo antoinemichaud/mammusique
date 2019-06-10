@@ -209,7 +209,7 @@ include_once "header.inc"
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">February 4th 2019</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">February 4th 2020</font></td>
                               <td height="26" align="center" bgcolor="#666666"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">6:30 pm</font></p></td>
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">MONTATAIRE</font></td>
                               <td height="26" bgcolor="#666666"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LE PALACE<br>
@@ -221,7 +221,7 @@ include_once "header.inc"
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#cc6600">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Aoril 28th 2019</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Aoril 28th 2020</font></td>
                               <td height="26" align="center" bgcolor="#cc6600"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">6:30 pm</font></td>
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">NEUILLY-SOUS-CLERMONT</font></td>
                               <td height="26" bgcolor="#cc6600"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>SALLE POLYVALENTE<br>
@@ -235,7 +235,7 @@ include_once "header.inc"
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#6B4D87">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">May 11th to 15th 2019</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">May 11th to 15th 2020</font></td>
                               <td height="26" align="center" bgcolor="#6B4D87">&nbsp;</td>
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">VILLERSEXEL</font></td>
                               <td height="26" bgcolor="#6B4D87"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LA BULLE<br>

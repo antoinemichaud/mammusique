@@ -211,7 +211,7 @@ include_once "header.inc"
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">4 f<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></font>vrier 2019</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">4 f<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></font>vrier 2020</font></td>
                               <td height="26" align="center" bgcolor="#666666"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">20h30 </font></p></td>
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">MONTATAIRE</font></td>
                               <td height="26" bgcolor="#666666"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LE PALACE<br>
@@ -223,7 +223,7 @@ include_once "header.inc"
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#cc6600">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">28 avril 2019</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">28 avril 2020</font></td>
                               <td height="26" align="center" bgcolor="#cc6600"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">18h30</font></td>
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">NEUILLY-SOUS-CLERMONT</font></td>
                               <td height="26" bgcolor="#cc6600"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>SALLE POLYVALENTE<br>
@@ -237,7 +237,7 @@ include_once "header.inc"
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#6B4D87">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">11 au 15 mai 2019</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">11 au 15 mai 2020</font></td>
                               <td height="26" align="center" bgcolor="#6B4D87">&nbsp;</td>
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">VILLERSEXEL</font></td>
                               <td height="26" bgcolor="#6B4D87"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LA BULLE<br>
