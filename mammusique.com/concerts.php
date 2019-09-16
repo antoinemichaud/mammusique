@@ -40,7 +40,7 @@ include_once "header.inc"
                             </tr>
                         </table>
                         <br>
-                        <table height="626" width="793">
+                        <table height="648" width="793">
                             <tr>
                                 <td width="79" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                                 <td width="45" height="18" valign="top" bgcolor="#000000"> <div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">HEURE</font></div></td>
@@ -72,6 +72,16 @@ include_once "header.inc"
                                   </strong>Tel : +33 3 25 72 52 35<br>
                               </font></p></td>
                               <td><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em>&quot;VOYAGE CELTE</em><strong><em>&quot;</em></strong></font></strong></td>
+                            </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">21 septembre 2019</font></td>
+                              <td height="26" align="center" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">18h30</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">AUTEUIL</font></td>
+                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&Eacute;GLISE SAINT-DENIS<br>
+                                </strong>1 bis, rue des Cyclamens, 60390.<strong><br>
+                                  </strong>Tel : +33 6 87 05 54 95<br>
+                              </font></p></td>
+                              <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>Festival &quot;La Chambre Verte&quot;</strong></em></font></td>
                             </tr>
                             <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
