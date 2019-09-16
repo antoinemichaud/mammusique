@@ -62,7 +62,7 @@ include_once "header.inc"
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#246A9A">
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">September 19th  2019</font></td>
-                              <td height="26" align="center" bgcolor="#246A9A"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">7:00 pm</font></td>
+                              <td height="26" align="center" bgcolor="#246A9A"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">6:00 pm</font></td>
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">SAINT-GERMAIN</font></td>
                               <td height="26" bgcolor="#246A9A
                              "><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>M<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&Eacute;</font></strong></font></strong></em></font></strong></em></strong></font>DIATH<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&Egrave;</font></strong></font></strong></em></font></strong></em></strong></font>QUE<br>
