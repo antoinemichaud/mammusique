@@ -38,7 +38,7 @@ include_once "header.inc"
                             </tr>
                         </table>
                         <br>
-                        <table height="592" width="773">
+                        <table height="928" width="773">
                             <tr>
                                 <td width="79" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                                 <td width="49" height="18" valign="top" bgcolor="#000000"><div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">TIME</font></div></td>
@@ -59,6 +59,9 @@ include_once "header.inc"
                               </font></p></td>
                               <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Diner-concert<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">.</font></font></font></strong></font></td>
                             </tr>
+                            <tr bordercolor="#FFFFFF">
+                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+                            </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">October 12th 2019</font></td>
                               <td height="26" align="center" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">3:00 pm</font></td>
@@ -68,6 +71,9 @@ include_once "header.inc"
                                   </strong>Tel : +33 3 44 80 81 58<br>
                               </font></p></td>
                               <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Home concert<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">. Obligatory reservation.</font></font></font></strong></font></td>
+                            </tr>
+                            <tr bordercolor="#FFFFFF">
+                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">October 16th 2019</font></td>
@@ -83,6 +89,27 @@ include_once "header.inc"
                             <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">October 26th 2019<br>
+                                October 27th 2019
+                              </font></td>
+                              <td height="26" align="center" bgcolor="#666666"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">9:00 pm<br>
+                                5:00 pm
+                              </font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">VAREILLES</font></td>
+                              <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LE MAQUIS<br>
+                                </strong> 2, rue de l'&Eacute;rable. 89320.<strong><br>
+                                </strong>Tel : +33 3 86 88 31 15</font></p></td>
+                              <td><div align="left">
+                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>FESTIVAL &quot;LE GO</strong></em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&Ucirc;T DU JAZZ&quot;</strong></font></strong></em></font></strong></em></strong></font></strong></font></p>
+                              </div></td>
+                            </tr>
+                            <tr bordercolor="#FFFFFF">
+                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+                            </tr>
+                            <tr bordercolor="#FFFFFF">
+                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+                            </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#246A9A">
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">November 8th 2019</font></td>
                               <td height="26" align="center" bgcolor="#246A9A"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">7:00 pm</font></td>
@@ -93,6 +120,9 @@ include_once "header.inc"
                                   </strong>Tel : +33 3 25 38 40 10<br>
                               </font></p></td>
                               <td><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em>&quot;LA FASCINANTE HISTOIRE DE L'ACCORD</em><strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&Eacute;</font></strong></font></strong></em></font></strong></em></strong><em>ON</em><strong><em>&quot;</em></strong></font></strong></td>
+                            </tr>
+                            <tr bordercolor="#FFFFFF">
+                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">November 14th 2019</font></td>
@@ -105,6 +135,9 @@ include_once "header.inc"
                                 <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">+ 2 young audience shows during the day</font></p>
                               </div></td>
                             </tr>
+                            <tr bordercolor="#FFFFFF">
+                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+                            </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">November 16th 2019</font></td>
                               <td height="26" align="center" bgcolor="#666666"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">7:00 pm</font></td>
@@ -116,6 +149,9 @@ include_once "header.inc"
                                 <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">concert + shared meal + ball</font></p>
                               </div></td>
                             </tr>
+                            <tr bordercolor="#FFFFFF">
+                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+                            </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">November 22nd 2019</font></td>
                               <td height="26" align="center" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">8:00 pm</font></td>
@@ -125,6 +161,9 @@ include_once "header.inc"
                                   </strong>Tel : +33 3 44 57 21 39<br>
                               </font></p></td>
                               <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Diner-concert<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">.</font></font></font></strong></font></td>
+                            </tr>
+                            <tr bordercolor="#FFFFFF">
+                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">November 23rd 2019</font></td>
@@ -136,6 +175,9 @@ Tel : +33 1 30 59 12 97 </font><font color="#FFFFFF" size="1" face="Arial, Helve
                                 </font></p></td>
                               <td><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>F</em></strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em>&Ecirc;</em></font><em><strong>T</strong></em><strong><em>E DU BEAUJOLAIS</em></strong><em><br>
                               </em></font></strong></td>
+                            </tr>
+                            <tr bordercolor="#FFFFFF">
+                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
                             <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
@@ -152,6 +194,9 @@ Tel : +33 1 30 59 12 97 </font><font color="#FFFFFF" size="1" face="Arial, Helve
                             <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
+                            <tr bordercolor="#FFFFFF">
+                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+                            </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">February 4th 2020</font></td>
                               <td height="26" align="center" bgcolor="#666666"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">6:30 pm</font></p></td>
@@ -160,6 +205,9 @@ Tel : +33 1 30 59 12 97 </font><font color="#FFFFFF" size="1" face="Arial, Helve
                                 </strong> 8 bis, rue des D<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></font>port&eacute;s, 60160.<strong><br>
                                 </strong>Tel : +33 3 44 24 69 97</font></p></td>
                               <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">2 young audience shows.</font></td>
+                            </tr>
+                            <tr bordercolor="#FFFFFF">
+                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
                             <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
@@ -178,6 +226,9 @@ Tel : +33 1 30 59 12 97 </font><font color="#FFFFFF" size="1" face="Arial, Helve
                             <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
+                            <tr bordercolor="#FFFFFF">
+                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+                            </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#246A9A">
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">May 29th 2019</font></td>
                               <td height="26" align="center" bgcolor="#246A9A"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">8:00 pm</font></td>
@@ -192,6 +243,9 @@ rue Principale, 60850.<br>
                             <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
+                            <tr bordercolor="#FFFFFF">
+                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+                            </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#6B4D87">
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">June 8th to 12th 2020</font></td>
                               <td height="26" align="center" bgcolor="#6B4D87">&nbsp;</td>
@@ -202,6 +256,9 @@ rue Principale, 60850.<br>
                               <td><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>&quot;Time Box&quot; + &quot;Paris Village&quot;<br>
                                 </strong></em>+  young audience shows during the day<br>
                               </font></p></td>
+                            </tr>
+                            <tr bordercolor="#FFFFFF">
+                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
                             <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
