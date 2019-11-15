@@ -40,99 +40,13 @@ include_once "header.inc"
                             </tr>
                         </table>
                         <br>
-                        <table height="928" width="793">
+                        <table height="606" width="793">
                             <tr>
                                 <td width="79" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                                 <td width="45" height="18" valign="top" bgcolor="#000000"> <div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">HEURE</font></div></td>
                                 <td width="152" height="18" valign="top" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">VILLE</font></td>
                                 <td width="207" height="18" valign="top" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">LIEU</font></td>
                                 <td width="276" valign="top" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">CONTEXTE</font></td>
-                            </tr>
-                            <tr bordercolor="#FFFFFF">
-                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">11 octobre 2019</font></td>
-                              <td height="26" align="center" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">20h00</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">COYE-LA-FOR&Ecirc;T</font></td>
-                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>L'&Eacute;TANG D'ART<br>
-                                </strong>Ch&acirc;teau de la Reine Blanche, 60580.<strong><br>
-                                  </strong>Tel : +33 3 44 57 21 39<br>
-                              </font></p></td>
-                              <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>D</strong>&icirc;<strong>ner-concert<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">.</font></font></font></strong></font></td>
-                            </tr>
-                            <tr bordercolor="#FFFFFF">
-                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">12 octobre 2019</font></td>
-                              <td height="26" align="center" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">15h00</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">OURSEL-MAISON</font></td>
-                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CHEZ MME &amp; M. TILL&Eacute;<br>
-                                </strong>45, la Neuve Rue, 60480.<strong><br>
-                                  </strong>Tel : +33 3 44 80 81 58<br>
-                              </font></p></td>
-                              <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em>&quot;VOYAGE CELTE</em><strong><em>&quot;</em></strong></font><br>
-                              Concert <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&agrave; domicile.</font></font></font></strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"> Réservation obligatoire.</font></font></font></font></td>
-                            </tr>
-                            <tr bordercolor="#FFFFFF">
-                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">16 octobre 2019</font></td>
-                              <td height="26" align="center" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">12h00</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">ROUBAIX</font></td>
-                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>MAGIC MIRROR<br>
-                                </strong>Grand Place, 59100.<strong><br>
-                                  </strong>Tel : +33 3 20 66 46 42<br>
-                              </font></p></td>
-                              <td><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em>FESTIVAL D'ACCORD</em><strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&Eacute;</font></strong></font></strong></em></font></strong></em></strong><em>ON<br>
-                                &quot;Voyage Celte&quot;</em></font></strong></td>
-                            </tr>
-                            <tr bordercolor="#FFFFFF">
-                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">26 octobre</font><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"> 2019<br>
-                                27 octobre 2019 </font></td>
-                              <td height="26" align="center" bgcolor="#666666"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">9:00 pm<br>
-                                5:00 pm </font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">VAREILLES</font></td>
-                              <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LE MAQUIS<br>
-                                </strong> 2, rue de l'&Eacute;rable. 89320.<strong><br>
-                                </strong>Tel : +33 3 86 88 31 15</font></p></td>
-                              <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>FESTIVAL &quot;LE GO</strong></em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>&Ucirc;T DU JAZZ&quot;</strong></font></strong></em></font></strong></em></strong></font></strong></font></p>
-                              </div></td>
-                            </tr>
-                            <tr bordercolor="#FFFFFF">
-                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-                            </tr>
-                            <tr bordercolor="#FFFFFF">
-                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#246A9A">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">8 novembre 2019</font></td>
-                              <td height="26" align="center" bgcolor="#246A9A"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">18h30</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">MUSSY-SUR-SEINE</font></td>
-                              <td height="26" bgcolor="#246A9A
-                             "><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>M&Eacute;DIATH&Egrave;QUE<br>
-                                6-8, rue de l'H</strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&ocirc;</font></font><strong>tel de Ville, 10250.<br>
-                                  </strong>Tel : +33 3 25 38 40 10<br>
-                              </font></p></td>
-                              <td><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em>&quot;VOYAGE CELTE</em><strong><em>&quot;</em></strong></font></strong></td>
-                            </tr>
-                            <tr bordercolor="#FFFFFF">
-                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">14 novembre 2019</font></td>
-                              <td height="26" align="center" bgcolor="#666666"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">20h30 </font></p></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">TERGNIER</font></td>
-                              <td height="26" bgcolor="#666666"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CENTRE CULTUREL FRANÇOIS MITTERRAND<br>
-                                </strong> 7, rue Marceau, 02700.<strong><br>
-                                </strong>Tel : +33 3 23 40 24 40</font></p></td>
-                              <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">+ 2 repr<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></font>sentations jeune public en journ<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></font>e</font></td>
                             </tr>
                             <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
@@ -165,12 +79,11 @@ include_once "header.inc"
                             </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
                               <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">23 novembre 2019</font></td>
-                              <td height="26" align="center" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">18h00</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">ABLIS</font></td>
-                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LE CATHEC</strong><br>
-                              61, rue Pierre Trouv&eacute;, 78660.<br>
-                                Tel : +33 1 30 59 12 97
-                              </font><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><br>
+                              <td height="26" align="center" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">20h00</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">BOINVILLE-LE-GAILLARD</font></td>
+                              <td height="26" bgcolor="#BE2A29"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>SALLE POLYVALENTE</strong><br>
+Ruelle de Charron, 78660.<br>
+Tel : +33 7 71 15 55 91</font><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><br>
                               </font></p></td>
                               <td><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>F</em></strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em>&Ecirc;</em></font><em><strong>T</strong></em><strong><em>E DU BEAUJOLAIS</em></strong><em><br>
                               </em></font></strong></td>
