@@ -38,7 +38,7 @@ include_once "header.inc"
                             </tr>
                         </table>
                         <br>
-                        <table height="606" width="773">
+                        <table height="856" width="773">
                             <tr>
                                 <td width="79" height="18" align="left" valign="middle" bgcolor="#000000"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">DATE</font></td>
                                 <td width="49" height="18" valign="top" bgcolor="#000000"><div align="center"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">TIME</font></div></td>
@@ -49,42 +49,31 @@ include_once "header.inc"
                             <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">November 16th 2019</font></td>
-                              <td height="26" align="center" bgcolor="#666666"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">7:00 pm</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">ST-LEU-D'ESSERENT</font></td>
-                              <td height="26"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>SALLE ART ET CULTURE<br>
-                                </strong> 10-14, avenue Jules Ferry, 60340.<strong><br>
-                                </strong>Tel : +33 3 44 56 05 34</font></p></td>
-                              <td><div align="left">
-                                <p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">concert + shared meal + ball</font></p>
-                              </div></td>
-                            </tr>
-                            <tr bordercolor="#FFFFFF">
-                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-                            </tr>
                             <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">November 22nd 2019</font></td>
-                              <td height="26" align="center" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">8:00 pm</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">COYE-LA-FOR&Ecirc;T</font></td>
-                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>L'&Eacute;TANG D'ART<br>
-                                </strong>Ch&acirc;teau de la Reine Blanche, 60580.<strong><br>
-                                  </strong>Tel : +33 3 44 57 21 39<br>
-                              </font></p></td>
-                              <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Diner-concert<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">.</font></font></font></strong></font></td>
-                            </tr>
-                            <tr bordercolor="#FFFFFF">
-                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
-                            </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">November 23rd 2019</font></td>
-                              <td height="26" align="center" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">8:00 pm</font></td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">BOINVILLE-LE-GAILLARD</font></td>
-                              <td height="26" bgcolor="#BE2A29"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>SALLE POLYVALENTE</strong><br>
-Ruelle de Charron, 78660.<br>
-Tel : +33 7 71 15 55 91</font><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><br>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">January 24th 2020</font></td>
+                              <td height="26" align="center" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">7:00 pm</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CLERMONT-DE-L'OISE</font></td>
+                              <td height="26" bgcolor="#BE2A29"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>C.A.L.</strong><br>
+                                12, rue du G<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></font>n<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></font>ral Mouilin, 60600.<br>
+                                Tel : +33 3 44 50 06 68</font><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><br>
                                 </font></p></td>
-                              <td><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>F</em></strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em>&Ecirc;</em></font><em><strong>T</strong></em><strong><em>E DU BEAUJOLAIS</em></strong><em><br>
+                              <td><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>WILD CARD <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em><strong><em><strong><strong>TO 3</strong></strong></em></strong></em></strong></font><em> ARTISTIC cOMPANIES:<br>
+                                </em></strong><em>La Compagnie Pr<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></font>fabriqu<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></font>e / 
+                                  Le Th<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;&acirc;</font></font>tre du Pressoir / M.A.M.<br>
+                                </em></font></strong></td>
+                            </tr>
+                            <tr bordercolor="#FFFFFF">
+                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+                            </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">January 25th 2020</font></td>
+                              <td height="26" align="center" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">7:00 pm</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CHAMBLY</font></td>
+                              <td height="26" bgcolor="#BE2A29"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>CR&Ecirc;PERIE DES HAUTS-VENTS</strong><br>
+                                Rue François Truffaut, 60250.<br>
+                                Tel : +33 1 39 37 97 50</font><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><br>
+                                </font></p></td>
+                              <td><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>Dinner-concert</em></strong><em><br>
                               </em></font></strong></td>
                             </tr>
                             <tr bordercolor="#FFFFFF">
@@ -93,17 +82,17 @@ Tel : +33 7 71 15 55 91</font><font color="#FFFFFF" size="1" face="Arial, Helvet
                             <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">December 17th 2019</font></td>
-                              <td height="26" align="center" bgcolor="#666666"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">7:30 pm</font></p></td>
-                              <td height="26"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CR&Egrave;VECOEUR-LE-GRAND</font></p></td>
-                              <td height="26" bgcolor="#666666"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>SALLE DES F&Ecirc;TES<br>
-                                </strong> 10, rue Gambetta, 60360.<strong><br>
-                                </strong>Tel : +33 3 44 48 18 61</font></p></td>
-                              <td>&nbsp;</td>
-                            </tr>
-                            <tr bordercolor="#FFFFFF">
-                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">February 1st 2020</font></td>
+                              <td height="26" align="center" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">8:30 pm</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">BORAN-SUR-OISE</font></td>
+                              <td height="26" bgcolor="#BE2A29"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>SALLE DES F&Ecirc;TES</strong><br>
+                                Rue François Truffaut, 60250.<br>
+                                Tel : +33 1 39 37 97 50</font><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><br>
+                                </font></p></td>
+                              <td><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>Irish and Celtic night<br>
+                                </em></strong></font></strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em>feats Xavier Desandre-Navarre (percussions) et B<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&eacute;</font></font>reng<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&egrave;</font></font>re Altieri (danse, animation, chant)</em><strong><em><br>
+                                </em></strong></font></td>
                             </tr>
                             <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
@@ -119,6 +108,77 @@ Tel : +33 7 71 15 55 91</font><font color="#FFFFFF" size="1" face="Arial, Helvet
                             </tr>
                             <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+                            </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">February 14th 2020</font></td>
+                              <td height="26" align="center" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">8:00 pm</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">L'ISLE-ADAM</font></td>
+                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>L'AFFICHE<br>
+                                13 bis, quai de l'Oise, 95290.<br>
+                                </strong>Tel : +33 1 34 69 01 92<br>
+                              </font></p></td>
+                              <td><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em>Valentine's day Special.<br>
+                              </em></font></strong></td>
+                            </tr>
+                            <tr bordercolor="#FFFFFF">
+                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+                            </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">28 février 2020</font></td>
+                              <td height="26" align="center" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">8:00 pm</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">COYE-LA-FOR&Ecirc;T</font></td>
+                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>L'&Eacute;TANG D'ART<br>
+                                Ch</strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&acirc;teau de la Reine Blanche</font></font><strong>, 60580.<br>
+                                  </strong>Tel : +33 1 44 57 21 39<br>
+                              </font></p></td>
+                              <td><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>Dinner-concert</em></strong><em><br>
+                              </em></font></strong></td>
+                            </tr>
+                            <tr bordercolor="#FFFFFF">
+                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+                            </tr>
+                            <tr bordercolor="#FFFFFF">
+                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+                            </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">March 14th 2020</font></td>
+                              <td height="26" align="center" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">8:00 pm</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">LOUVRES</font></td>
+                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>ESPACE CULTUREL BERNARD DAGUES<br>
+                                Rue du 8 Mai 1945, 95380.<br>
+                                </strong>Tel : +33 1 34 31 21 12<br>
+                              </font></p></td>
+                              <td><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em>Saint-Patrick Special<br>
+                              </em></font></strong></td>
+                            </tr>
+                            <tr bordercolor="#FFFFFF">
+                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+                            </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#BE2A29">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">March 17th 2020</font></td>
+                              <td height="26" align="center" bgcolor="#BE2A29"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">8:00 pm</font></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">L'ISLE-ADAM</font></td>
+                              <td height="26" bgcolor="#BE2A29"><p> <font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>L'AFFICHE<br>
+                                13 bis, quai de l'Oise, 95290.<br>
+                                </strong>Tel : +33 1 34 69 01 92<br>
+                              </font></p></td>
+                              <td><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em>Saint-Patrick</em><strong><em> Special</em></strong><em><br>
+                              </em></font></strong></td>
+                            </tr>
+                            <tr bordercolor="#FFFFFF">
+                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+                            </tr>
+                            <tr bordercolor="#FFFFFF">
+                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+                            </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">April 4th 2020</font></td>
+                              <td height="26" align="center" bgcolor="#666666"><p>&nbsp;</p></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CR&Egrave;VECOEUR-LE-GRAND</font></td>
+                              <td height="26" bgcolor="#666666"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LAVOIR-TH&Eacute;&Acirc;TRE<br>
+                                </strong> Rue des Petites Boucheries, 88000.<strong><br>
+                                </strong>Tel : +33 3 29 35 43 85</font></p></td>
+                              <td>&nbsp;</td>
                             </tr>
                             <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
@@ -157,16 +217,22 @@ rue Principale, 60850.<br>
                             <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
                             </tr>
-                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#6B4D87">
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">June 8th to 12th 2020</font></td>
-                              <td height="26" align="center" bgcolor="#6B4D87">&nbsp;</td>
-                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">VILLERSEXEL</font></td>
-                              <td height="26" bgcolor="#6B4D87"><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>LA BULLE<br>
-                                </strong> le Bourg, 70110.<strong><br>
-                                </strong>Tel : +33 3 84 75 36 37</font></p></td>
-                              <td><p><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong>&quot;Time Box&quot; + &quot;Paris Village&quot;<br>
-                                </strong></em>+  young audience shows during the day<br>
-                              </font></p></td>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Mi-juin  &agrave; mi-juillet 2020</font></td>
+                              <td height="26" align="center" bgcolor="#666666"><p>&nbsp;</p></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">CANADA</font></td>
+                              <td height="26" bgcolor="#666666"><p>&nbsp;</p></td>
+                              <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Tour.</font></td>
+                            </tr>
+                            <tr bordercolor="#FFFFFF">
+                              <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
+                            </tr>
+                            <tr align="left" valign="middle" bordercolor="#FFFFFF" bgcolor="#666666">
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">16, 17 ou 18 juillet 2020</font></td>
+                              <td height="26" align="center" bgcolor="#666666"><p>&nbsp;</p></td>
+                              <td height="26"><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">SELONCOURT</font></td>
+                              <td height="26" bgcolor="#666666"><p>&nbsp;</p></td>
+                              <td><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><em>&quot;LES 3 TEMPS DU SWING&quot; FESTIVAL </em></strong></font></td>
                             </tr>
                             <tr bordercolor="#FFFFFF">
                               <td height="20" colspan="5" align="left" valign="middle">&nbsp;</td>
@@ -182,7 +248,7 @@ rue Principale, 60850.<br>
                                 </strong>Chemin des Cordiers, 62600.<strong><br>
                                   </strong>Tel : +33 6 21 19 68 72<br>
                               </font></p></td>
-                              <td><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em>FESTIVAL &quot;ACCORD</em><strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&Eacute;</font></strong></font></strong></em></font></strong></em></strong><em> OPALE&quot;<br>
+                              <td><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em>&quot;ACCORD</em><strong><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><em><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">&Eacute;</font></strong></font></strong></em></font></strong></em></strong><em> OPALE&quot; FESTIVAL <br>
                               </em></font></strong></td>
                             </tr>
                             <table width="688" height="1048" dwcopytype="CopyTableRow">
